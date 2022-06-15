@@ -1,0 +1,4419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_Radius_A" for="edge" attr.name="Radius_A" attr.type="string"/>
+  <key id="e_Radius_B" for="edge" attr.name="Radius_B" attr.type="string"/>
+  <key id="e_overlap" for="edge" attr.name="overlap" attr.type="double"/>
+  <key id="e_r" for="edge" attr.name="r" attr.type="double"/>
+  <key id="e_r_wuchs" for="edge" attr.name="r_wuchs" attr.type="double"/>
+  <key id="e_t" for="edge" attr.name="t" attr.type="double"/>
+  <key id="e_t_wuchs" for="edge" attr.name="t_wuchs" attr.type="double"/>
+  <key id="e_SGC" for="edge" attr.name="SGC" attr.type="double"/>
+  <key id="e_SSGC" for="edge" attr.name="SSGC" attr.type="double"/>
+  <key id="e_p" for="edge" attr.name="p" attr.type="double"/>
+  <key id="e_p_GLK" for="edge" attr.name="p_GLK" attr.type="double"/>
+  <key id="e_sum_sims" for="edge" attr.name="sum_sims" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">068_Q1</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">068_Q2</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">068_Q3</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">195_Q1</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">1AH_Q1</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">1DH_Q1</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">1GDGem</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">1TN_Q1</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">202_Q1</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">388_Q1</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">563_Q1</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">585_Q1</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">585_Q2</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">587_Q1</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">600_Q1</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">ABC_Q1</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">ALC_Q1</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">ALC_Q3</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">ATTO_Q1</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">AZW_Q1</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">BAR_Q1</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">BECRAA</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">BECRKO</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">BECRWE</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">BGA_Q1</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">BHC_Q1</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">BJG_Q1</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">BOUX_Q1</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">BSN_Q1</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">C4A_Q1</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">C4CRH_Q1</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">C5A_Q1</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">CAO_Q1</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">COS_Q1</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">CUY_Q1</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">D2A_Q1</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">DAAH_Q1</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">DAMP_Q1</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">DEU_Q1</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">DIF_Q1</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">DIK_Q1</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">DMN1_Q1</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">DMN1_Q3</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">DMN4_Q1</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">ELT_Q1</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">EMP_Q1</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">F1B_Q1</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">FLEV1_Q1</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">FLEV1_Q2</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">FLEVO_Q1</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">FLOR_Q1</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">FLOR_Q2</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">GENP_Q1</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">HBW_Q1</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">HER_Q1</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">HOK_Q1</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">HOL_AAHO</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">HOL_GKZB</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">HOL_K9SA</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">HOL_KBMB</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">HOL_KMBQ</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">HOL_KORB</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">HOL_KORH</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">HOL_LKBB</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">HOL_LKSB</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">HOL_LKSH</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">HOL_MB253</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">HOL_MB259</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">HOL_MBRU</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">HOL_MBUF</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">HOL_MIWA</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">HOL_MRBR</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">HOL_PALZ</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">HOL_TATE</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">HOL_TITE</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">HOL_TMB11</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">HOL_TMB12</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">HOL_TMB21</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">HOL_TMB22</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">HOL_TRMB32</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">HOL_TRPB</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">HOL_TRRB</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">HOL_TRRS</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">HOL_TWML</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">HOL_WEDW</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">HORB1_Q1</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">HORB2_Q1</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">HORB3_Q1</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">HRW_Q1</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">IALP_Q1</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">IJS_Q1</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">ILLA_Q1</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">IWRD_Q1</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">LANG_Q1</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">LIW_Q1</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">LMH_Q1</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">LMH_Q2</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">LRC_Q1</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">MAIR_Q1</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">MAP_Q1</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">MAV_Q1</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">MEK_Q1</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">METZ_Q3</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">MMB_Q1</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">NEW_Q1</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">NOVY_Q1</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">NOVY_Q2</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">NWH_Q1</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">OFBG_Q1</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">OSH_Q1</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">OSND_Q1</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">POM3_Q1</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">POM4_Q1</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">RAT_Q1</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">SAND_Q1</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">SARR2_Q1</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">SARR2_Q2</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">SARR6_Q1</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">SAUL_Q1</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">SILL_Q1</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">SILL_Q2</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">SPR_Q1</data>
+    </node>
+    <node id="n122">
+      <data key="v_name">STF_Q1</data>
+    </node>
+    <node id="n123">
+      <data key="v_name">SWP_Q1</data>
+    </node>
+    <node id="n124">
+      <data key="v_name">TROY_Q1</data>
+    </node>
+    <node id="n125">
+      <data key="v_name">VALK_Q1</data>
+    </node>
+    <node id="n126">
+      <data key="v_name">VALK_Q2</data>
+    </node>
+    <node id="n127">
+      <data key="v_name">VDM2W_Q1</data>
+    </node>
+    <node id="n128">
+      <data key="v_name">VDML2_Q1</data>
+    </node>
+    <node id="n129">
+      <data key="v_name">VDMLR_Q1</data>
+    </node>
+    <node id="n130">
+      <data key="v_name">VDMLR_Q2</data>
+    </node>
+    <node id="n131">
+      <data key="v_name">VDMM_Q1</data>
+    </node>
+    <node id="n132">
+      <data key="v_name">VDMWL_Q1</data>
+    </node>
+    <node id="n133">
+      <data key="v_name">VDMWL_Q2</data>
+    </node>
+    <node id="n134">
+      <data key="v_name">VDMWL_Q3</data>
+    </node>
+    <node id="n135">
+      <data key="v_name">VEL_Q1</data>
+    </node>
+    <node id="n136">
+      <data key="v_name">VEL_Q2</data>
+    </node>
+    <node id="n137">
+      <data key="v_name">VEN_Q1</data>
+    </node>
+    <node id="n138">
+      <data key="v_name">VEND_Q1</data>
+    </node>
+    <node id="n139">
+      <data key="v_name">VEND_Q3</data>
+    </node>
+    <node id="n140">
+      <data key="v_name">VFH_Q1</data>
+    </node>
+    <node id="n141">
+      <data key="v_name">VFH_Q2</data>
+    </node>
+    <node id="n142">
+      <data key="v_name">VIGN_Q1</data>
+    </node>
+    <node id="n143">
+      <data key="v_name">VIGO_Q1</data>
+    </node>
+    <node id="n144">
+      <data key="v_name">VNW_Q1</data>
+    </node>
+    <node id="n145">
+      <data key="v_name">VOW_Q1</data>
+    </node>
+    <node id="n146">
+      <data key="v_name">VRIG_Q1</data>
+    </node>
+    <node id="n147">
+      <data key="v_name">VRW_Q1</data>
+    </node>
+    <node id="n148">
+      <data key="v_name">VZS_Q1</data>
+    </node>
+    <node id="n149">
+      <data key="v_name">WARC_Q1</data>
+    </node>
+    <node id="n150">
+      <data key="v_name">WOS7_Q1</data>
+    </node>
+    <node id="n151">
+      <data key="v_name">WOS7_Q2</data>
+    </node>
+    <node id="n152">
+      <data key="v_name">ZLF_Q1</data>
+    </node>
+    <node id="n153">
+      <data key="v_name">ZWS2_Q1</data>
+    </node>
+    <node id="n154">
+      <data key="v_name">ZWS4_Q1</data>
+    </node>
+    <node id="n155">
+      <data key="v_name">ZWS6_Q1</data>
+    </node>
+    <node id="n156">
+      <data key="v_name">ZWS6_Q2</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">215</data>
+      <data key="e_r">0.41856353</data>
+      <data key="e_r_wuchs">0.67146163</data>
+      <data key="e_t">6.74206204</data>
+      <data key="e_t_wuchs">13.22421041</data>
+      <data key="e_SGC">0.71962617</data>
+      <data key="e_SSGC">0.04205607</data>
+      <data key="e_p">1e-010</data>
+      <data key="e_sum_sims">2.713508841</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">192</data>
+      <data key="e_r">0.60144688</data>
+      <data key="e_r_wuchs">0.60534398</data>
+      <data key="e_t">10.40434118</data>
+      <data key="e_t_wuchs">10.48300049</data>
+      <data key="e_SGC">0.71727749</data>
+      <data key="e_SSGC">0.04188482</data>
+      <data key="e_p">1.9e-009</data>
+      <data key="e_sum_sims">2.370921519</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">51</data>
+      <data key="e_r">0.2155973</data>
+      <data key="e_r_wuchs">0.5909551</data>
+      <data key="e_t">1.56121935</data>
+      <data key="e_t_wuchs">5.12788256</data>
+      <data key="e_SGC">0.72</data>
+      <data key="e_SSGC">0.06</data>
+      <data key="e_p">0.0018628463</data>
+      <data key="e_sum_sims">1.823743356</data>
+    </edge>
+    <edge source="n0" target="n21">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">B</data>
+      <data key="e_overlap">165</data>
+      <data key="e_r">0.21661985</data>
+      <data key="e_r_wuchs">0.5909736</data>
+      <data key="e_t">2.84155753</data>
+      <data key="e_t_wuchs">9.35308166</data>
+      <data key="e_SGC">0.70731707</data>
+      <data key="e_SSGC">0.04878049</data>
+      <data key="e_p">1.097e-007</data>
+      <data key="e_sum_sims">2.233598836</data>
+    </edge>
+    <edge source="n0" target="n22">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">B</data>
+      <data key="e_overlap">142</data>
+      <data key="e_r">0.83286202</data>
+      <data key="e_r_wuchs">0.65375092</data>
+      <data key="e_t">17.86817318</data>
+      <data key="e_t_wuchs">10.22226112</data>
+      <data key="e_SGC">0.73049645</data>
+      <data key="e_SSGC">0.04964539</data>
+      <data key="e_p">4.4e-008</data>
+      <data key="e_sum_sims">2.406473482</data>
+    </edge>
+    <edge source="n0" target="n44">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">144</data>
+      <data key="e_r">0.80095974</data>
+      <data key="e_r_wuchs">0.76111487</data>
+      <data key="e_t">15.99765194</data>
+      <data key="e_t_wuchs">13.98318096</data>
+      <data key="e_SGC">0.74125874</data>
+      <data key="e_SSGC">0.05594406</data>
+      <data key="e_p">7.9e-009</data>
+      <data key="e_sum_sims">2.900691706</data>
+    </edge>
+    <edge source="n0" target="n68">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">100</data>
+      <data key="e_r">0.61454194</data>
+      <data key="e_r_wuchs">0.68156732</data>
+      <data key="e_t">7.75096718</data>
+      <data key="e_t_wuchs">9.22052924</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.04040404</data>
+      <data key="e_p">6.1064e-006</data>
+      <data key="e_sum_sims">2.330892974</data>
+    </edge>
+    <edge source="n0" target="n71">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">128</data>
+      <data key="e_r">0.34176759</data>
+      <data key="e_r_wuchs">0.59430931</data>
+      <data key="e_t">4.09830675</data>
+      <data key="e_t_wuchs">8.29495417</data>
+      <data key="e_SGC">0.71653543</data>
+      <data key="e_SSGC">0.06299213</data>
+      <data key="e_p">1.0584e-006</data>
+      <data key="e_sum_sims">2.140340157</data>
+    </edge>
+    <edge source="n0" target="n76">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">79</data>
+      <data key="e_r">0.60399064</data>
+      <data key="e_r_wuchs">0.72905702</data>
+      <data key="e_t">6.69304692</data>
+      <data key="e_t_wuchs">9.34680647</data>
+      <data key="e_SGC">0.71794872</data>
+      <data key="e_SSGC">0.03846154</data>
+      <data key="e_p">0.0001182423</data>
+      <data key="e_sum_sims">2.381686387</data>
+    </edge>
+    <edge source="n0" target="n77">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">69</data>
+      <data key="e_r">0.43886034</data>
+      <data key="e_r_wuchs">0.64962304</data>
+      <data key="e_t">4.0275041</data>
+      <data key="e_t_wuchs">6.99421043</data>
+      <data key="e_SGC">0.73529412</data>
+      <data key="e_SSGC">0.04411765</data>
+      <data key="e_p">0.0001042119</data>
+      <data key="e_sum_sims">2.084338203</data>
+    </edge>
+    <edge source="n0" target="n80">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">50</data>
+      <data key="e_r">0.42899449</data>
+      <data key="e_r_wuchs">0.51290066</data>
+      <data key="e_t">3.32440804</data>
+      <data key="e_t_wuchs">4.13942382</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.02040816</data>
+      <data key="e_p">0.0026997961</data>
+      <data key="e_sum_sims">1.641128752</data>
+    </edge>
+    <edge source="n0" target="n81">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">56</data>
+      <data key="e_r">0.56828345</data>
+      <data key="e_r_wuchs">0.72854807</data>
+      <data key="e_t">5.12194277</data>
+      <data key="e_t_wuchs">7.81570022</data>
+      <data key="e_SGC">0.8</data>
+      <data key="e_SSGC">0.03636364</data>
+      <data key="e_p">8.5983e-006</data>
+      <data key="e_sum_sims">2.310118092</data>
+    </edge>
+    <edge source="n0" target="n87">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">233</data>
+      <data key="e_r">0.18825694</data>
+      <data key="e_r_wuchs">0.58269451</data>
+      <data key="e_t">2.91964817</data>
+      <data key="e_t_wuchs">10.89736063</data>
+      <data key="e_SGC">0.70258621</data>
+      <data key="e_SSGC">0.0387931</data>
+      <data key="e_p">7e-010</data>
+      <data key="e_sum_sims">2.375016783</data>
+    </edge>
+    <edge source="n0" target="n93">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.60038118</data>
+      <data key="e_r_wuchs">0.52136787</data>
+      <data key="e_t">6.6727665</data>
+      <data key="e_t_wuchs">5.39601957</data>
+      <data key="e_SGC">0.7721519</data>
+      <data key="e_SSGC">0.03797468</data>
+      <data key="e_p">1.3123e-006</data>
+      <data key="e_sum_sims">1.833121727</data>
+    </edge>
+    <edge source="n0" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">233</data>
+      <data key="e_r">0.37708002</data>
+      <data key="e_r_wuchs">0.73510746</data>
+      <data key="e_t">6.2012865</data>
+      <data key="e_t_wuchs">16.48005911</data>
+      <data key="e_SGC">0.74568966</data>
+      <data key="e_SSGC">0.06896552</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">3.128803031</data>
+    </edge>
+    <edge source="n1" target="n44">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">144</data>
+      <data key="e_r">0.42096206</data>
+      <data key="e_r_wuchs">0.70991487</data>
+      <data key="e_t">5.54965798</data>
+      <data key="e_t_wuchs">12.011589</data>
+      <data key="e_SGC">0.71328671</data>
+      <data key="e_SSGC">0.08391608</data>
+      <data key="e_p">3.377e-007</data>
+      <data key="e_sum_sims">2.62436048</data>
+    </edge>
+    <edge source="n1" target="n76">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.63258717</data>
+      <data key="e_r_wuchs">0.68265556</data>
+      <data key="e_t">6.32674976</data>
+      <data key="e_t_wuchs">7.17570511</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">2.116892741</data>
+    </edge>
+    <edge source="n1" target="n77">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.42440326</data>
+      <data key="e_r_wuchs">0.59614652</data>
+      <data key="e_t">3.63060248</data>
+      <data key="e_t_wuchs">5.70335929</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.03333333</data>
+      <data key="e_p">0.0019457737</data>
+      <data key="e_sum_sims">1.866482449</data>
+    </edge>
+    <edge source="n2" target="n130">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">89</data>
+      <data key="e_r">0.3924021</data>
+      <data key="e_r_wuchs">0.62791099</data>
+      <data key="e_t">4.00204706</data>
+      <data key="e_t_wuchs">7.52521593</data>
+      <data key="e_SGC">0.76136364</data>
+      <data key="e_SSGC">0.04545455</data>
+      <data key="e_p">9.409e-007</data>
+      <data key="e_sum_sims">2.141796223</data>
+    </edge>
+    <edge source="n3" target="n47">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.46761493</data>
+      <data key="e_r_wuchs">0.56527424</data>
+      <data key="e_t">4.70200326</data>
+      <data key="e_t_wuchs">6.05206502</data>
+      <data key="e_SGC">0.73417722</data>
+      <data key="e_SSGC">0.03797468</data>
+      <data key="e_p">3.14334e-005</data>
+      <data key="e_sum_sims">1.904657962</data>
+    </edge>
+    <edge source="n3" target="n64">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">103</data>
+      <data key="e_r">0.47894704</data>
+      <data key="e_r_wuchs">0.61410161</data>
+      <data key="e_t">5.51023767</data>
+      <data key="e_t_wuchs">7.8198605</data>
+      <data key="e_SGC">0.70588235</data>
+      <data key="e_SSGC">0.04901961</data>
+      <data key="e_p">3.20176e-005</data>
+      <data key="e_sum_sims">2.10197001</data>
+    </edge>
+    <edge source="n3" target="n71">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">137</data>
+      <data key="e_r">0.20416377</data>
+      <data key="e_r_wuchs">0.67147353</data>
+      <data key="e_t">2.4321676</data>
+      <data key="e_t_wuchs">10.52836301</data>
+      <data key="e_SGC">0.71323529</data>
+      <data key="e_SSGC">0.06617647</data>
+      <data key="e_p">6.577e-007</data>
+      <data key="e_sum_sims">2.437545121</data>
+    </edge>
+    <edge source="n3" target="n81">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">227</data>
+      <data key="e_r">-0.01039256</data>
+      <data key="e_r_wuchs">0.65756644</data>
+      <data key="e_t">-0.15624286</data>
+      <data key="e_t_wuchs">13.09203822</data>
+      <data key="e_SGC">0.76548673</data>
+      <data key="e_SSGC">0.03982301</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.732256992</data>
+    </edge>
+    <edge source="n3" target="n99">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">121</data>
+      <data key="e_r">0.66434758</data>
+      <data key="e_r_wuchs">0.62074313</data>
+      <data key="e_t">9.73686333</data>
+      <data key="e_t_wuchs">8.63697329</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.06666667</data>
+      <data key="e_p">1.17713e-005</data>
+      <data key="e_sum_sims">2.184440459</data>
+    </edge>
+    <edge source="n3" target="n126">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">152</data>
+      <data key="e_r">0.54021587</data>
+      <data key="e_r_wuchs">0.58867499</data>
+      <data key="e_t">7.88838372</data>
+      <data key="e_t_wuchs">8.91889667</data>
+      <data key="e_SGC">0.72847682</data>
+      <data key="e_SSGC">0.04635762</data>
+      <data key="e_p">1.96e-008</data>
+      <data key="e_sum_sims">2.209041477</data>
+    </edge>
+    <edge source="n3" target="n141">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">169</data>
+      <data key="e_r">0.16942065</data>
+      <data key="e_r_wuchs">0.59790842</data>
+      <data key="e_t">2.22815316</data>
+      <data key="e_t_wuchs">9.6394993</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.04166667</data>
+      <data key="e_p">1.552e-007</data>
+      <data key="e_sum_sims">2.2642393</data>
+    </edge>
+    <edge source="n3" target="n143">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.36395037</data>
+      <data key="e_r_wuchs">0.56567239</data>
+      <data key="e_t">3.02672525</data>
+      <data key="e_t_wuchs">5.2690439</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">1.80924345</data>
+    </edge>
+    <edge source="n4" target="n34">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">83</data>
+      <data key="e_r">0.57722358</data>
+      <data key="e_r_wuchs">0.65532797</data>
+      <data key="e_t">6.40101701</data>
+      <data key="e_t_wuchs">7.80829422</data>
+      <data key="e_SGC">0.7195122</data>
+      <data key="e_SSGC">0.06097561</data>
+      <data key="e_p">7.02212e-005</data>
+      <data key="e_sum_sims">2.155669592</data>
+    </edge>
+    <edge source="n4" target="n52">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.54583729</data>
+      <data key="e_r_wuchs">0.61233354</data>
+      <data key="e_t">5.79014069</data>
+      <data key="e_t_wuchs">6.84035735</data>
+      <data key="e_SGC">0.74683544</data>
+      <data key="e_SSGC">0.03797468</data>
+      <data key="e_p">1.1448e-005</data>
+      <data key="e_sum_sims">2.043204715</data>
+    </edge>
+    <edge source="n5" target="n72">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.25305679</data>
+      <data key="e_r_wuchs">0.52796474</data>
+      <data key="e_t">2.20403257</data>
+      <data key="e_t_wuchs">5.20127786</data>
+      <data key="e_SGC">0.74647887</data>
+      <data key="e_SSGC">0.02816901</data>
+      <data key="e_p">3.27091e-005</data>
+      <data key="e_sum_sims">1.794571396</data>
+    </edge>
+    <edge source="n6" target="n147">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">167</data>
+      <data key="e_r">0.31385879</data>
+      <data key="e_r_wuchs">0.54951644</data>
+      <data key="e_t">4.25899604</data>
+      <data key="e_t_wuchs">8.44860666</data>
+      <data key="e_SGC">0.70481928</data>
+      <data key="e_SSGC">0.04216867</data>
+      <data key="e_p">1.307e-007</data>
+      <data key="e_sum_sims">2.099196386</data>
+    </edge>
+    <edge source="n7" target="n71">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.28446823</data>
+      <data key="e_r_wuchs">0.61018063</data>
+      <data key="e_t">3.47310493</data>
+      <data key="e_t_wuchs">8.98170668</data>
+      <data key="e_SGC">0.71532847</data>
+      <data key="e_SSGC">0.05839416</data>
+      <data key="e_p">4.638e-007</data>
+      <data key="e_sum_sims">2.223679768</data>
+    </edge>
+    <edge source="n7" target="n75">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">95</data>
+      <data key="e_r">0.51969141</data>
+      <data key="e_r_wuchs">0.57315374</data>
+      <data key="e_t">5.89754929</data>
+      <data key="e_t_wuchs">6.74514493</data>
+      <data key="e_SGC">0.71276596</data>
+      <data key="e_SSGC">0.03191489</data>
+      <data key="e_p">3.69633e-005</data>
+      <data key="e_sum_sims">1.960434193</data>
+    </edge>
+    <edge source="n7" target="n80">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.26944184</data>
+      <data key="e_r_wuchs">0.50563954</data>
+      <data key="e_t">2.2901748</data>
+      <data key="e_t_wuchs">4.76135569</data>
+      <data key="e_SGC">0.70149254</data>
+      <data key="e_SSGC">0.04477612</data>
+      <data key="e_p">0.0009717692</data>
+      <data key="e_sum_sims">1.683267649</data>
+    </edge>
+    <edge source="n7" target="n81">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">111</data>
+      <data key="e_r">0.49828446</data>
+      <data key="e_r_wuchs">0.62158785</data>
+      <data key="e_t">6.02764652</data>
+      <data key="e_t_wuchs">8.28443674</data>
+      <data key="e_SGC">0.73636364</data>
+      <data key="e_SSGC">0.05454545</data>
+      <data key="e_p">7.122e-007</data>
+      <data key="e_sum_sims">2.186395164</data>
+    </edge>
+    <edge source="n7" target="n99">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">56</data>
+      <data key="e_r">0.60053875</data>
+      <data key="e_r_wuchs">0.60292062</data>
+      <data key="e_t">5.56995839</data>
+      <data key="e_t_wuchs">5.55344331</data>
+      <data key="e_SGC">0.70909091</data>
+      <data key="e_SSGC">0.01818182</data>
+      <data key="e_p">0.0019266038</data>
+      <data key="e_sum_sims">1.867355861</data>
+    </edge>
+    <edge source="n7" target="n120">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">159</data>
+      <data key="e_r">0.39246405</data>
+      <data key="e_r_wuchs">0.55734511</data>
+      <data key="e_t">5.36352656</data>
+      <data key="e_t_wuchs">8.41102559</data>
+      <data key="e_SGC">0.72151899</data>
+      <data key="e_SSGC">0.01265823</data>
+      <data key="e_p">2.56e-008</data>
+      <data key="e_sum_sims">2.119966659</data>
+    </edge>
+    <edge source="n7" target="n126">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">207</data>
+      <data key="e_r">0.34013543</data>
+      <data key="e_r_wuchs">0.62454454</data>
+      <data key="e_t">5.19139088</data>
+      <data key="e_t_wuchs">11.44973195</data>
+      <data key="e_SGC">0.73300971</data>
+      <data key="e_SSGC">0.05825243</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.502527445</data>
+    </edge>
+    <edge source="n7" target="n127">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">255</data>
+      <data key="e_r">0.57100345</data>
+      <data key="e_r_wuchs">0.5708097</data>
+      <data key="e_t">11.08511283</data>
+      <data key="e_t_wuchs">11.05770173</data>
+      <data key="e_SGC">0.70472441</data>
+      <data key="e_SSGC">0.06299213</data>
+      <data key="e_p">1e-010</data>
+      <data key="e_sum_sims">2.381304283</data>
+    </edge>
+    <edge source="n7" target="n137">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">180</data>
+      <data key="e_r">0.6947204</data>
+      <data key="e_r_wuchs">0.7228504</data>
+      <data key="e_t">12.92226523</data>
+      <data key="e_t_wuchs">13.95653204</data>
+      <data key="e_SGC">0.75418994</data>
+      <data key="e_SSGC">0.06145251</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.872693544</data>
+    </edge>
+    <edge source="n7" target="n144">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">227</data>
+      <data key="e_r">0.62363921</data>
+      <data key="e_r_wuchs">0.64119182</data>
+      <data key="e_t">11.99335486</data>
+      <data key="e_t_wuchs">12.53338546</data>
+      <data key="e_SGC">0.72566372</data>
+      <data key="e_SSGC">0.04867257</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.620194086</data>
+    </edge>
+    <edge source="n8" target="n61">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">188</data>
+      <data key="e_r">0.34731964</data>
+      <data key="e_r_wuchs">0.73786133</data>
+      <data key="e_t">5.06482621</data>
+      <data key="e_t_wuchs">14.90932975</data>
+      <data key="e_SGC">0.7540107</data>
+      <data key="e_SSGC">0.02673797</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.982805005</data>
+    </edge>
+    <edge source="n8" target="n66">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">150</data>
+      <data key="e_r">0.39793443</data>
+      <data key="e_r_wuchs">0.66066125</data>
+      <data key="e_t">5.29467561</data>
+      <data key="e_t_wuchs">10.70662131</data>
+      <data key="e_SGC">0.75167785</data>
+      <data key="e_SSGC">0.03355705</data>
+      <data key="e_p">8e-010</data>
+      <data key="e_sum_sims">2.483001231</data>
+    </edge>
+    <edge source="n8" target="n73">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">183</data>
+      <data key="e_r">0.3146548</data>
+      <data key="e_r_wuchs">0.66169771</data>
+      <data key="e_t">4.47207938</data>
+      <data key="e_t_wuchs">11.87327269</data>
+      <data key="e_SGC">0.73626374</data>
+      <data key="e_SSGC">0.02197802</data>
+      <data key="e_p">2e-010</data>
+      <data key="e_sum_sims">2.585288719</data>
+    </edge>
+    <edge source="n8" target="n76">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">142</data>
+      <data key="e_r">0.31242277</data>
+      <data key="e_r_wuchs">0.68373816</data>
+      <data key="e_t">3.90530184</data>
+      <data key="e_t_wuchs">11.08646689</data>
+      <data key="e_SGC">0.70921986</data>
+      <data key="e_SSGC">0.07092199</data>
+      <data key="e_p">6.74e-007</data>
+      <data key="e_sum_sims">2.501604709</data>
+    </edge>
+    <edge source="n8" target="n79">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">133</data>
+      <data key="e_r">0.45697469</data>
+      <data key="e_r_wuchs">0.57705577</data>
+      <data key="e_t">5.9025962</data>
+      <data key="e_t_wuchs">8.08701703</data>
+      <data key="e_SGC">0.74242424</data>
+      <data key="e_SSGC">0.03030303</data>
+      <data key="e_p">2.54e-008</data>
+      <data key="e_sum_sims">2.128181713</data>
+    </edge>
+    <edge source="n8" target="n102">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.59959361</data>
+      <data key="e_r_wuchs">0.68050625</data>
+      <data key="e_t">6.44491999</data>
+      <data key="e_t_wuchs">7.93491536</data>
+      <data key="e_SGC">0.74324324</data>
+      <data key="e_SSGC">0.04054054</data>
+      <data key="e_p">2.85273e-005</data>
+      <data key="e_sum_sims">2.217241026</data>
+    </edge>
+    <edge source="n8" target="n122">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">93</data>
+      <data key="e_r">0.42561765</data>
+      <data key="e_r_wuchs">0.54443959</data>
+      <data key="e_t">4.5114014</data>
+      <data key="e_t_wuchs">6.19172899</data>
+      <data key="e_SGC">0.7173913</data>
+      <data key="e_SSGC">0.07608696</data>
+      <data key="e_p">3.04215e-005</data>
+      <data key="e_sum_sims">1.881003789</data>
+    </edge>
+    <edge source="n8" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">101</data>
+      <data key="e_r">0.57800626</data>
+      <data key="e_r_wuchs">0.6286828</data>
+      <data key="e_t">7.08312938</data>
+      <data key="e_t_wuchs">8.04374671</data>
+      <data key="e_SGC">0.71</data>
+      <data key="e_SSGC">0.04</data>
+      <data key="e_p">2.66915e-005</data>
+      <data key="e_sum_sims">2.143057471</data>
+    </edge>
+    <edge source="n9" target="n12">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">54</data>
+      <data key="e_r">0.60225165</data>
+      <data key="e_r_wuchs">0.70291963</data>
+      <data key="e_t">5.49220037</data>
+      <data key="e_t_wuchs">7.12645086</data>
+      <data key="e_SGC">0.71698113</data>
+      <data key="e_SSGC">0.05660377</data>
+      <data key="e_p">0.0015815242</data>
+      <data key="e_sum_sims">2.132545846</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">66</data>
+      <data key="e_r">0.32084707</data>
+      <data key="e_r_wuchs">0.63896528</data>
+      <data key="e_t">2.73114463</data>
+      <data key="e_t_wuchs">6.6451973</data>
+      <data key="e_SGC">0.76923077</data>
+      <data key="e_SSGC">0.01538462</data>
+      <data key="e_p">1.41697e-005</data>
+      <data key="e_sum_sims">2.07271578</data>
+    </edge>
+    <edge source="n9" target="n101">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">99</data>
+      <data key="e_r">0.24807902</data>
+      <data key="e_r_wuchs">0.50735622</data>
+      <data key="e_t">2.53510489</data>
+      <data key="e_t_wuchs">5.79861673</data>
+      <data key="e_SGC">0.70408163</data>
+      <data key="e_SSGC">0.04081633</data>
+      <data key="e_p">5.33123e-005</data>
+      <data key="e_sum_sims">1.791299523</data>
+    </edge>
+    <edge source="n9" target="n106">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">62</data>
+      <data key="e_r">0.4872698</data>
+      <data key="e_r_wuchs">0.55046578</data>
+      <data key="e_t">4.35807888</data>
+      <data key="e_t_wuchs">5.1073248</data>
+      <data key="e_SGC">0.70491803</data>
+      <data key="e_SSGC">0.03278689</data>
+      <data key="e_p">0.0013698861</data>
+      <data key="e_sum_sims">1.76611629</data>
+    </edge>
+    <edge source="n10" target="n13">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">309</data>
+      <data key="e_r">0.38702023</data>
+      <data key="e_r_wuchs">0.6759113</data>
+      <data key="e_t">7.36621787</data>
+      <data key="e_t_wuchs">16.06946571</data>
+      <data key="e_SGC">0.72402597</data>
+      <data key="e_SSGC">0.04545455</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">3.006883841</data>
+    </edge>
+    <edge source="n10" target="n76">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">170</data>
+      <data key="e_r">0.23789518</data>
+      <data key="e_r_wuchs">0.62543151</data>
+      <data key="e_t">3.18404872</data>
+      <data key="e_t_wuchs">10.38925583</data>
+      <data key="e_SGC">0.71005917</data>
+      <data key="e_SSGC">0.07692308</data>
+      <data key="e_p">4.72e-008</data>
+      <data key="e_sum_sims">2.374416263</data>
+    </edge>
+    <edge source="n10" target="n84">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">182</data>
+      <data key="e_r">0.4279446</data>
+      <data key="e_r_wuchs">0.53442847</data>
+      <data key="e_t">6.37018599</data>
+      <data key="e_t_wuchs">8.48319222</data>
+      <data key="e_SGC">0.70718232</data>
+      <data key="e_SSGC">0.02209945</data>
+      <data key="e_p">2.48e-008</data>
+      <data key="e_sum_sims">2.089930012</data>
+    </edge>
+    <edge source="n10" target="n146">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">96</data>
+      <data key="e_r">0.48720121</data>
+      <data key="e_r_wuchs">0.54738677</data>
+      <data key="e_t">5.43765684</data>
+      <data key="e_t_wuchs">6.34154615</data>
+      <data key="e_SGC">0.70526316</data>
+      <data key="e_SSGC">0.05263158</data>
+      <data key="e_p">6.29913e-005</data>
+      <data key="e_sum_sims">1.886804545</data>
+    </edge>
+    <edge source="n10" target="n155">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">319</data>
+      <data key="e_r">0.56511568</data>
+      <data key="e_r_wuchs">0.60529695</data>
+      <data key="e_t">12.21492561</data>
+      <data key="e_t_wuchs">13.53895617</data>
+      <data key="e_SGC">0.70125786</data>
+      <data key="e_SSGC">0.04402516</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.660450427</data>
+    </edge>
+    <edge source="n11" target="n30">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">70</data>
+      <data key="e_r">0.60468602</data>
+      <data key="e_r_wuchs">0.65385286</data>
+      <data key="e_t">6.30649939</data>
+      <data key="e_t_wuchs">7.12616166</data>
+      <data key="e_SGC">0.72463768</data>
+      <data key="e_SSGC">0.05797101</data>
+      <data key="e_p">0.0001899946</data>
+      <data key="e_sum_sims">2.091106706</data>
+    </edge>
+    <edge source="n12" target="n14">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">67</data>
+      <data key="e_r">0.61319045</data>
+      <data key="e_r_wuchs">0.60939539</data>
+      <data key="e_t">6.306319</data>
+      <data key="e_t_wuchs">6.19663306</data>
+      <data key="e_SGC">0.71212121</data>
+      <data key="e_SSGC">0.04545455</data>
+      <data key="e_p">0.0005677688</data>
+      <data key="e_sum_sims">1.941179906</data>
+    </edge>
+    <edge source="n12" target="n106">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">67</data>
+      <data key="e_r">0.37153536</data>
+      <data key="e_r_wuchs">0.58791492</data>
+      <data key="e_t">3.25108404</data>
+      <data key="e_t_wuchs">5.85954779</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.01515152</data>
+      <data key="e_p">0.0002218467</data>
+      <data key="e_sum_sims">1.901142429</data>
+    </edge>
+    <edge source="n13" target="n62">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.50563261</data>
+      <data key="e_r_wuchs">0.54119604</data>
+      <data key="e_t">5.37143481</data>
+      <data key="e_t_wuchs">5.86342174</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.01190476</data>
+      <data key="e_p">0.0002075016</data>
+      <data key="e_sum_sims">1.829919164</data>
+    </edge>
+    <edge source="n13" target="n74">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">53</data>
+      <data key="e_r">0.47559678</data>
+      <data key="e_r_wuchs">0.58954205</data>
+      <data key="e_t">3.89873802</data>
+      <data key="e_t_wuchs">5.21230151</data>
+      <data key="e_SGC">0.71153846</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0022819373</data>
+      <data key="e_sum_sims">1.822310661</data>
+    </edge>
+    <edge source="n14" target="n101">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">104</data>
+      <data key="e_r">0.38496865</data>
+      <data key="e_r_wuchs">0.62911109</data>
+      <data key="e_t">4.23326426</data>
+      <data key="e_t_wuchs">8.17391577</data>
+      <data key="e_SGC">0.72815534</data>
+      <data key="e_SSGC">0.05825243</data>
+      <data key="e_p">3.6382e-006</data>
+      <data key="e_sum_sims">2.174658007</data>
+    </edge>
+    <edge source="n14" target="n106">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.64591669</data>
+      <data key="e_r_wuchs">0.69847512</data>
+      <data key="e_t">7.75460164</data>
+      <data key="e_t_wuchs">8.89198704</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.04761905</data>
+      <data key="e_p">0.0002075016</data>
+      <data key="e_sum_sims">2.290054774</data>
+    </edge>
+    <edge source="n15" target="n39">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">333</data>
+      <data key="e_r">0.5967543</data>
+      <data key="e_r_wuchs">0.6293887</data>
+      <data key="e_t">13.55066723</data>
+      <data key="e_t_wuchs">14.7353773</data>
+      <data key="e_SGC">0.72891566</data>
+      <data key="e_SSGC">0.06626506</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.83184209</data>
+    </edge>
+    <edge source="n16" target="n31">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">265</data>
+      <data key="e_r">0.36947394</data>
+      <data key="e_r_wuchs">0.5484216</data>
+      <data key="e_t">6.46036962</data>
+      <data key="e_t_wuchs">10.63607112</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.03030303</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.339301442</data>
+    </edge>
+    <edge source="n16" target="n131">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">177</data>
+      <data key="e_r">0.50784928</data>
+      <data key="e_r_wuchs">0.57220863</data>
+      <data key="e_t">7.82101554</data>
+      <data key="e_t_wuchs">9.23001346</data>
+      <data key="e_SGC">0.71022727</data>
+      <data key="e_SSGC">0.03977273</data>
+      <data key="e_p">2.43e-008</data>
+      <data key="e_sum_sims">2.205437246</data>
+    </edge>
+    <edge source="n16" target="n136">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">117</data>
+      <data key="e_r">0.48808589</data>
+      <data key="e_r_wuchs">0.71384824</data>
+      <data key="e_t">6.02299764</data>
+      <data key="e_t_wuchs">10.93126482</data>
+      <data key="e_SGC">0.78448276</data>
+      <data key="e_SSGC">0.03448276</data>
+      <data key="e_p">9e-010</data>
+      <data key="e_sum_sims">2.591457482</data>
+    </edge>
+    <edge source="n16" target="n145">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">78</data>
+      <data key="e_r">0.49580645</data>
+      <data key="e_r_wuchs">0.53475893</data>
+      <data key="e_t">5.00980929</data>
+      <data key="e_t_wuchs">5.51703499</data>
+      <data key="e_SGC">0.75324675</data>
+      <data key="e_SSGC">0.01298701</data>
+      <data key="e_p">8.8112e-006</data>
+      <data key="e_sum_sims">1.839709179</data>
+    </edge>
+    <edge source="n17" target="n113">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.47964833</data>
+      <data key="e_r_wuchs">0.57341889</data>
+      <data key="e_t">4.60600479</data>
+      <data key="e_t_wuchs">5.85595895</data>
+      <data key="e_SGC">0.73239437</data>
+      <data key="e_SSGC">0.05633803</data>
+      <data key="e_p">8.98887e-005</data>
+      <data key="e_sum_sims">1.891409155</data>
+    </edge>
+    <edge source="n17" target="n151">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.62836597</data>
+      <data key="e_r_wuchs">0.6259067</data>
+      <data key="e_t">6.80625293</data>
+      <data key="e_t_wuchs">6.71461077</data>
+      <data key="e_SGC">0.71830986</data>
+      <data key="e_SSGC">0.05633803</data>
+      <data key="e_p">0.000234129</data>
+      <data key="e_sum_sims">2.015677637</data>
+    </edge>
+    <edge source="n17" target="n156">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.43841042</data>
+      <data key="e_r_wuchs">0.52730542</data>
+      <data key="e_t">4.11016363</data>
+      <data key="e_t_wuchs">5.19227877</data>
+      <data key="e_SGC">0.76056338</data>
+      <data key="e_SSGC">0.04225352</data>
+      <data key="e_p">1.12783e-005</data>
+      <data key="e_sum_sims">1.807096677</data>
+    </edge>
+    <edge source="n18" target="n76">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">83</data>
+      <data key="e_r">0.69342693</data>
+      <data key="e_r_wuchs">0.69588628</data>
+      <data key="e_t">8.71479947</data>
+      <data key="e_t_wuchs">8.72096243</data>
+      <data key="e_SGC">0.76829268</data>
+      <data key="e_SSGC">0.02439024</data>
+      <data key="e_p">1.1799e-006</data>
+      <data key="e_sum_sims">2.336275203</data>
+    </edge>
+    <edge source="n19" target="n88">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">76</data>
+      <data key="e_r">0.72277943</data>
+      <data key="e_r_wuchs">0.5806525</data>
+      <data key="e_t">9.05751063</data>
+      <data key="e_t_wuchs">6.13517462</data>
+      <data key="e_SGC">0.74666667</data>
+      <data key="e_SSGC">0.01333333</data>
+      <data key="e_p">1.93387e-005</data>
+      <data key="e_sum_sims">1.940836632</data>
+    </edge>
+    <edge source="n20" target="n25">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">168</data>
+      <data key="e_r">0.13008223</data>
+      <data key="e_r_wuchs">0.63909261</data>
+      <data key="e_t">1.69543865</data>
+      <data key="e_t_wuchs">10.70577727</data>
+      <data key="e_SGC">0.70658683</data>
+      <data key="e_SSGC">0.01197605</data>
+      <data key="e_p">9.33e-008</data>
+      <data key="e_sum_sims">2.416257167</data>
+    </edge>
+    <edge source="n20" target="n26">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">242</data>
+      <data key="e_r">0.31612008</data>
+      <data key="e_r_wuchs">0.506966</data>
+      <data key="e_t">5.17276699</data>
+      <data key="e_t_wuchs">9.1115926</data>
+      <data key="e_SGC">0.70539419</data>
+      <data key="e_SSGC">0.05394191</data>
+      <data key="e_p">2e-010</data>
+      <data key="e_sum_sims">2.12351945</data>
+    </edge>
+    <edge source="n20" target="n94">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">-0.46690852</data>
+      <data key="e_r_wuchs">0.53329683</data>
+      <data key="e_t">-3.87995151</data>
+      <data key="e_t_wuchs">4.58958529</data>
+      <data key="e_SGC">0.72222222</data>
+      <data key="e_SSGC">0.01851852</data>
+      <data key="e_p">0.0010908352</data>
+      <data key="e_sum_sims">1.714477579</data>
+    </edge>
+    <edge source="n21" target="n44">
+      <data key="e_Radius_A">B</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">105</data>
+      <data key="e_r">0.32969334</data>
+      <data key="e_r_wuchs">0.6150548</data>
+      <data key="e_t">3.56134729</data>
+      <data key="e_t_wuchs">7.91661154</data>
+      <data key="e_SGC">0.71153846</data>
+      <data key="e_SSGC">0.08653846</data>
+      <data key="e_p">1.59925e-005</data>
+      <data key="e_sum_sims">2.118254414</data>
+    </edge>
+    <edge source="n23" target="n140">
+      <data key="e_Radius_A">B</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">170</data>
+      <data key="e_r">0.34158907</data>
+      <data key="e_r_wuchs">0.53078439</data>
+      <data key="e_t">4.72486104</data>
+      <data key="e_t_wuchs">8.1176354</data>
+      <data key="e_SGC">0.72781065</data>
+      <data key="e_SSGC">0.04733728</data>
+      <data key="e_p">3.2e-009</data>
+      <data key="e_sum_sims">2.07035858</data>
+    </edge>
+    <edge source="n24" target="n123">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.45169195</data>
+      <data key="e_r_wuchs">0.59417168</data>
+      <data key="e_t">4.61245191</data>
+      <data key="e_t_wuchs">6.68929192</data>
+      <data key="e_SGC">0.71084337</data>
+      <data key="e_SSGC">0.04819277</data>
+      <data key="e_p">0.0001221607</data>
+      <data key="e_sum_sims">1.973944242</data>
+    </edge>
+    <edge source="n25" target="n46">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">115</data>
+      <data key="e_r">0.55403589</data>
+      <data key="e_r_wuchs">0.57128685</data>
+      <data key="e_t">7.10574877</data>
+      <data key="e_t_wuchs">7.39915805</data>
+      <data key="e_SGC">0.71052632</data>
+      <data key="e_SSGC">0.03508772</data>
+      <data key="e_p">6.937e-006</data>
+      <data key="e_sum_sims">2.021728975</data>
+    </edge>
+    <edge source="n25" target="n110">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">184</data>
+      <data key="e_r">0.37716209</data>
+      <data key="e_r_wuchs">0.54795774</data>
+      <data key="e_t">5.50900965</data>
+      <data key="e_t_wuchs">8.8371797</data>
+      <data key="e_SGC">0.7431694</data>
+      <data key="e_SSGC">0.03278689</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.17484511</data>
+    </edge>
+    <edge source="n27" target="n47">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.48224627</data>
+      <data key="e_r_wuchs">0.52373825</data>
+      <data key="e_t">4.89283555</data>
+      <data key="e_t_wuchs">5.4297965</data>
+      <data key="e_SGC">0.70886076</data>
+      <data key="e_SSGC">0.05063291</data>
+      <data key="e_p">0.0002049869</data>
+      <data key="e_sum_sims">1.77557866</data>
+    </edge>
+    <edge source="n27" target="n69">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">63</data>
+      <data key="e_r">0.30849022</data>
+      <data key="e_r_wuchs">0.58977737</data>
+      <data key="e_t">2.55359983</data>
+      <data key="e_t_wuchs">5.70394152</data>
+      <data key="e_SGC">0.74193548</data>
+      <data key="e_SSGC">0.03225806</data>
+      <data key="e_p">0.0001389647</data>
+      <data key="e_sum_sims">1.902107002</data>
+    </edge>
+    <edge source="n27" target="n80">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">67</data>
+      <data key="e_r">-0.13889773</data>
+      <data key="e_r_wuchs">0.51873618</data>
+      <data key="e_t">-1.13945553</data>
+      <data key="e_t_wuchs">4.89181974</data>
+      <data key="e_SGC">0.71212121</data>
+      <data key="e_SSGC">0.03030303</data>
+      <data key="e_p">0.0005677688</data>
+      <data key="e_sum_sims">1.720039364</data>
+    </edge>
+    <edge source="n27" target="n108">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">-0.26757936</data>
+      <data key="e_r_wuchs">0.53483866</data>
+      <data key="e_t">-2.04071159</data>
+      <data key="e_t_wuchs">4.60816007</data>
+      <data key="e_SGC">0.7037037</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0027550771</data>
+      <data key="e_sum_sims">1.699358367</data>
+    </edge>
+    <edge source="n27" target="n124">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">193</data>
+      <data key="e_r">0.23163127</data>
+      <data key="e_r_wuchs">0.50833188</data>
+      <data key="e_t">3.29930614</data>
+      <data key="e_t_wuchs">8.15792207</data>
+      <data key="e_SGC">0.72916667</data>
+      <data key="e_SSGC">0.03645833</data>
+      <data key="e_p">2e-010</data>
+      <data key="e_sum_sims">2.053290757</data>
+    </edge>
+    <edge source="n28" target="n80">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.58836233</data>
+      <data key="e_r_wuchs">0.52493266</data>
+      <data key="e_t">5.95593459</data>
+      <data key="e_t_wuchs">5.01040275</data>
+      <data key="e_SGC">0.74626866</data>
+      <data key="e_SSGC">0.04477612</data>
+      <data key="e_p">5.54004e-005</data>
+      <data key="e_sum_sims">1.772241595</data>
+    </edge>
+    <edge source="n29" target="n47">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.61543728</data>
+      <data key="e_r_wuchs">0.7519163</data>
+      <data key="e_t">6.39134939</data>
+      <data key="e_t_wuchs">9.26585864</data>
+      <data key="e_SGC">0.76119403</data>
+      <data key="e_SSGC">0.02985075</data>
+      <data key="e_p">1.90341e-005</data>
+      <data key="e_sum_sims">2.439696194</data>
+    </edge>
+    <edge source="n29" target="n59">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">301</data>
+      <data key="e_r">0.38452629</data>
+      <data key="e_r_wuchs">0.59985343</data>
+      <data key="e_t">7.21491648</data>
+      <data key="e_t_wuchs">12.96376332</data>
+      <data key="e_SGC">0.70666667</data>
+      <data key="e_SSGC">0.03</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.602896432</data>
+    </edge>
+    <edge source="n29" target="n69">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.3807134</data>
+      <data key="e_r_wuchs">0.76103648</data>
+      <data key="e_t">4.5661808</data>
+      <data key="e_t_wuchs">12.95792329</data>
+      <data key="e_SGC">0.80487805</data>
+      <data key="e_SSGC">0.03252033</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.861706859</data>
+    </edge>
+    <edge source="n29" target="n71">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.22625745</data>
+      <data key="e_r_wuchs">0.61619232</data>
+      <data key="e_t">2.71878016</data>
+      <data key="e_t_wuchs">9.12393918</data>
+      <data key="e_SGC">0.73722628</data>
+      <data key="e_SSGC">0.05109489</data>
+      <data key="e_p">2.8e-008</data>
+      <data key="e_sum_sims">2.265812518</data>
+    </edge>
+    <edge source="n29" target="n80">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.4145123</data>
+      <data key="e_r_wuchs">0.56666469</data>
+      <data key="e_t">3.7283148</data>
+      <data key="e_t_wuchs">5.58724937</data>
+      <data key="e_SGC">0.71641791</data>
+      <data key="e_SSGC">0.01492537</data>
+      <data key="e_p">0.0003957319</data>
+      <data key="e_sum_sims">1.841807537</data>
+    </edge>
+    <edge source="n29" target="n81">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.4855383</data>
+      <data key="e_r_wuchs">0.71402639</data>
+      <data key="e_t">4.77772235</data>
+      <data key="e_t_wuchs">8.71372718</data>
+      <data key="e_SGC">0.75675676</data>
+      <data key="e_SSGC">0.02702703</data>
+      <data key="e_p">9.9891e-006</data>
+      <data key="e_sum_sims">2.342155868</data>
+    </edge>
+    <edge source="n29" target="n103">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">106</data>
+      <data key="e_r">0.40405032</data>
+      <data key="e_r_wuchs">0.5356188</data>
+      <data key="e_t">4.52620239</data>
+      <data key="e_t_wuchs">6.46834913</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">1.12545e-005</data>
+      <data key="e_sum_sims">1.896739423</data>
+    </edge>
+    <edge source="n29" target="n120">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">123</data>
+      <data key="e_r">0.26738448</data>
+      <data key="e_r_wuchs">0.52136136</data>
+      <data key="e_t">3.06495335</data>
+      <data key="e_t_wuchs">6.72065273</data>
+      <data key="e_SGC">0.70491803</data>
+      <data key="e_SSGC">0.04098361</data>
+      <data key="e_p">5.9887e-006</data>
+      <data key="e_sum_sims">1.898344663</data>
+    </edge>
+    <edge source="n29" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">302</data>
+      <data key="e_r">0.58865499</data>
+      <data key="e_r_wuchs">0.63305889</data>
+      <data key="e_t">12.63357222</data>
+      <data key="e_t_wuchs">14.16464292</data>
+      <data key="e_SGC">0.73754153</data>
+      <data key="e_SSGC">0.03322259</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.787064712</data>
+    </edge>
+    <edge source="n29" target="n143">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">50</data>
+      <data key="e_r">0.64873147</data>
+      <data key="e_r_wuchs">0.71137013</data>
+      <data key="e_t">5.96717015</data>
+      <data key="e_t_wuchs">7.0125122</data>
+      <data key="e_SGC">0.73469388</data>
+      <data key="e_SSGC">0.02040816</data>
+      <data key="e_p">0.0010172414</data>
+      <data key="e_sum_sims">2.14731523</data>
+    </edge>
+    <edge source="n30" target="n97">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">133</data>
+      <data key="e_r">0.76050072</data>
+      <data key="e_r_wuchs">0.74888511</data>
+      <data key="e_t">13.45601243</data>
+      <data key="e_t_wuchs">12.93403318</data>
+      <data key="e_SGC">0.70454545</data>
+      <data key="e_SSGC">0.08333333</data>
+      <data key="e_p">2.6004e-006</data>
+      <data key="e_sum_sims">2.746833878</data>
+    </edge>
+    <edge source="n31" target="n121">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">224</data>
+      <data key="e_r">0.78229551</data>
+      <data key="e_r_wuchs">0.71771275</data>
+      <data key="e_t">18.75425073</data>
+      <data key="e_t_wuchs">15.35699501</data>
+      <data key="e_SGC">0.74439462</data>
+      <data key="e_SSGC">0.07174888</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.997806871</data>
+    </edge>
+    <edge source="n31" target="n133">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">159</data>
+      <data key="e_r">0.54992471</data>
+      <data key="e_r_wuchs">0.63173639</data>
+      <data key="e_t">8.27625557</data>
+      <data key="e_t_wuchs">10.21130661</data>
+      <data key="e_SGC">0.74683544</data>
+      <data key="e_SSGC">0.03797468</data>
+      <data key="e_p">5e-010</data>
+      <data key="e_sum_sims">2.399702491</data>
+    </edge>
+    <edge source="n31" target="n136">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">117</data>
+      <data key="e_r">0.66577832</data>
+      <data key="e_r_wuchs">0.67553246</data>
+      <data key="e_t">9.61020687</data>
+      <data key="e_t_wuchs">9.82501211</data>
+      <data key="e_SGC">0.70689655</data>
+      <data key="e_SSGC">0.03448276</data>
+      <data key="e_p">8.3236e-006</data>
+      <data key="e_sum_sims">2.364930221</data>
+    </edge>
+    <edge source="n31" target="n148">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">136</data>
+      <data key="e_r">0.62812566</data>
+      <data key="e_r_wuchs">0.65189927</data>
+      <data key="e_t">9.37932007</data>
+      <data key="e_t_wuchs">9.95150236</data>
+      <data key="e_SGC">0.74814815</data>
+      <data key="e_SSGC">0.05185185</data>
+      <data key="e_p">8.1e-009</data>
+      <data key="e_sum_sims">2.395197656</data>
+    </edge>
+    <edge source="n31" target="n151">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">220</data>
+      <data key="e_r">0.53519215</data>
+      <data key="e_r_wuchs">0.55435589</data>
+      <data key="e_t">9.37591571</data>
+      <data key="e_t_wuchs">9.83439394</data>
+      <data key="e_SGC">0.70776256</data>
+      <data key="e_SSGC">0.02739726</data>
+      <data key="e_p">8e-010</data>
+      <data key="e_sum_sims">2.245557844</data>
+    </edge>
+    <edge source="n32" target="n152">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">243</data>
+      <data key="e_r">0.42987188</data>
+      <data key="e_r_wuchs">0.56087022</data>
+      <data key="e_t">7.40648128</data>
+      <data key="e_t_wuchs">10.51698038</data>
+      <data key="e_SGC">0.71900826</data>
+      <data key="e_SSGC">0.0661157</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.331576518</data>
+    </edge>
+    <edge source="n33" target="n40">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.46512056</data>
+      <data key="e_r_wuchs">0.52308543</data>
+      <data key="e_t">4.4272095</data>
+      <data key="e_t_wuchs">5.13498542</data>
+      <data key="e_SGC">0.71830986</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.000234129</data>
+      <data key="e_sum_sims">1.754893832</data>
+    </edge>
+    <edge source="n34" target="n122">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">102</data>
+      <data key="e_r">0.32310623</data>
+      <data key="e_r_wuchs">0.57884208</data>
+      <data key="e_t">3.43121869</data>
+      <data key="e_t_wuchs">7.09852741</data>
+      <data key="e_SGC">0.71287129</data>
+      <data key="e_SSGC">0.04950495</data>
+      <data key="e_p">1.88022e-005</data>
+      <data key="e_sum_sims">2.001566111</data>
+    </edge>
+    <edge source="n35" target="n46">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">57</data>
+      <data key="e_r">0.07686322</data>
+      <data key="e_r_wuchs">0.50242001</data>
+      <data key="e_t">0.57689837</data>
+      <data key="e_t_wuchs">4.30944297</data>
+      <data key="e_SGC">0.75</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0001828106</data>
+      <data key="e_sum_sims">1.683364307</data>
+    </edge>
+    <edge source="n36" target="n51">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">77</data>
+      <data key="e_r">0.3564841</data>
+      <data key="e_r_wuchs">0.50196173</data>
+      <data key="e_t">3.32628886</data>
+      <data key="e_t_wuchs">5.02620784</data>
+      <data key="e_SGC">0.72368421</data>
+      <data key="e_SSGC">0.03947368</data>
+      <data key="e_p">9.61659e-005</data>
+      <data key="e_sum_sims">1.728266724</data>
+    </edge>
+    <edge source="n36" target="n112">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">50</data>
+      <data key="e_r">0.406666</data>
+      <data key="e_r_wuchs">0.60268753</data>
+      <data key="e_t">3.11595223</data>
+      <data key="e_t_wuchs">5.23265734</data>
+      <data key="e_SGC">0.7755102</data>
+      <data key="e_SSGC">0.02040816</data>
+      <data key="e_p">0.0001147201</data>
+      <data key="e_sum_sims">1.901463464</data>
+    </edge>
+    <edge source="n37" target="n120">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">188</data>
+      <data key="e_r">0.53953394</data>
+      <data key="e_r_wuchs">0.58199706</data>
+      <data key="e_t">8.76286503</data>
+      <data key="e_t_wuchs">9.76078515</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.02673797</data>
+      <data key="e_p">5e-010</data>
+      <data key="e_sum_sims">2.285348305</data>
+    </edge>
+    <edge source="n37" target="n138">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">220</data>
+      <data key="e_r">0.35641228</data>
+      <data key="e_r_wuchs">0.5355654</data>
+      <data key="e_t">5.64514342</data>
+      <data key="e_t_wuchs">9.36363154</data>
+      <data key="e_SGC">0.71689498</data>
+      <data key="e_SSGC">0.0456621</data>
+      <data key="e_p">1e-010</data>
+      <data key="e_sum_sims">2.188823534</data>
+    </edge>
+    <edge source="n38" target="n43">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">58</data>
+      <data key="e_r">0.4172962</data>
+      <data key="e_r_wuchs">0.59449182</data>
+      <data key="e_t">3.46679073</data>
+      <data key="e_t_wuchs">5.53259575</data>
+      <data key="e_SGC">0.75438596</data>
+      <data key="e_SSGC">0.03508772</data>
+      <data key="e_p">0.0001224623</data>
+      <data key="e_sum_sims">1.902137355</data>
+    </edge>
+    <edge source="n38" target="n45">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">101</data>
+      <data key="e_r">0.5035844</data>
+      <data key="e_r_wuchs">0.54965812</data>
+      <data key="e_t">5.82888729</data>
+      <data key="e_t_wuchs">6.54668031</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.09</data>
+      <data key="e_p">6.33425e-005</data>
+      <data key="e_sum_sims">1.904326151</data>
+    </edge>
+    <edge source="n38" target="n104">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">181</data>
+      <data key="e_r">0.45332434</data>
+      <data key="e_r_wuchs">0.57428363</data>
+      <data key="e_t">6.8233736</data>
+      <data key="e_t_wuchs">9.38536753</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.05555556</data>
+      <data key="e_p">8.03e-008</data>
+      <data key="e_sum_sims">2.212820383</data>
+    </edge>
+    <edge source="n38" target="n110">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">59</data>
+      <data key="e_r">0.32337483</data>
+      <data key="e_r_wuchs">0.65931398</data>
+      <data key="e_t">2.60258367</data>
+      <data key="e_t_wuchs">6.62046159</data>
+      <data key="e_SGC">0.70689655</data>
+      <data key="e_SSGC">0.01724138</data>
+      <data key="e_p">0.0016251517</data>
+      <data key="e_sum_sims">2.028256689</data>
+    </edge>
+    <edge source="n39" target="n135">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">109</data>
+      <data key="e_r">0.07422844</data>
+      <data key="e_r_wuchs">0.51391121</data>
+      <data key="e_t">0.77353859</data>
+      <data key="e_t_wuchs">6.19686422</data>
+      <data key="e_SGC">0.72222222</data>
+      <data key="e_SSGC">0.02777778</data>
+      <data key="e_p">3.8596e-006</data>
+      <data key="e_sum_sims">1.855819852</data>
+    </edge>
+    <edge source="n41" target="n101">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">186</data>
+      <data key="e_r">0.2646924</data>
+      <data key="e_r_wuchs">0.54730705</data>
+      <data key="e_t">3.73336414</data>
+      <data key="e_t_wuchs">8.87053542</data>
+      <data key="e_SGC">0.72432432</data>
+      <data key="e_SSGC">0.03243243</data>
+      <data key="e_p">1e-009</data>
+      <data key="e_sum_sims">2.158684912</data>
+    </edge>
+    <edge source="n41" target="n106">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.34445933</data>
+      <data key="e_r_wuchs">0.57747025</data>
+      <data key="e_t">3.36282242</data>
+      <data key="e_t_wuchs">6.44405785</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.03571429</data>
+      <data key="e_p">0.0002075016</data>
+      <data key="e_sum_sims">1.924256985</data>
+    </edge>
+    <edge source="n41" target="n112">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">95</data>
+      <data key="e_r">0.30055591</data>
+      <data key="e_r_wuchs">0.63293165</data>
+      <data key="e_t">3.05526001</data>
+      <data key="e_t_wuchs">7.88389466</data>
+      <data key="e_SGC">0.72340426</data>
+      <data key="e_SSGC">0.04255319</data>
+      <data key="e_p">1.47782e-005</data>
+      <data key="e_sum_sims">2.144725376</data>
+    </edge>
+    <edge source="n42" target="n62">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.3648641</data>
+      <data key="e_r_wuchs">0.56489182</data>
+      <data key="e_t">3.59163948</data>
+      <data key="e_t_wuchs">6.23682485</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.04761905</data>
+      <data key="e_p">0.0002075016</data>
+      <data key="e_sum_sims">1.890955255</data>
+    </edge>
+    <edge source="n42" target="n81">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">0.68680861</data>
+      <data key="e_r_wuchs">0.8407958</data>
+      <data key="e_t">6.94376162</data>
+      <data key="e_t_wuchs">11.30702612</data>
+      <data key="e_SGC">0.75925926</data>
+      <data key="e_SSGC">0.01851852</data>
+      <data key="e_p">0.0001387885</data>
+      <data key="e_sum_sims">2.730757672</data>
+    </edge>
+    <edge source="n42" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">216</data>
+      <data key="e_r">0.66113343</data>
+      <data key="e_r_wuchs">0.67505554</data>
+      <data key="e_t">12.92086901</data>
+      <data key="e_t_wuchs">13.38527265</data>
+      <data key="e_SGC">0.73023256</data>
+      <data key="e_SSGC">0.04651163</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.743815365</data>
+    </edge>
+    <edge source="n44" target="n59">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">144</data>
+      <data key="e_r">0.57837921</data>
+      <data key="e_r_wuchs">0.65341022</data>
+      <data key="e_t">8.47840217</data>
+      <data key="e_t_wuchs">10.28565387</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.06293706</data>
+      <data key="e_p">5.46e-008</data>
+      <data key="e_sum_sims">2.409248337</data>
+    </edge>
+    <edge source="n45" target="n46">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">115</data>
+      <data key="e_r">0.46950124</data>
+      <data key="e_r_wuchs">0.55461443</data>
+      <data key="e_t">5.67756348</data>
+      <data key="e_t_wuchs">7.08518126</data>
+      <data key="e_SGC">0.72807018</data>
+      <data key="e_SSGC">0.02631579</data>
+      <data key="e_p">1.1146e-006</data>
+      <data key="e_sum_sims">1.991202736</data>
+    </edge>
+    <edge source="n45" target="n49">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">63</data>
+      <data key="e_r">0.5375079</data>
+      <data key="e_r_wuchs">0.55481119</data>
+      <data key="e_t">5.01903072</data>
+      <data key="e_t_wuchs">5.20833823</data>
+      <data key="e_SGC">0.70967742</data>
+      <data key="e_SSGC">0.0483871</data>
+      <data key="e_p">0.0009599694</data>
+      <data key="e_sum_sims">1.785322433</data>
+    </edge>
+    <edge source="n45" target="n54">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">50</data>
+      <data key="e_r">0.12138754</data>
+      <data key="e_r_wuchs">0.51152774</data>
+      <data key="e_t">0.85604309</data>
+      <data key="e_t_wuchs">4.12440964</data>
+      <data key="e_SGC">0.7755102</data>
+      <data key="e_SSGC">0.02040816</data>
+      <data key="e_p">0.0001147201</data>
+      <data key="e_sum_sims">1.699478904</data>
+    </edge>
+    <edge source="n45" target="n100">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.45777102</data>
+      <data key="e_r_wuchs">0.6166996</data>
+      <data key="e_t">4.69084761</data>
+      <data key="e_t_wuchs">7.09408342</data>
+      <data key="e_SGC">0.72289157</data>
+      <data key="e_SSGC">0.03614458</data>
+      <data key="e_p">4.88049e-005</data>
+      <data key="e_sum_sims">2.048999512</data>
+    </edge>
+    <edge source="n45" target="n110">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">155</data>
+      <data key="e_r">0.34855683</data>
+      <data key="e_r_wuchs">0.62377271</data>
+      <data key="e_t">4.61488695</data>
+      <data key="e_t_wuchs">9.87152651</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.06493506</data>
+      <data key="e_p">1.047e-007</data>
+      <data key="e_sum_sims">2.325211071</data>
+    </edge>
+    <edge source="n46" target="n123">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">50</data>
+      <data key="e_r">0.68173785</data>
+      <data key="e_r_wuchs">0.60152944</data>
+      <data key="e_t">6.52294633</data>
+      <data key="e_t_wuchs">5.21689297</data>
+      <data key="e_SGC">0.7755102</data>
+      <data key="e_SSGC">0.02040816</data>
+      <data key="e_p">0.0001147201</data>
+      <data key="e_sum_sims">1.898728937</data>
+    </edge>
+    <edge source="n47" target="n69">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">63</data>
+      <data key="e_r">0.44438548</data>
+      <data key="e_r_wuchs">0.84765636</data>
+      <data key="e_t">3.90595603</data>
+      <data key="e_t_wuchs">12.47848853</data>
+      <data key="e_SGC">0.83870968</data>
+      <data key="e_SSGC">0.03225806</data>
+      <data key="e_p">9.61e-008</data>
+      <data key="e_sum_sims">2.934214893</data>
+    </edge>
+    <edge source="n47" target="n72">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.43160258</data>
+      <data key="e_r_wuchs">0.82987598</data>
+      <data key="e_t">4.25265636</data>
+      <data key="e_t_wuchs">13.13611242</data>
+      <data key="e_SGC">0.75949367</data>
+      <data key="e_SSGC">0.03797468</data>
+      <data key="e_p">3.9717e-006</data>
+      <data key="e_sum_sims">2.902980892</data>
+    </edge>
+    <edge source="n47" target="n108">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">0.20026534</data>
+      <data key="e_r_wuchs">0.52927659</data>
+      <data key="e_t">1.50207313</data>
+      <data key="e_t_wuchs">4.54145166</data>
+      <data key="e_SGC">0.75925926</data>
+      <data key="e_SSGC">0.01851852</data>
+      <data key="e_p">0.0001387885</data>
+      <data key="e_sum_sims">1.742681016</data>
+    </edge>
+    <edge source="n47" target="n109">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.41936356</data>
+      <data key="e_r_wuchs">0.57573332</data>
+      <data key="e_t">4.10587064</data>
+      <data key="e_t_wuchs">6.21881794</data>
+      <data key="e_SGC">0.73417722</data>
+      <data key="e_SSGC">0.02531646</data>
+      <data key="e_p">3.14334e-005</data>
+      <data key="e_sum_sims">1.931792334</data>
+    </edge>
+    <edge source="n47" target="n120">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.58280378</data>
+      <data key="e_r_wuchs">0.71194598</data>
+      <data key="e_t">6.37458892</data>
+      <data key="e_t_wuchs">8.95390228</data>
+      <data key="e_SGC">0.72151899</data>
+      <data key="e_SSGC">0.02531646</data>
+      <data key="e_p">8.22295e-005</data>
+      <data key="e_sum_sims">2.328855198</data>
+    </edge>
+    <edge source="n47" target="n124">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.52999216</data>
+      <data key="e_r_wuchs">0.73787483</data>
+      <data key="e_t">5.55502274</data>
+      <data key="e_t_wuchs">9.65531382</data>
+      <data key="e_SGC">0.70886076</data>
+      <data key="e_SSGC">0.05063291</data>
+      <data key="e_p">0.0002049869</data>
+      <data key="e_sum_sims">2.412266972</data>
+    </edge>
+    <edge source="n47" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">80</data>
+      <data key="e_r">0.2336062</data>
+      <data key="e_r_wuchs">0.68525077</data>
+      <data key="e_t">2.13542166</data>
+      <data key="e_t_wuchs">8.30964028</data>
+      <data key="e_SGC">0.70886076</data>
+      <data key="e_SSGC">0.02531646</data>
+      <data key="e_p">0.0002049869</data>
+      <data key="e_sum_sims">2.225075558</data>
+    </edge>
+    <edge source="n47" target="n143">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.72394278</data>
+      <data key="e_r_wuchs">0.77454568</data>
+      <data key="e_t">8.12865863</data>
+      <data key="e_t_wuchs">9.4058958</data>
+      <data key="e_SGC">0.8</data>
+      <data key="e_SSGC">0.05</data>
+      <data key="e_p">3.3585e-006</data>
+      <data key="e_sum_sims">2.51513526</data>
+    </edge>
+    <edge source="n48" target="n91">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">150</data>
+      <data key="e_r">0.63311285</data>
+      <data key="e_r_wuchs">0.59890601</data>
+      <data key="e_t">9.98389292</data>
+      <data key="e_t_wuchs">9.09818963</data>
+      <data key="e_SGC">0.73825503</data>
+      <data key="e_SSGC">0.0738255</data>
+      <data key="e_p">6e-009</data>
+      <data key="e_sum_sims">2.246980003</data>
+    </edge>
+    <edge source="n48" target="n142">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">63</data>
+      <data key="e_r">0.37588378</data>
+      <data key="e_r_wuchs">0.5341267</data>
+      <data key="e_t">3.19393317</data>
+      <data key="e_t_wuchs">4.93451734</data>
+      <data key="e_SGC">0.75806452</data>
+      <data key="e_SSGC">0.03225806</data>
+      <data key="e_p">4.8238e-005</data>
+      <data key="e_sum_sims">1.785642954</data>
+    </edge>
+    <edge source="n50" target="n89">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">133</data>
+      <data key="e_r">0.35202173</data>
+      <data key="e_r_wuchs">0.50033837</data>
+      <data key="e_t">4.32100112</data>
+      <data key="e_t_wuchs">6.61404041</data>
+      <data key="e_SGC">0.73484848</data>
+      <data key="e_SSGC">0.04545455</data>
+      <data key="e_p">6.8e-008</data>
+      <data key="e_sum_sims">1.896590891</data>
+    </edge>
+    <edge source="n51" target="n69">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">102</data>
+      <data key="e_r">0.47382468</data>
+      <data key="e_r_wuchs">0.62145415</data>
+      <data key="e_t">5.40742135</data>
+      <data key="e_t_wuchs">7.93227036</data>
+      <data key="e_SGC">0.72277228</data>
+      <data key="e_SSGC">0.02970297</data>
+      <data key="e_p">7.5463e-006</data>
+      <data key="e_sum_sims">2.137453466</data>
+    </edge>
+    <edge source="n51" target="n80">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.34620901</data>
+      <data key="e_r_wuchs">0.54671348</data>
+      <data key="e_t">3.02064759</data>
+      <data key="e_t_wuchs">5.30445061</data>
+      <data key="e_SGC">0.73134328</data>
+      <data key="e_SSGC">0.01492537</data>
+      <data key="e_p">0.0001523221</data>
+      <data key="e_sum_sims">1.808501821</data>
+    </edge>
+    <edge source="n51" target="n143">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.21627806</data>
+      <data key="e_r_wuchs">0.55282942</data>
+      <data key="e_t">1.71589476</data>
+      <data key="e_t_wuchs">5.09587384</data>
+      <data key="e_SGC">0.75</data>
+      <data key="e_SSGC">0.03333333</data>
+      <data key="e_p">0.0001075112</data>
+      <data key="e_sum_sims">1.812416804</data>
+    </edge>
+    <edge source="n53" target="n96">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">53</data>
+      <data key="e_r">0.29478421</data>
+      <data key="e_r_wuchs">0.54742406</data>
+      <data key="e_t">2.22457049</data>
+      <data key="e_t_wuchs">4.6715238</data>
+      <data key="e_SGC">0.71153846</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0022819373</data>
+      <data key="e_sum_sims">1.7261149</data>
+    </edge>
+    <edge source="n55" target="n111">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">147</data>
+      <data key="e_r">0.57907923</data>
+      <data key="e_r_wuchs">0.52315894</data>
+      <data key="e_t">8.5824696</data>
+      <data key="e_t_wuchs">7.39193638</data>
+      <data key="e_SGC">0.70547945</data>
+      <data key="e_SSGC">0.02054795</data>
+      <data key="e_p">6.848e-007</data>
+      <data key="e_sum_sims">1.967832028</data>
+    </edge>
+    <edge source="n55" target="n127">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">83</data>
+      <data key="e_r">0.3243698</data>
+      <data key="e_r_wuchs">0.53461187</data>
+      <data key="e_t">3.10519</data>
+      <data key="e_t_wuchs">5.69343254</data>
+      <data key="e_SGC">0.7195122</data>
+      <data key="e_SSGC">0.03658537</data>
+      <data key="e_p">7.02212e-005</data>
+      <data key="e_sum_sims">1.823467324</data>
+    </edge>
+    <edge source="n55" target="n130">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">83</data>
+      <data key="e_r">0.38484414</data>
+      <data key="e_r_wuchs">0.52907564</data>
+      <data key="e_t">3.77571125</data>
+      <data key="e_t_wuchs">5.61138685</data>
+      <data key="e_SGC">0.70731707</data>
+      <data key="e_SSGC">0.02439024</data>
+      <data key="e_p">0.0001735687</data>
+      <data key="e_sum_sims">1.797531395</data>
+    </edge>
+    <edge source="n55" target="n144">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">82</data>
+      <data key="e_r">0.61472548</data>
+      <data key="e_r_wuchs">0.59604213</data>
+      <data key="e_t">7.014379</data>
+      <data key="e_t_wuchs">6.63944438</data>
+      <data key="e_SGC">0.7037037</data>
+      <data key="e_SSGC">0.03703704</data>
+      <data key="e_p">0.0002457328</data>
+      <data key="e_sum_sims">1.963690268</data>
+    </edge>
+    <edge source="n56" target="n60">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">122</data>
+      <data key="e_r">0.32115421</data>
+      <data key="e_r_wuchs">0.5916217</data>
+      <data key="e_t">3.73030195</data>
+      <data key="e_t_wuchs">8.03865634</data>
+      <data key="e_SGC">0.75206612</data>
+      <data key="e_SSGC">0.0661157</data>
+      <data key="e_p">2.93e-008</data>
+      <data key="e_sum_sims">2.147553454</data>
+    </edge>
+    <edge source="n56" target="n81">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">101</data>
+      <data key="e_r">0.15842218</data>
+      <data key="e_r_wuchs">0.53383623</data>
+      <data key="e_t">1.60448405</data>
+      <data key="e_t_wuchs">6.28155102</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.04</data>
+      <data key="e_p">6.33425e-005</data>
+      <data key="e_sum_sims">1.861991332</data>
+    </edge>
+    <edge source="n56" target="n155">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">187</data>
+      <data key="e_r">0.42593547</data>
+      <data key="e_r_wuchs">0.60649226</data>
+      <data key="e_t">6.42051679</data>
+      <data key="e_t_wuchs">10.37516872</data>
+      <data key="e_SGC">0.7311828</data>
+      <data key="e_SSGC">0.03225806</data>
+      <data key="e_p">3e-010</data>
+      <data key="e_sum_sims">2.375191932</data>
+    </edge>
+    <edge source="n57" target="n62">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.01512635</data>
+      <data key="e_r_wuchs">0.53991249</data>
+      <data key="e_t">0.13013666</data>
+      <data key="e_t_wuchs">5.48045426</data>
+      <data key="e_SGC">0.75675676</data>
+      <data key="e_SSGC">0.01351351</data>
+      <data key="e_p">9.9891e-006</data>
+      <data key="e_sum_sims">1.844714676</data>
+    </edge>
+    <edge source="n58" target="n78">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">82</data>
+      <data key="e_r">0.28525405</data>
+      <data key="e_r_wuchs">0.51047949</data>
+      <data key="e_t">2.67857609</data>
+      <data key="e_t_wuchs">5.30982767</data>
+      <data key="e_SGC">0.71604938</data>
+      <data key="e_SSGC">0.03703704</data>
+      <data key="e_p">0.0001007042</data>
+      <data key="e_sum_sims">1.757511637</data>
+    </edge>
+    <edge source="n59" target="n69">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.72334628</data>
+      <data key="e_r_wuchs">0.63684986</data>
+      <data key="e_t">11.61834526</data>
+      <data key="e_t_wuchs">9.12366726</data>
+      <data key="e_SGC">0.72357724</data>
+      <data key="e_SSGC">0.02439024</data>
+      <data key="e_p">7.079e-007</data>
+      <data key="e_sum_sims">2.272793826</data>
+    </edge>
+    <edge source="n59" target="n81">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">87</data>
+      <data key="e_r">0.10765153</data>
+      <data key="e_r_wuchs">0.66912327</data>
+      <data key="e_t">1.0041547</data>
+      <data key="e_t_wuchs">8.30115022</data>
+      <data key="e_SGC">0.76744186</data>
+      <data key="e_SSGC">0.04651163</data>
+      <data key="e_p">7.038e-007</data>
+      <data key="e_sum_sims">2.266680152</data>
+    </edge>
+    <edge source="n59" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">313</data>
+      <data key="e_r">0.40948669</data>
+      <data key="e_r_wuchs">0.64786564</data>
+      <data key="e_t">7.92814809</data>
+      <data key="e_t_wuchs">14.99857635</data>
+      <data key="e_SGC">0.70192308</data>
+      <data key="e_SSGC">0.04166667</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.849646355</data>
+    </edge>
+    <edge source="n59" target="n143">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.43948951</data>
+      <data key="e_r_wuchs">0.62731437</data>
+      <data key="e_t">3.78990228</data>
+      <data key="e_t_wuchs">6.18734296</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.03333333</data>
+      <data key="e_p">0.0019457737</data>
+      <data key="e_sum_sims">1.946048666</data>
+    </edge>
+    <edge source="n61" target="n66">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">105</data>
+      <data key="e_r">0.59283562</data>
+      <data key="e_r_wuchs">0.61064645</data>
+      <data key="e_t">7.50724497</data>
+      <data key="e_t_wuchs">7.82593561</data>
+      <data key="e_SGC">0.70192308</data>
+      <data key="e_SSGC">0.02884615</data>
+      <data key="e_p">3.81448e-005</data>
+      <data key="e_sum_sims">2.095163091</data>
+    </edge>
+    <edge source="n62" target="n63">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.17696173</data>
+      <data key="e_r_wuchs">0.57718757</data>
+      <data key="e_t">1.6478885</data>
+      <data key="e_t_wuchs">6.43932685</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">8.5683e-005</data>
+      <data key="e_sum_sims">1.935405965</data>
+    </edge>
+    <edge source="n62" target="n150">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.32938441</data>
+      <data key="e_r_wuchs">0.54944783</data>
+      <data key="e_t">3.19727924</data>
+      <data key="e_t_wuchs">5.99107134</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">8.5683e-005</data>
+      <data key="e_sum_sims">1.862840674</data>
+    </edge>
+    <edge source="n62" target="n155">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.44861616</data>
+      <data key="e_r_wuchs">0.52542421</data>
+      <data key="e_t">4.60056189</data>
+      <data key="e_t_wuchs">5.62601667</data>
+      <data key="e_SGC">0.70238095</data>
+      <data key="e_SSGC">0.02380952</data>
+      <data key="e_p">0.0002075016</data>
+      <data key="e_sum_sims">1.790406827</data>
+    </edge>
+    <edge source="n63" target="n68">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">100</data>
+      <data key="e_r">0.64967054</data>
+      <data key="e_r_wuchs">0.68243278</data>
+      <data key="e_t">8.50303237</data>
+      <data key="e_t_wuchs">9.24243121</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0.02020202</data>
+      <data key="e_p">6.1064e-006</data>
+      <data key="e_sum_sims">2.333948631</data>
+    </edge>
+    <edge source="n63" target="n69">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">0.68913312</data>
+      <data key="e_r_wuchs">0.58586584</data>
+      <data key="e_t">6.9884495</data>
+      <data key="e_t_wuchs">5.26298772</data>
+      <data key="e_SGC">0.75925926</data>
+      <data key="e_SSGC">0.03703704</data>
+      <data key="e_p">0.0001387885</data>
+      <data key="e_sum_sims">1.871423872</data>
+    </edge>
+    <edge source="n63" target="n71">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">73</data>
+      <data key="e_r">0.68651544</data>
+      <data key="e_r_wuchs">0.64394581</data>
+      <data key="e_t">8.01149035</data>
+      <data key="e_t_wuchs">7.09213013</data>
+      <data key="e_SGC">0.73611111</data>
+      <data key="e_SSGC">0.05555556</data>
+      <data key="e_p">6.15109e-005</data>
+      <data key="e_sum_sims">2.089269933</data>
+    </edge>
+    <edge source="n64" target="n71">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">104</data>
+      <data key="e_r">0.41136567</data>
+      <data key="e_r_wuchs">0.63087496</data>
+      <data key="e_t">4.58040725</data>
+      <data key="e_t_wuchs">8.21194982</data>
+      <data key="e_SGC">0.73786408</data>
+      <data key="e_SSGC">0.05825243</data>
+      <data key="e_p">1.3783e-006</data>
+      <data key="e_sum_sims">2.189934022</data>
+    </edge>
+    <edge source="n65" target="n77">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">66</data>
+      <data key="e_r">0.37739504</data>
+      <data key="e_r_wuchs">0.50025538</data>
+      <data key="e_t">3.28561987</data>
+      <data key="e_t_wuchs">4.62194842</data>
+      <data key="e_SGC">0.72307692</data>
+      <data key="e_SSGC">0.03076923</data>
+      <data key="e_p">0.0003218994</data>
+      <data key="e_sum_sims">1.685527142</data>
+    </edge>
+    <edge source="n66" target="n79">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">71</data>
+      <data key="e_r">0.51783958</data>
+      <data key="e_r_wuchs">0.67564641</data>
+      <data key="e_t">5.06448799</data>
+      <data key="e_t_wuchs">7.61278339</data>
+      <data key="e_SGC">0.8</data>
+      <data key="e_SSGC">0.01428571</data>
+      <data key="e_p">5.168e-007</data>
+      <data key="e_sum_sims">2.236924749</data>
+    </edge>
+    <edge source="n66" target="n102">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.4251929</data>
+      <data key="e_r_wuchs">0.59246517</data>
+      <data key="e_t">4.04114078</data>
+      <data key="e_t_wuchs">6.28357668</data>
+      <data key="e_SGC">0.72972973</data>
+      <data key="e_SSGC">0.02702703</data>
+      <data key="e_p">7.73649e-005</data>
+      <data key="e_sum_sims">1.950552568</data>
+    </edge>
+    <edge source="n67" target="n70">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">53</data>
+      <data key="e_r">0.59094301</data>
+      <data key="e_r_wuchs">0.50924173</data>
+      <data key="e_t">5.28236074</data>
+      <data key="e_t_wuchs">4.22567273</data>
+      <data key="e_SGC">0.71153846</data>
+      <data key="e_SSGC">0.05769231</data>
+      <data key="e_p">0.0022819373</data>
+      <data key="e_sum_sims">1.643347463</data>
+    </edge>
+    <edge source="n67" target="n83">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">56</data>
+      <data key="e_r">0.02421461</data>
+      <data key="e_r_wuchs">0.51750348</data>
+      <data key="e_t">0.17963304</data>
+      <data key="e_t_wuchs">4.44424726</data>
+      <data key="e_SGC">0.74545455</data>
+      <data key="e_SSGC">0.01818182</data>
+      <data key="e_p">0.0002719197</data>
+      <data key="e_sum_sims">1.707382756</data>
+    </edge>
+    <edge source="n68" target="n69">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">55</data>
+      <data key="e_r">0.64029929</data>
+      <data key="e_r_wuchs">0.56777319</data>
+      <data key="e_t">6.12558681</data>
+      <data key="e_t_wuchs">5.02129057</data>
+      <data key="e_SGC">0.7037037</data>
+      <data key="e_SSGC">0.05555556</data>
+      <data key="e_p">0.0027550771</data>
+      <data key="e_sum_sims">1.773605947</data>
+    </edge>
+    <edge source="n68" target="n71">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">73</data>
+      <data key="e_r">0.77586171</data>
+      <data key="e_r_wuchs">0.8014528</data>
+      <data key="e_t">10.43489214</data>
+      <data key="e_t_wuchs">11.29181596</data>
+      <data key="e_SGC">0.76388889</data>
+      <data key="e_SSGC">0.08333333</data>
+      <data key="e_p">7.5225e-006</data>
+      <data key="e_sum_sims">2.694523286</data>
+    </edge>
+    <edge source="n68" target="n82">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">100</data>
+      <data key="e_r">0.46034865</data>
+      <data key="e_r_wuchs">0.58457335</data>
+      <data key="e_t">5.15964188</data>
+      <data key="e_t_wuchs">7.13261357</data>
+      <data key="e_SGC">0.70707071</data>
+      <data key="e_SSGC">0.05050505</data>
+      <data key="e_p">3.77797e-005</data>
+      <data key="e_sum_sims">2.004905417</data>
+    </edge>
+    <edge source="n68" target="n117">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">100</data>
+      <data key="e_r">0.38588955</data>
+      <data key="e_r_wuchs">0.59608241</data>
+      <data key="e_t">4.16191363</data>
+      <data key="e_t_wuchs">7.34928867</data>
+      <data key="e_SGC">0.71717172</data>
+      <data key="e_SSGC">0.1010101</data>
+      <data key="e_p">1.54858e-005</data>
+      <data key="e_sum_sims">2.048182997</data>
+    </edge>
+    <edge source="n68" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">100</data>
+      <data key="e_r">0.72037828</data>
+      <data key="e_r_wuchs">0.73382222</data>
+      <data key="e_t">10.33429326</data>
+      <data key="e_t_wuchs">10.69339746</data>
+      <data key="e_SGC">0.71717172</data>
+      <data key="e_SSGC">0.08080808</data>
+      <data key="e_p">1.54858e-005</data>
+      <data key="e_sum_sims">2.520333686</data>
+    </edge>
+    <edge source="n69" target="n71">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">120</data>
+      <data key="e_r">0.64629113</data>
+      <data key="e_r_wuchs">0.62417914</data>
+      <data key="e_t">9.23900888</data>
+      <data key="e_t_wuchs">8.67846371</data>
+      <data key="e_SGC">0.76470588</data>
+      <data key="e_SSGC">0.02521008</data>
+      <data key="e_p">7.7e-009</data>
+      <data key="e_sum_sims">2.256731391</data>
+    </edge>
+    <edge source="n69" target="n72">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.6086917</data>
+      <data key="e_r_wuchs">0.71499699</data>
+      <data key="e_t">8.50851943</data>
+      <data key="e_t_wuchs">11.29607925</data>
+      <data key="e_SGC">0.74796748</data>
+      <data key="e_SSGC">0.02439024</data>
+      <data key="e_p">3.79e-008</data>
+      <data key="e_sum_sims">2.592572395</data>
+    </edge>
+    <edge source="n69" target="n81">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">70</data>
+      <data key="e_r">0.38337975</data>
+      <data key="e_r_wuchs">0.71666833</data>
+      <data key="e_t">3.44805445</data>
+      <data key="e_t_wuchs">8.4738723</data>
+      <data key="e_SGC">0.72463768</data>
+      <data key="e_SSGC">0.01449275</data>
+      <data key="e_p">0.0001899946</data>
+      <data key="e_sum_sims">2.28869324</data>
+    </edge>
+    <edge source="n69" target="n82">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.44676383</data>
+      <data key="e_r_wuchs">0.6705933</data>
+      <data key="e_t">5.53829979</data>
+      <data key="e_t_wuchs">9.98475809</data>
+      <data key="e_SGC">0.71544715</data>
+      <data key="e_SSGC">0.03252033</data>
+      <data key="e_p">1.763e-006</data>
+      <data key="e_sum_sims">2.384516259</data>
+    </edge>
+    <edge source="n69" target="n120">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">118</data>
+      <data key="e_r">0.38848348</data>
+      <data key="e_r_wuchs">0.61634129</data>
+      <data key="e_t">4.56027494</data>
+      <data key="e_t_wuchs">8.42968203</data>
+      <data key="e_SGC">0.70940171</data>
+      <data key="e_SSGC">0.01709402</data>
+      <data key="e_p">5.8969e-006</data>
+      <data key="e_sum_sims">2.168711203</data>
+    </edge>
+    <edge source="n69" target="n124">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.20565149</data>
+      <data key="e_r_wuchs">0.52006764</data>
+      <data key="e_t">2.3306013</data>
+      <data key="e_t_wuchs">6.72540245</data>
+      <data key="e_SGC">0.71544715</data>
+      <data key="e_SSGC">0.04065041</data>
+      <data key="e_p">1.763e-006</data>
+      <data key="e_sum_sims">1.908055035</data>
+    </edge>
+    <edge source="n69" target="n126">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.21164266</data>
+      <data key="e_r_wuchs">0.57018774</data>
+      <data key="e_t">2.40163462</data>
+      <data key="e_t_wuchs">7.66624331</data>
+      <data key="e_SGC">0.71544715</data>
+      <data key="e_SSGC">0.02439024</data>
+      <data key="e_p">1.763e-006</data>
+      <data key="e_sum_sims">2.052259221</data>
+    </edge>
+    <edge source="n69" target="n139">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">78</data>
+      <data key="e_r">0.38104095</data>
+      <data key="e_r_wuchs">0.55025297</data>
+      <data key="e_t">3.61645256</data>
+      <data key="e_t_wuchs">5.74491699</data>
+      <data key="e_SGC">0.72727273</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">6.64587e-005</data>
+      <data key="e_sum_sims">1.852017399</data>
+    </edge>
+    <edge source="n69" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">124</data>
+      <data key="e_r">0.34270367</data>
+      <data key="e_r_wuchs">0.68484569</data>
+      <data key="e_t">4.04576469</data>
+      <data key="e_t_wuchs">10.38080311</data>
+      <data key="e_SGC">0.7398374</data>
+      <data key="e_SSGC">0.04065041</data>
+      <data key="e_p">1.039e-007</data>
+      <data key="e_sum_sims">2.462763401</data>
+    </edge>
+    <edge source="n71" target="n80">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">60</data>
+      <data key="e_r">0.69400769</data>
+      <data key="e_r_wuchs">0.54413618</data>
+      <data key="e_t">7.40418643</data>
+      <data key="e_t_wuchs">4.93925262</data>
+      <data key="e_SGC">0.74576271</data>
+      <data key="e_SSGC">0.03389831</data>
+      <data key="e_p">0.0001597009</data>
+      <data key="e_sum_sims">1.783824152</data>
+    </edge>
+    <edge source="n71" target="n81">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">66</data>
+      <data key="e_r">0.15306616</data>
+      <data key="e_r_wuchs">0.7337018</data>
+      <data key="e_t">1.2487745</data>
+      <data key="e_t_wuchs">8.63849837</data>
+      <data key="e_SGC">0.83076923</data>
+      <data key="e_SSGC">0.03076923</data>
+      <data key="e_p">9.63e-008</data>
+      <data key="e_sum_sims">2.428320867</data>
+    </edge>
+    <edge source="n71" target="n82">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.37720843</data>
+      <data key="e_r_wuchs">0.62462669</data>
+      <data key="e_t">4.76727794</data>
+      <data key="e_t_wuchs">9.32784891</data>
+      <data key="e_SGC">0.7080292</data>
+      <data key="e_SSGC">0.05839416</data>
+      <data key="e_p">1.1169e-006</data>
+      <data key="e_sum_sims">2.265440781</data>
+    </edge>
+    <edge source="n71" target="n126">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.33044474</data>
+      <data key="e_r_wuchs">0.64199518</data>
+      <data key="e_t">4.09795795</data>
+      <data key="e_t_wuchs">9.76496841</data>
+      <data key="e_SGC">0.71532847</data>
+      <data key="e_SSGC">0.08759124</data>
+      <data key="e_p">4.638e-007</data>
+      <data key="e_sum_sims">2.333820491</data>
+    </edge>
+    <edge source="n71" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.38903449</data>
+      <data key="e_r_wuchs">0.68159357</data>
+      <data key="e_t">4.94291932</data>
+      <data key="e_t_wuchs">10.86284294</data>
+      <data key="e_SGC">0.75182482</data>
+      <data key="e_SSGC">0.05839416</data>
+      <data key="e_p">3.7e-009</data>
+      <data key="e_sum_sims">2.519702684</data>
+    </edge>
+    <edge source="n71" target="n144">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">138</data>
+      <data key="e_r">0.22279353</data>
+      <data key="e_r_wuchs">0.60033426</data>
+      <data key="e_t">2.67496492</data>
+      <data key="e_t_wuchs">8.75404491</data>
+      <data key="e_SGC">0.75182482</data>
+      <data key="e_SSGC">0.04379562</data>
+      <data key="e_p">3.7e-009</data>
+      <data key="e_sum_sims">2.227563571</data>
+    </edge>
+    <edge source="n72" target="n80">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.37244679</data>
+      <data key="e_r_wuchs">0.52902119</data>
+      <data key="e_t">3.28494875</data>
+      <data key="e_t_wuchs">5.06451195</data>
+      <data key="e_SGC">0.73134328</data>
+      <data key="e_SSGC">0.01492537</data>
+      <data key="e_p">0.0001523221</data>
+      <data key="e_sum_sims">1.766815665</data>
+    </edge>
+    <edge source="n72" target="n81">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">187</data>
+      <data key="e_r">0.1950435</data>
+      <data key="e_r_wuchs">0.76867739</data>
+      <data key="e_t">2.7121262</data>
+      <data key="e_t_wuchs">16.34543987</data>
+      <data key="e_SGC">0.75268817</data>
+      <data key="e_SSGC">0.03225806</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">3.155909547</data>
+    </edge>
+    <edge source="n72" target="n99">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">121</data>
+      <data key="e_r">0.35926607</data>
+      <data key="e_r_wuchs">0.57191782</data>
+      <data key="e_t">4.21711775</data>
+      <data key="e_t_wuchs">7.60551473</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">1.17713e-005</data>
+      <data key="e_sum_sims">2.032469293</data>
+    </edge>
+    <edge source="n72" target="n143">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.37885587</data>
+      <data key="e_r_wuchs">0.67816096</data>
+      <data key="e_t">3.17098376</data>
+      <data key="e_t_wuchs">7.08798217</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.03333333</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">2.103625847</data>
+    </edge>
+    <edge source="n73" target="n102">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.22038264</data>
+      <data key="e_r_wuchs">0.50259292</data>
+      <data key="e_t">1.94358925</data>
+      <data key="e_t_wuchs">4.96707985</data>
+      <data key="e_SGC">0.7027027</data>
+      <data key="e_SSGC">0.02702703</data>
+      <data key="e_p">0.0004876881</data>
+      <data key="e_sum_sims">1.702003605</data>
+    </edge>
+    <edge source="n74" target="n91">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.36677972</data>
+      <data key="e_r_wuchs">0.56636813</data>
+      <data key="e_t">3.59184586</data>
+      <data key="e_t_wuchs">6.22297738</data>
+      <data key="e_SGC">0.77108434</data>
+      <data key="e_SSGC">0.03614458</data>
+      <data key="e_p">7.837e-007</data>
+      <data key="e_sum_sims">1.959750208</data>
+    </edge>
+    <edge source="n74" target="n124">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.52101536</data>
+      <data key="e_r_wuchs">0.58416997</data>
+      <data key="e_t">5.56111631</data>
+      <data key="e_t_wuchs">6.51759463</data>
+      <data key="e_SGC">0.72289157</data>
+      <data key="e_SSGC">0.02409639</data>
+      <data key="e_p">4.88049e-005</data>
+      <data key="e_sum_sims">1.958821003</data>
+    </edge>
+    <edge source="n74" target="n138">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.44264638</data>
+      <data key="e_r_wuchs">0.55807446</data>
+      <data key="e_t">4.49728705</data>
+      <data key="e_t_wuchs">6.09018414</data>
+      <data key="e_SGC">0.72289157</data>
+      <data key="e_SSGC">0.04819277</data>
+      <data key="e_p">4.88049e-005</data>
+      <data key="e_sum_sims">1.889984444</data>
+    </edge>
+    <edge source="n74" target="n139">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.49753896</data>
+      <data key="e_r_wuchs">0.54018957</data>
+      <data key="e_t">5.22547622</data>
+      <data key="e_t_wuchs">5.81268273</data>
+      <data key="e_SGC">0.72289157</data>
+      <data key="e_SSGC">0.01204819</data>
+      <data key="e_p">4.88049e-005</data>
+      <data key="e_sum_sims">1.844349413</data>
+    </edge>
+    <edge source="n75" target="n82">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">95</data>
+      <data key="e_r">0.29229068</data>
+      <data key="e_r_wuchs">0.52880715</data>
+      <data key="e_t">2.96327076</data>
+      <data key="e_t_wuchs">6.00845882</data>
+      <data key="e_SGC">0.71276596</data>
+      <data key="e_SSGC">0.05319149</data>
+      <data key="e_p">3.69633e-005</data>
+      <data key="e_sum_sims">1.842418992</data>
+    </edge>
+    <edge source="n76" target="n77">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">69</data>
+      <data key="e_r">0.58831368</data>
+      <data key="e_r_wuchs">0.71545544</data>
+      <data key="e_t">5.9994584</data>
+      <data key="e_t_wuchs">8.38214417</data>
+      <data key="e_SGC">0.70588235</data>
+      <data key="e_SSGC">0.04411765</data>
+      <data key="e_p">0.0006850369</data>
+      <data key="e_sum_sims">2.259552207</data>
+    </edge>
+    <edge source="n76" target="n78">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">82</data>
+      <data key="e_r">0.6042361</data>
+      <data key="e_r_wuchs">0.71106391</data>
+      <data key="e_t">6.82491028</data>
+      <data key="e_t_wuchs">9.04522998</data>
+      <data key="e_SGC">0.7037037</data>
+      <data key="e_SSGC">0.04938272</data>
+      <data key="e_p">0.0002457328</data>
+      <data key="e_sum_sims">2.319290608</data>
+    </edge>
+    <edge source="n76" target="n150">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">87</data>
+      <data key="e_r">0.44276575</data>
+      <data key="e_r_wuchs">0.64003508</data>
+      <data key="e_t">4.57937729</data>
+      <data key="e_t_wuchs">7.67991796</data>
+      <data key="e_SGC">0.72093023</data>
+      <data key="e_SSGC">0.04651163</data>
+      <data key="e_p">4.17374e-005</data>
+      <data key="e_sum_sims">2.128957106</data>
+    </edge>
+    <edge source="n77" target="n153">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">69</data>
+      <data key="e_r">0.43530169</data>
+      <data key="e_r_wuchs">0.54937947</data>
+      <data key="e_t">3.98717198</data>
+      <data key="e_t_wuchs">5.38177387</data>
+      <data key="e_SGC">0.72058824</data>
+      <data key="e_SSGC">0.02941176</data>
+      <data key="e_p">0.0002747268</data>
+      <data key="e_sum_sims">1.808145097</data>
+    </edge>
+    <edge source="n78" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">82</data>
+      <data key="e_r">0.31509847</data>
+      <data key="e_r_wuchs">0.63616808</data>
+      <data key="e_t">2.9881033</data>
+      <data key="e_t_wuchs">7.37483842</data>
+      <data key="e_SGC">0.71604938</data>
+      <data key="e_SSGC">0.03703704</data>
+      <data key="e_p">0.0001007042</data>
+      <data key="e_sum_sims">2.089701302</data>
+    </edge>
+    <edge source="n79" target="n84">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">90</data>
+      <data key="e_r">0.12963568</data>
+      <data key="e_r_wuchs">0.56052319</data>
+      <data key="e_t">1.23338823</data>
+      <data key="e_t_wuchs">6.34938743</data>
+      <data key="e_SGC">0.73033708</data>
+      <data key="e_SSGC">0.02247191</data>
+      <data key="e_p">1.38648e-005</data>
+      <data key="e_sum_sims">1.925799013</data>
+    </edge>
+    <edge source="n79" target="n115">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">64</data>
+      <data key="e_r">0.48729663</data>
+      <data key="e_r_wuchs">0.53596539</data>
+      <data key="e_t">4.42926644</data>
+      <data key="e_t_wuchs">4.99881071</data>
+      <data key="e_SGC">0.76190476</data>
+      <data key="e_SSGC">0.04761905</data>
+      <data key="e_p">3.21596e-005</data>
+      <data key="e_sum_sims">1.797751221</data>
+    </edge>
+    <edge source="n80" target="n109">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.10011039</data>
+      <data key="e_r_wuchs">0.5169261</data>
+      <data key="e_t">0.8235762</data>
+      <data key="e_t_wuchs">4.905818</data>
+      <data key="e_SGC">0.70149254</data>
+      <data key="e_SSGC">0.02985075</data>
+      <data key="e_p">0.0009717692</data>
+      <data key="e_sum_sims">1.70900044</data>
+    </edge>
+    <edge source="n80" target="n120">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.40514271</data>
+      <data key="e_r_wuchs">0.62743798</data>
+      <data key="e_t">3.62726111</data>
+      <data key="e_t_wuchs">6.5462299</data>
+      <data key="e_SGC">0.7761194</data>
+      <data key="e_SSGC">0.04477612</data>
+      <data key="e_p">6.1761e-006</data>
+      <data key="e_sum_sims">2.05818037</data>
+    </edge>
+    <edge source="n80" target="n124">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.35888884</data>
+      <data key="e_r_wuchs">0.58316855</data>
+      <data key="e_t">3.14730422</data>
+      <data key="e_t_wuchs">5.83206354</data>
+      <data key="e_SGC">0.79104478</data>
+      <data key="e_SSGC">0.01492537</data>
+      <data key="e_p">1.8922e-006</data>
+      <data key="e_sum_sims">1.957419684</data>
+    </edge>
+    <edge source="n81" target="n82">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">H</data>
+      <data key="e_overlap">101</data>
+      <data key="e_r">0.14777387</data>
+      <data key="e_r_wuchs">0.63842961</data>
+      <data key="e_t">1.49414268</data>
+      <data key="e_t_wuchs">8.25316057</data>
+      <data key="e_SGC">0.73</data>
+      <data key="e_SSGC">0.06</data>
+      <data key="e_p">4.2249e-006</data>
+      <data key="e_sum_sims">2.193745667</data>
+    </edge>
+    <edge source="n81" target="n85">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">51</data>
+      <data key="e_r">0.46049476</data>
+      <data key="e_r_wuchs">0.57721109</data>
+      <data key="e_t">3.6682748</data>
+      <data key="e_t_wuchs">4.94795793</data>
+      <data key="e_SGC">0.82</data>
+      <data key="e_SSGC">0.02</data>
+      <data key="e_p">6.0258e-006</data>
+      <data key="e_sum_sims">1.892006883</data>
+    </edge>
+    <edge source="n81" target="n86">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">97</data>
+      <data key="e_r">-0.17862897</data>
+      <data key="e_r_wuchs">0.54237467</data>
+      <data key="e_t">-1.77880883</data>
+      <data key="e_t_wuchs">6.29232629</data>
+      <data key="e_SGC">0.70833333</data>
+      <data key="e_SSGC">0.05208333</data>
+      <data key="e_p">4.45571e-005</data>
+      <data key="e_sum_sims">1.879940629</data>
+    </edge>
+    <edge source="n81" target="n87">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.5149394</data>
+      <data key="e_r_wuchs">0.77015767</data>
+      <data key="e_t">5.06162152</data>
+      <data key="e_t_wuchs">10.10200739</data>
+      <data key="e_SGC">0.78873239</data>
+      <data key="e_SSGC">0.05633803</data>
+      <data key="e_p">1.1399e-006</data>
+      <data key="e_sum_sims">2.569090799</data>
+    </edge>
+    <edge source="n81" target="n91">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">150</data>
+      <data key="e_r">0.31328981</data>
+      <data key="e_r_wuchs">0.60986841</data>
+      <data key="e_t">4.02691411</data>
+      <data key="e_t_wuchs">9.36194844</data>
+      <data key="e_SGC">0.72483221</data>
+      <data key="e_SSGC">0.04697987</data>
+      <data key="e_p">4.05e-008</data>
+      <data key="e_sum_sims">2.270895464</data>
+    </edge>
+    <edge source="n81" target="n99">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">121</data>
+      <data key="e_r">0.59169946</data>
+      <data key="e_r_wuchs">0.5698739</data>
+      <data key="e_t">8.04028205</data>
+      <data key="e_t_wuchs">7.56522704</data>
+      <data key="e_SGC">0.725</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">8.244e-007</data>
+      <data key="e_sum_sims">2.051396604</data>
+    </edge>
+    <edge source="n81" target="n108">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">62</data>
+      <data key="e_r">0.57289432</data>
+      <data key="e_r_wuchs">0.71127608</data>
+      <data key="e_t">5.45911178</data>
+      <data key="e_t_wuchs">7.83812893</data>
+      <data key="e_SGC">0.80327869</data>
+      <data key="e_SSGC">0.01639344</data>
+      <data key="e_p">2.1652e-006</data>
+      <data key="e_sum_sims">2.298367663</data>
+    </edge>
+    <edge source="n81" target="n114">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">64</data>
+      <data key="e_r">0.43791152</data>
+      <data key="e_r_wuchs">0.52190692</data>
+      <data key="e_t">3.86623475</data>
+      <data key="e_t_wuchs">4.81768748</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.01587302</data>
+      <data key="e_p">0.0006697294</data>
+      <data key="e_sum_sims">1.717961378</data>
+    </edge>
+    <edge source="n81" target="n126">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">81</data>
+      <data key="e_r">0.55273128</data>
+      <data key="e_r_wuchs">0.74678447</data>
+      <data key="e_t">5.93234808</data>
+      <data key="e_t_wuchs">9.98030909</data>
+      <data key="e_SGC">0.7625</data>
+      <data key="e_SSGC">0.0625</data>
+      <data key="e_p">2.6564e-006</data>
+      <data key="e_sum_sims">2.507315379</data>
+    </edge>
+    <edge source="n81" target="n137">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">68</data>
+      <data key="e_r">0.3662437</data>
+      <data key="e_r_wuchs">0.64958998</data>
+      <data key="e_t">3.2216795</data>
+      <data key="e_t_wuchs">6.94120736</data>
+      <data key="e_SGC">0.76119403</data>
+      <data key="e_SSGC">0.02985075</data>
+      <data key="e_p">1.90341e-005</data>
+      <data key="e_sum_sims">2.104904746</data>
+    </edge>
+    <edge source="n81" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">98</data>
+      <data key="e_r">-0.18718544</data>
+      <data key="e_r_wuchs">0.72813751</data>
+      <data key="e_t">-1.87673482</data>
+      <data key="e_t_wuchs">10.40842999</data>
+      <data key="e_SGC">0.79381443</data>
+      <data key="e_SSGC">0.03092784</data>
+      <data key="e_p">7.1e-009</data>
+      <data key="e_sum_sims">2.562794939</data>
+    </edge>
+    <edge source="n81" target="n144">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">81</data>
+      <data key="e_r">0.48431568</data>
+      <data key="e_r_wuchs">0.67055027</data>
+      <data key="e_t">4.95129073</data>
+      <data key="e_t_wuchs">8.03379105</data>
+      <data key="e_SGC">0.7125</data>
+      <data key="e_SSGC">0.05</data>
+      <data key="e_p">0.0001439299</data>
+      <data key="e_sum_sims">2.186429375</data>
+    </edge>
+    <edge source="n82" target="n117">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">251</data>
+      <data key="e_r">0.25879245</data>
+      <data key="e_r_wuchs">0.57738001</data>
+      <data key="e_t">4.2361821</data>
+      <data key="e_t_wuchs">11.15881901</data>
+      <data key="e_SGC">0.708</data>
+      <data key="e_SSGC">0.04</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.401261911</data>
+    </edge>
+    <edge source="n82" target="n120">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">149</data>
+      <data key="e_r">0.34159066</data>
+      <data key="e_r_wuchs">0.55345348</data>
+      <data key="e_t">4.42159377</data>
+      <data key="e_t_wuchs">8.05670207</data>
+      <data key="e_SGC">0.7027027</data>
+      <data key="e_SSGC">0.05405405</data>
+      <data key="e_p">8.14e-007</data>
+      <data key="e_sum_sims">2.061826387</data>
+    </edge>
+    <edge source="n82" target="n141">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">262</data>
+      <data key="e_r">0.42128707</data>
+      <data key="e_r_wuchs">0.61943169</data>
+      <data key="e_t">7.5045713</data>
+      <data key="e_t_wuchs">12.72279299</data>
+      <data key="e_SGC">0.70498084</data>
+      <data key="e_SSGC">0.03831418</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.596691829</data>
+    </edge>
+    <edge source="n84" target="n102">
+      <data key="e_Radius_A">H</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">75</data>
+      <data key="e_r">0.46827671</data>
+      <data key="e_r_wuchs">0.59361733</data>
+      <data key="e_t">4.55902126</data>
+      <data key="e_t_wuchs">6.3024352</data>
+      <data key="e_SGC">0.74324324</data>
+      <data key="e_SSGC">0.04054054</data>
+      <data key="e_p">2.85273e-005</data>
+      <data key="e_sum_sims">1.96710409</data>
+    </edge>
+    <edge source="n85" target="n86">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">172</data>
+      <data key="e_r">0.31539079</data>
+      <data key="e_r_wuchs">0.54516315</data>
+      <data key="e_t">4.34608584</data>
+      <data key="e_t_wuchs">8.47883064</data>
+      <data key="e_SGC">0.70175439</data>
+      <data key="e_SSGC">0.05847953</data>
+      <data key="e_p">1.316e-007</data>
+      <data key="e_sum_sims">2.094800604</data>
+    </edge>
+    <edge source="n85" target="n87">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">178</data>
+      <data key="e_r">0.31334766</data>
+      <data key="e_r_wuchs">0.70840981</data>
+      <data key="e_t">4.38990161</data>
+      <data key="e_t_wuchs">13.31552881</data>
+      <data key="e_SGC">0.71186441</data>
+      <data key="e_SSGC">0.03954802</data>
+      <data key="e_p">1.73e-008</data>
+      <data key="e_sum_sims">2.751827101</data>
+    </edge>
+    <edge source="n85" target="n114">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">178</data>
+      <data key="e_r">0.52465347</data>
+      <data key="e_r_wuchs">0.55415101</data>
+      <data key="e_t">8.19914261</data>
+      <data key="e_t_wuchs">8.83169293</data>
+      <data key="e_SGC">0.71751412</data>
+      <data key="e_SSGC">0.03954802</data>
+      <data key="e_p">7.1e-009</data>
+      <data key="e_sum_sims">2.154834423</data>
+    </edge>
+    <edge source="n86" target="n87">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">193</data>
+      <data key="e_r">0.37382279</data>
+      <data key="e_r_wuchs">0.63987103</data>
+      <data key="e_t">5.58473288</data>
+      <data key="e_t_wuchs">11.50734833</data>
+      <data key="e_SGC">0.75520833</data>
+      <data key="e_SSGC">0.046875</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.545814193</data>
+    </edge>
+    <edge source="n89" target="n105">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">109</data>
+      <data key="e_r">0.37140973</data>
+      <data key="e_r_wuchs">0.55875004</data>
+      <data key="e_t">4.15716935</data>
+      <data key="e_t_wuchs">6.96913493</data>
+      <data key="e_SGC">0.71296296</data>
+      <data key="e_SSGC">0.02777778</data>
+      <data key="e_p">9.584e-006</data>
+      <data key="e_sum_sims">1.968626493</data>
+    </edge>
+    <edge source="n90" target="n131">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">137</data>
+      <data key="e_r">0.43802325</data>
+      <data key="e_r_wuchs">0.53489753</data>
+      <data key="e_t">5.68230439</data>
+      <data key="e_t_wuchs">7.3556908</data>
+      <data key="e_SGC">0.70588235</data>
+      <data key="e_SSGC">0.02941176</data>
+      <data key="e_p">1.5712e-006</data>
+      <data key="e_sum_sims">1.97634896</data>
+    </edge>
+    <edge source="n91" target="n124">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">150</data>
+      <data key="e_r">0.04042319</data>
+      <data key="e_r_wuchs">0.56711682</data>
+      <data key="e_t">0.49383149</data>
+      <data key="e_t_wuchs">8.37659172</data>
+      <data key="e_SGC">0.72483221</data>
+      <data key="e_SSGC">0.03355705</data>
+      <data key="e_p">4.05e-008</data>
+      <data key="e_sum_sims">2.129608202</data>
+    </edge>
+    <edge source="n92" target="n113">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.37613222</data>
+      <data key="e_r_wuchs">0.58073271</data>
+      <data key="e_t">3.69830921</data>
+      <data key="e_t_wuchs">6.45964289</data>
+      <data key="e_SGC">0.73493976</data>
+      <data key="e_SSGC">0.06024096</data>
+      <data key="e_p">1.86218e-005</data>
+      <data key="e_sum_sims">1.961636759</data>
+    </edge>
+    <edge source="n92" target="n119">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.31996013</data>
+      <data key="e_r_wuchs">0.55131214</data>
+      <data key="e_t">3.07671533</data>
+      <data key="e_t_wuchs">5.98387797</data>
+      <data key="e_SGC">0.71084337</data>
+      <data key="e_SSGC">0.04819277</data>
+      <data key="e_p">0.0001221607</data>
+      <data key="e_sum_sims">1.860543307</data>
+    </edge>
+    <edge source="n92" target="n127">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">84</data>
+      <data key="e_r">0.35022016</data>
+      <data key="e_r_wuchs">0.64076915</data>
+      <data key="e_t">3.40639316</data>
+      <data key="e_t_wuchs">7.55784477</data>
+      <data key="e_SGC">0.71084337</data>
+      <data key="e_SSGC">0.03614458</data>
+      <data key="e_p">0.0001221607</data>
+      <data key="e_sum_sims">2.107396997</data>
+    </edge>
+    <edge source="n92" target="n134">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">82</data>
+      <data key="e_r">0.36725259</data>
+      <data key="e_r_wuchs">0.51275149</data>
+      <data key="e_t">3.55359402</data>
+      <data key="e_t_wuchs">5.34186457</data>
+      <data key="e_SGC">0.74074074</data>
+      <data key="e_SSGC">0.01234568</data>
+      <data key="e_p">1.46868e-005</data>
+      <data key="e_sum_sims">1.787678687</data>
+    </edge>
+    <edge source="n92" target="n145">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">76</data>
+      <data key="e_r">0.38096667</data>
+      <data key="e_r_wuchs">0.52793195</data>
+      <data key="e_t">3.56836276</data>
+      <data key="e_t_wuchs">5.34736085</data>
+      <data key="e_SGC">0.70666667</data>
+      <data key="e_SSGC">0.06666667</data>
+      <data key="e_p">0.0003441579</data>
+      <data key="e_sum_sims">1.769334705</data>
+    </edge>
+    <edge source="n94" target="n106">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">62</data>
+      <data key="e_r">0.17811983</data>
+      <data key="e_r_wuchs">0.53110705</data>
+      <data key="e_t">1.41376821</data>
+      <data key="e_t_wuchs">4.85532229</data>
+      <data key="e_SGC">0.70491803</data>
+      <data key="e_SSGC">0.03278689</data>
+      <data key="e_p">0.0013698861</data>
+      <data key="e_sum_sims">1.721557309</data>
+    </edge>
+    <edge source="n94" target="n110">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">71</data>
+      <data key="e_r">-0.00533557</data>
+      <data key="e_r_wuchs">0.60729709</data>
+      <data key="e_t">-0.04464122</data>
+      <data key="e_t_wuchs">6.34958886</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.01428571</data>
+      <data key="e_p">0.0003361935</data>
+      <data key="e_sum_sims">1.956541686</data>
+    </edge>
+    <edge source="n95" target="n105">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">52</data>
+      <data key="e_r">0.47594813</data>
+      <data key="e_r_wuchs">0.53003265</data>
+      <data key="e_t">3.86475556</data>
+      <data key="e_t_wuchs">4.41980825</data>
+      <data key="e_SGC">0.70588235</data>
+      <data key="e_SSGC">0.01960784</data>
+      <data key="e_p">0.0032758975</data>
+      <data key="e_sum_sims">1.677895825</data>
+    </edge>
+    <edge source="n98" target="n120">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">59</data>
+      <data key="e_r">0.18303122</data>
+      <data key="e_r_wuchs">0.50242828</data>
+      <data key="e_t">1.41787632</data>
+      <data key="e_t_wuchs">4.38719341</data>
+      <data key="e_SGC">0.70689655</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0016251517</data>
+      <data key="e_sum_sims">1.648044171</data>
+    </edge>
+    <edge source="n99" target="n146">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">121</data>
+      <data key="e_r">0.44858067</data>
+      <data key="e_r_wuchs">0.51425091</data>
+      <data key="e_t">5.49817858</data>
+      <data key="e_t_wuchs">6.54099225</data>
+      <data key="e_SGC">0.725</data>
+      <data key="e_SSGC">0.05</data>
+      <data key="e_p">8.244e-007</data>
+      <data key="e_sum_sims">1.893350135</data>
+    </edge>
+    <edge source="n100" target="n113">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">102</data>
+      <data key="e_r">0.47695246</data>
+      <data key="e_r_wuchs">0.56485598</data>
+      <data key="e_t">5.45358312</data>
+      <data key="e_t_wuchs">6.84516679</data>
+      <data key="e_SGC">0.77227723</data>
+      <data key="e_SSGC">0.02970297</data>
+      <data key="e_p">4.43e-008</data>
+      <data key="e_sum_sims">2.021649889</data>
+    </edge>
+    <edge source="n100" target="n145">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">54</data>
+      <data key="e_r">0.09997064</data>
+      <data key="e_r_wuchs">0.50168309</data>
+      <data key="e_t">0.73146157</data>
+      <data key="e_t_wuchs">4.18204958</data>
+      <data key="e_SGC">0.71698113</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">0.0015815242</data>
+      <data key="e_sum_sims">1.636869178</data>
+    </edge>
+    <edge source="n101" target="n106">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">85</data>
+      <data key="e_r">0.15515846</data>
+      <data key="e_r_wuchs">0.56314987</data>
+      <data key="e_t">1.43948353</data>
+      <data key="e_t_wuchs">6.20864009</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.01190476</data>
+      <data key="e_p">8.5683e-005</data>
+      <data key="e_sum_sims">1.898299589</data>
+    </edge>
+    <edge source="n102" target="n115">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">72</data>
+      <data key="e_r">0.37052993</data>
+      <data key="e_r_wuchs">0.70905223</data>
+      <data key="e_t">3.3614036</data>
+      <data key="e_t_wuchs">8.41282905</data>
+      <data key="e_SGC">0.71830986</data>
+      <data key="e_SSGC">0.04225352</data>
+      <data key="e_p">0.000234129</data>
+      <data key="e_sum_sims">2.268644995</data>
+    </edge>
+    <edge source="n103" target="n143">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.28976172</data>
+      <data key="e_r_wuchs">0.60431915</data>
+      <data key="e_t">2.34509187</data>
+      <data key="e_t_wuchs">5.82605337</data>
+      <data key="e_SGC">0.73333333</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">0.0003005976</data>
+      <data key="e_sum_sims">1.920257817</data>
+    </edge>
+    <edge source="n103" target="n155">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">147</data>
+      <data key="e_r">0.37671583</data>
+      <data key="e_r_wuchs">0.56379969</data>
+      <data key="e_t">4.91388627</data>
+      <data key="e_t_wuchs">8.22006564</data>
+      <data key="e_SGC">0.73972603</data>
+      <data key="e_SSGC">0.02054795</data>
+      <data key="e_p">6.9e-009</data>
+      <data key="e_sum_sims">2.125532284</data>
+    </edge>
+    <edge source="n104" target="n112">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">95</data>
+      <data key="e_r">0.47127587</data>
+      <data key="e_r_wuchs">0.52099666</data>
+      <data key="e_t">5.18056956</data>
+      <data key="e_t_wuchs">5.8863084</data>
+      <data key="e_SGC">0.70212766</data>
+      <data key="e_SSGC">0.06382979</data>
+      <data key="e_p">8.87694e-005</data>
+      <data key="e_sum_sims">1.81175516</data>
+    </edge>
+    <edge source="n104" target="n123">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">113</data>
+      <data key="e_r">0.56589201</data>
+      <data key="e_r_wuchs">0.60390743</data>
+      <data key="e_t">7.26378164</data>
+      <data key="e_t_wuchs">7.98259073</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.07142857</data>
+      <data key="e_p">5.7447e-006</data>
+      <data key="e_sum_sims">2.116452213</data>
+    </edge>
+    <edge source="n104" target="n132">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">123</data>
+      <data key="e_r">-0.20164748</data>
+      <data key="e_r_wuchs">0.63686356</data>
+      <data key="e_t">-2.27398096</data>
+      <data key="e_t_wuchs">9.08652716</data>
+      <data key="e_SGC">0.73770492</data>
+      <data key="e_SSGC">0.04918033</data>
+      <data key="e_p">1.512e-007</data>
+      <data key="e_sum_sims">2.283221196</data>
+    </edge>
+    <edge source="n106" target="n111">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">51</data>
+      <data key="e_r">0.426385</data>
+      <data key="e_r_wuchs">0.5513859</data>
+      <data key="e_t">3.33317637</data>
+      <data key="e_t_wuchs">4.62655058</data>
+      <data key="e_SGC">0.72</data>
+      <data key="e_SSGC">0.02</data>
+      <data key="e_p">0.0018628463</data>
+      <data key="e_sum_sims">1.734040958</data>
+    </edge>
+    <edge source="n107" target="n136">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">117</data>
+      <data key="e_r">0.6427941</data>
+      <data key="e_r_wuchs">0.57483945</data>
+      <data key="e_t">9.03753513</data>
+      <data key="e_t_wuchs">7.53357057</data>
+      <data key="e_SGC">0.70689655</data>
+      <data key="e_SSGC">0.06896552</data>
+      <data key="e_p">8.3236e-006</data>
+      <data key="e_sum_sims">2.035093057</data>
+    </edge>
+    <edge source="n107" target="n145">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">71</data>
+      <data key="e_r">0.44235342</data>
+      <data key="e_r_wuchs">0.68859128</data>
+      <data key="e_t">4.12670135</data>
+      <data key="e_t_wuchs">7.88784572</data>
+      <data key="e_SGC">0.72857143</data>
+      <data key="e_SSGC">0.1</data>
+      <data key="e_p">0.0001309147</data>
+      <data key="e_sum_sims">2.205947282</data>
+    </edge>
+    <edge source="n109" target="n110">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">214</data>
+      <data key="e_r">0.57586563</data>
+      <data key="e_r_wuchs">0.52363115</data>
+      <data key="e_t">10.2801543</data>
+      <data key="e_t_wuchs">8.94915042</data>
+      <data key="e_SGC">0.71830986</data>
+      <data key="e_SSGC">0.07981221</data>
+      <data key="e_p">2e-010</data>
+      <data key="e_sum_sims">2.136856052</data>
+    </edge>
+    <edge source="n110" target="n126">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">192</data>
+      <data key="e_r">0.38243888</data>
+      <data key="e_r_wuchs">0.53890028</data>
+      <data key="e_t">5.7202602</data>
+      <data key="e_t_wuchs">8.81825271</data>
+      <data key="e_SGC">0.70157068</data>
+      <data key="e_SSGC">0.04188482</data>
+      <data key="e_p">2.53e-008</data>
+      <data key="e_sum_sims">2.122296231</data>
+    </edge>
+    <edge source="n112" target="n123">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">89</data>
+      <data key="e_r">0.28253303</data>
+      <data key="e_r_wuchs">0.52126732</data>
+      <data key="e_t">2.76296467</data>
+      <data key="e_t_wuchs">5.69732266</data>
+      <data key="e_SGC">0.80681818</data>
+      <data key="e_SSGC">0.01136364</data>
+      <data key="e_p">8.6e-009</data>
+      <data key="e_sum_sims">1.897817766</data>
+    </edge>
+    <edge source="n116" target="n117">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">151</data>
+      <data key="e_r">0.69276712</data>
+      <data key="e_r_wuchs">0.55622476</data>
+      <data key="e_t">11.76523066</data>
+      <data key="e_t_wuchs">8.17006959</data>
+      <data key="e_SGC">0.72</data>
+      <data key="e_SSGC">0.02</data>
+      <data key="e_p">7.09e-008</data>
+      <data key="e_sum_sims">2.093231719</data>
+    </edge>
+    <edge source="n118" target="n120">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">123</data>
+      <data key="e_r">0.44990414</data>
+      <data key="e_r_wuchs">0.50247142</data>
+      <data key="e_t">5.5643069</data>
+      <data key="e_t_wuchs">6.39281182</data>
+      <data key="e_SGC">0.70491803</data>
+      <data key="e_SSGC">0.05737705</data>
+      <data key="e_p">5.9887e-006</data>
+      <data key="e_sum_sims">1.846670632</data>
+    </edge>
+    <edge source="n118" target="n124">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">123</data>
+      <data key="e_r">0.60769893</data>
+      <data key="e_r_wuchs">0.60782119</data>
+      <data key="e_t">8.45193754</data>
+      <data key="e_t_wuchs">8.41991268</data>
+      <data key="e_SGC">0.7704918</data>
+      <data key="e_SSGC">0.04918033</data>
+      <data key="e_p">2.3e-009</data>
+      <data key="e_sum_sims">2.220304258</data>
+    </edge>
+    <edge source="n120" target="n124">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">285</data>
+      <data key="e_r">0.51105842</data>
+      <data key="e_r_wuchs">0.60143917</data>
+      <data key="e_t">10.01983585</data>
+      <data key="e_t_wuchs">12.66433503</data>
+      <data key="e_SGC">0.73239437</data>
+      <data key="e_SSGC">0.02816901</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.600267043</data>
+    </edge>
+    <edge source="n120" target="n143">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.5080021</data>
+      <data key="e_r_wuchs">0.78623034</data>
+      <data key="e_t">4.56834117</data>
+      <data key="e_t_wuchs">9.77313824</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">2.480210834</data>
+    </edge>
+    <edge source="n121" target="n131">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">147</data>
+      <data key="e_r">0.43048775</data>
+      <data key="e_r_wuchs">0.50008916</data>
+      <data key="e_t">5.76293372</data>
+      <data key="e_t_wuchs">6.95387096</data>
+      <data key="e_SGC">0.70547945</data>
+      <data key="e_SSGC">0.02739726</data>
+      <data key="e_p">6.848e-007</data>
+      <data key="e_sum_sims">1.900955706</data>
+    </edge>
+    <edge source="n121" target="n133">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">159</data>
+      <data key="e_r">0.61434791</data>
+      <data key="e_r_wuchs">0.59889304</data>
+      <data key="e_t">9.78693073</data>
+      <data key="e_t_wuchs">9.370425</data>
+      <data key="e_SGC">0.74050633</data>
+      <data key="e_SSGC">0.0443038</data>
+      <data key="e_p">1.5e-009</data>
+      <data key="e_sum_sims">2.27644187</data>
+    </edge>
+    <edge source="n121" target="n136">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">117</data>
+      <data key="e_r">0.69487533</data>
+      <data key="e_r_wuchs">0.63537709</data>
+      <data key="e_t">10.40706691</data>
+      <data key="e_t_wuchs">8.82367569</data>
+      <data key="e_SGC">0.73275862</data>
+      <data key="e_SSGC">0.06896552</data>
+      <data key="e_p">5.337e-007</data>
+      <data key="e_sum_sims">2.250503279</data>
+    </edge>
+    <edge source="n123" target="n132">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">76</data>
+      <data key="e_r">0.28239695</data>
+      <data key="e_r_wuchs">0.5441625</data>
+      <data key="e_t">2.54939573</data>
+      <data key="e_t_wuchs">5.57946995</data>
+      <data key="e_SGC">0.70666667</data>
+      <data key="e_SSGC">0.01333333</data>
+      <data key="e_p">0.0003441579</data>
+      <data key="e_sum_sims">1.808776165</data>
+    </edge>
+    <edge source="n123" target="n145">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">52</data>
+      <data key="e_r">0.44960453</data>
+      <data key="e_r_wuchs">0.50902166</data>
+      <data key="e_t">3.59462487</data>
+      <data key="e_t_wuchs">4.18159877</data>
+      <data key="e_SGC">0.80392157</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">1.41921e-005</data>
+      <data key="e_sum_sims">1.731103107</data>
+    </edge>
+    <edge source="n124" target="n143">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.28805509</data>
+      <data key="e_r_wuchs">0.67897116</data>
+      <data key="e_t">2.33002602</data>
+      <data key="e_t_wuchs">7.10368493</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.05</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">2.106006323</data>
+    </edge>
+    <edge source="n125" target="n127">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">127</data>
+      <data key="e_r">0.29013213</data>
+      <data key="e_r_wuchs">0.60043457</data>
+      <data key="e_t">3.40310414</data>
+      <data key="e_t_wuchs">8.39475027</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.03968254</data>
+      <data key="e_p">1.504e-006</data>
+      <data key="e_sum_sims">2.154195307</data>
+    </edge>
+    <edge source="n125" target="n130">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">122</data>
+      <data key="e_r">0.43657977</data>
+      <data key="e_r_wuchs">0.53211074</data>
+      <data key="e_t">5.33795861</data>
+      <data key="e_t_wuchs">6.88455745</data>
+      <data key="e_SGC">0.75206612</data>
+      <data key="e_SSGC">0.03305785</data>
+      <data key="e_p">2.93e-008</data>
+      <data key="e_sum_sims">1.972632605</data>
+    </edge>
+    <edge source="n125" target="n134">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">98</data>
+      <data key="e_r">0.27295569</data>
+      <data key="e_r_wuchs">0.62341049</data>
+      <data key="e_t">2.79441515</data>
+      <data key="e_t_wuchs">7.81198574</data>
+      <data key="e_SGC">0.73195876</data>
+      <data key="e_SSGC">0</data>
+      <data key="e_p">4.8992e-006</data>
+      <data key="e_sum_sims">2.136567824</data>
+    </edge>
+    <edge source="n125" target="n144">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">126</data>
+      <data key="e_r">0.76355613</data>
+      <data key="e_r_wuchs">0.86274853</data>
+      <data key="e_t">13.2201779</data>
+      <data key="e_t_wuchs">19.00025637</data>
+      <data key="e_SGC">0.84</data>
+      <data key="e_SSGC">0.032</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">3.602774167</data>
+    </edge>
+    <edge source="n125" target="n147">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">127</data>
+      <data key="e_r">0.55710587</data>
+      <data key="e_r_wuchs">0.57556699</data>
+      <data key="e_t">7.53032934</data>
+      <data key="e_t_wuchs">7.86915086</data>
+      <data key="e_SGC">0.71428571</data>
+      <data key="e_SSGC">0.05555556</data>
+      <data key="e_p">1.504e-006</data>
+      <data key="e_sum_sims">2.076767786</data>
+    </edge>
+    <edge source="n126" target="n127">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">207</data>
+      <data key="e_r">0.36053227</data>
+      <data key="e_r_wuchs">0.64303837</data>
+      <data key="e_t">5.54771341</data>
+      <data key="e_t_wuchs">12.02206847</data>
+      <data key="e_SGC">0.7038835</data>
+      <data key="e_SSGC">0.08737864</data>
+      <data key="e_p">4.8e-009</data>
+      <data key="e_sum_sims">2.549128717</data>
+    </edge>
+    <edge source="n126" target="n129">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">207</data>
+      <data key="e_r">0.66728956</data>
+      <data key="e_r_wuchs">0.67431885</data>
+      <data key="e_t">12.85905974</data>
+      <data key="e_t_wuchs">13.07455244</data>
+      <data key="e_SGC">0.7184466</data>
+      <data key="e_SSGC">0.05339806</data>
+      <data key="e_p">4e-010</data>
+      <data key="e_sum_sims">2.700220694</data>
+    </edge>
+    <edge source="n126" target="n141">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">207</data>
+      <data key="e_r">0.50909603</data>
+      <data key="e_r_wuchs">0.56200105</data>
+      <data key="e_t">8.48939246</data>
+      <data key="e_t_wuchs">9.72829787</data>
+      <data key="e_SGC">0.70873786</data>
+      <data key="e_SSGC">0.0631068</data>
+      <data key="e_p">2.1e-009</data>
+      <data key="e_sum_sims">2.243568697</data>
+    </edge>
+    <edge source="n126" target="n143">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">56</data>
+      <data key="e_r">0.52970714</data>
+      <data key="e_r_wuchs">0.59699575</data>
+      <data key="e_t">4.63157639</data>
+      <data key="e_t_wuchs">5.46841454</data>
+      <data key="e_SGC">0.70909091</data>
+      <data key="e_SSGC">0.07272727</data>
+      <data key="e_p">0.0019266038</data>
+      <data key="e_sum_sims">1.852928114</data>
+    </edge>
+    <edge source="n126" target="n144">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">207</data>
+      <data key="e_r">0.83764136</data>
+      <data key="e_r_wuchs">0.84460929</data>
+      <data key="e_t">22.01018269</data>
+      <data key="e_t_wuchs">22.58749423</data>
+      <data key="e_SGC">0.89320388</data>
+      <data key="e_SSGC">0.03398058</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">3.996562593</data>
+    </edge>
+    <edge source="n127" target="n128">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">78</data>
+      <data key="e_r">0.20949079</data>
+      <data key="e_r_wuchs">0.54322039</data>
+      <data key="e_t">1.87999006</data>
+      <data key="e_t_wuchs">5.64047302</data>
+      <data key="e_SGC">0.7012987</data>
+      <data key="e_SSGC">0.03896104</data>
+      <data key="e_p">0.0004112178</data>
+      <data key="e_sum_sims">1.808566392</data>
+    </edge>
+    <edge source="n127" target="n129">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">235</data>
+      <data key="e_r">0.31656733</data>
+      <data key="e_r_wuchs">0.67079298</data>
+      <data key="e_t">5.10510427</data>
+      <data key="e_t_wuchs">13.80608685</data>
+      <data key="e_SGC">0.70512821</data>
+      <data key="e_SSGC">0.07692308</data>
+      <data key="e_p">3e-010</data>
+      <data key="e_sum_sims">2.756529875</data>
+    </edge>
+    <edge source="n127" target="n130">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">122</data>
+      <data key="e_r">0.32194854</data>
+      <data key="e_r_wuchs">0.62711899</data>
+      <data key="e_t">3.74059371</data>
+      <data key="e_t_wuchs">8.81953703</data>
+      <data key="e_SGC">0.74380165</data>
+      <data key="e_SSGC">0.04132231</data>
+      <data key="e_p">8.16e-008</data>
+      <data key="e_sum_sims">2.252874343</data>
+    </edge>
+    <edge source="n127" target="n132">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">123</data>
+      <data key="e_r">-0.32883814</data>
+      <data key="e_r_wuchs">0.60009779</data>
+      <data key="e_t">-3.84602778</data>
+      <data key="e_t_wuchs">8.25210119</data>
+      <data key="e_SGC">0.72131148</data>
+      <data key="e_SSGC">0.04098361</data>
+      <data key="e_p">1.0139e-006</data>
+      <data key="e_sum_sims">2.146619389</data>
+    </edge>
+    <edge source="n127" target="n134">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">98</data>
+      <data key="e_r">0.24835692</data>
+      <data key="e_r_wuchs">0.58680843</data>
+      <data key="e_t">2.52514845</data>
+      <data key="e_t_wuchs">7.10058257</data>
+      <data key="e_SGC">0.71134021</data>
+      <data key="e_SSGC">0.02061856</data>
+      <data key="e_p">3.14204e-005</data>
+      <data key="e_sum_sims">2.008206897</data>
+    </edge>
+    <edge source="n127" target="n144">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">227</data>
+      <data key="e_r">0.20975626</data>
+      <data key="e_r_wuchs">0.70249813</data>
+      <data key="e_t">3.225074</data>
+      <data key="e_t_wuchs">14.80635835</data>
+      <data key="e_SGC">0.72566372</data>
+      <data key="e_SSGC">0.05752212</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.908797685</data>
+    </edge>
+    <edge source="n127" target="n147">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">167</data>
+      <data key="e_r">0.30176148</data>
+      <data key="e_r_wuchs">0.59127801</data>
+      <data key="e_t">4.07802823</data>
+      <data key="e_t_wuchs">9.41773925</data>
+      <data key="e_SGC">0.72891566</data>
+      <data key="e_SSGC">0.04819277</data>
+      <data key="e_p">3.7e-009</data>
+      <data key="e_sum_sims">2.261967595</data>
+    </edge>
+    <edge source="n129" target="n144">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">208</data>
+      <data key="e_r">0.43618144</data>
+      <data key="e_r_wuchs">0.6809525</data>
+      <data key="e_t">6.97393685</data>
+      <data key="e_t_wuchs">13.34581283</data>
+      <data key="e_SGC">0.7294686</data>
+      <data key="e_SSGC">0.05797101</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.745002383</data>
+    </edge>
+    <edge source="n130" target="n144">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">121</data>
+      <data key="e_r">0.49561657</data>
+      <data key="e_r_wuchs">0.63330772</data>
+      <data key="e_t">6.25094821</data>
+      <data key="e_t_wuchs">8.92695544</data>
+      <data key="e_SGC">0.74166667</data>
+      <data key="e_SSGC">0.05</data>
+      <data key="e_p">1.192e-007</data>
+      <data key="e_sum_sims">2.267669934</data>
+    </edge>
+    <edge source="n131" target="n133">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">92</data>
+      <data key="e_r">0.30568135</data>
+      <data key="e_r_wuchs">0.60862806</data>
+      <data key="e_t">3.0626095</data>
+      <data key="e_t_wuchs">7.27696964</data>
+      <data key="e_SGC">0.7032967</data>
+      <data key="e_SSGC">0.03296703</data>
+      <data key="e_p">0.0001050361</data>
+      <data key="e_sum_sims">2.039621724</data>
+    </edge>
+    <edge source="n132" target="n144">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">122</data>
+      <data key="e_r">0.62892965</data>
+      <data key="e_r_wuchs">0.61202749</data>
+      <data key="e_t">8.89847245</data>
+      <data key="e_t_wuchs">8.47763778</data>
+      <data key="e_SGC">0.70247934</data>
+      <data key="e_SSGC">0.02479339</data>
+      <data key="e_p">8.4071e-006</data>
+      <data key="e_sum_sims">2.162270608</data>
+    </edge>
+    <edge source="n133" target="n145">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">76</data>
+      <data key="e_r">0.28696719</data>
+      <data key="e_r_wuchs">0.55688671</data>
+      <data key="e_t">2.594325</data>
+      <data key="e_t_wuchs">5.76762243</data>
+      <data key="e_SGC">0.70666667</data>
+      <data key="e_SSGC">0.08</data>
+      <data key="e_p">0.0003441579</data>
+      <data key="e_sum_sims">1.840315623</data>
+    </edge>
+    <edge source="n133" target="n151">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">159</data>
+      <data key="e_r">0.41538553</data>
+      <data key="e_r_wuchs">0.66512073</data>
+      <data key="e_t">5.7399453</data>
+      <data key="e_t_wuchs">11.16049127</data>
+      <data key="e_SGC">0.70886076</data>
+      <data key="e_SSGC">0.07594937</data>
+      <data key="e_p">1.515e-007</data>
+      <data key="e_sum_sims">2.490030617</data>
+    </edge>
+    <edge source="n133" target="n156">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">159</data>
+      <data key="e_r">0.63293299</data>
+      <data key="e_r_wuchs">0.66902195</data>
+      <data key="e_t">10.27612591</data>
+      <data key="e_t_wuchs">11.27871381</data>
+      <data key="e_SGC">0.7278481</data>
+      <data key="e_SSGC">0.06962025</data>
+      <data key="e_p">1.02e-008</data>
+      <data key="e_sum_sims">2.524741431</data>
+    </edge>
+    <edge source="n134" target="n144">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">97</data>
+      <data key="e_r">0.45445789</data>
+      <data key="e_r_wuchs">0.58652045</data>
+      <data key="e_t">4.998786</data>
+      <data key="e_t_wuchs">7.05821861</data>
+      <data key="e_SGC">0.70833333</data>
+      <data key="e_SSGC">0.03125</data>
+      <data key="e_p">4.45571e-005</data>
+      <data key="e_sum_sims">2.000675641</data>
+    </edge>
+    <edge source="n138" target="n149">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">104</data>
+      <data key="e_r">0.34240265</data>
+      <data key="e_r_wuchs">0.54629306</data>
+      <data key="e_t">3.69857391</data>
+      <data key="e_t_wuchs">6.58706811</data>
+      <data key="e_SGC">0.70873786</data>
+      <data key="e_SSGC">0.00970874</data>
+      <data key="e_p">2.26611e-005</data>
+      <data key="e_sum_sims">1.913737731</data>
+    </edge>
+    <edge source="n141" target="n143">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.46061643</data>
+      <data key="e_r_wuchs">0.58432936</data>
+      <data key="e_t">4.01974133</data>
+      <data key="e_t_wuchs">5.530779</data>
+      <data key="e_SGC">0.71666667</data>
+      <data key="e_SSGC">0.01666667</data>
+      <data key="e_p">0.000789113</data>
+      <data key="e_sum_sims">1.85407393</data>
+    </edge>
+    <edge source="n143" target="n155">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">61</data>
+      <data key="e_r">0.17352295</data>
+      <data key="e_r_wuchs">0.55658439</data>
+      <data key="e_t">1.36480734</data>
+      <data key="e_t_wuchs">5.14594578</data>
+      <data key="e_SGC">0.7</data>
+      <data key="e_SSGC">0.03333333</data>
+      <data key="e_p">0.0019457737</data>
+      <data key="e_sum_sims">1.771178968</data>
+    </edge>
+    <edge source="n144" target="n147">
+      <data key="e_Radius_A">M</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">166</data>
+      <data key="e_r">0.45705737</data>
+      <data key="e_r_wuchs">0.62522467</data>
+      <data key="e_t">6.60081249</data>
+      <data key="e_t_wuchs">10.25925503</data>
+      <data key="e_SGC">0.73333333</data>
+      <data key="e_SSGC">0.05454545</data>
+      <data key="e_p">2e-009</data>
+      <data key="e_sum_sims">2.384483503</data>
+    </edge>
+    <edge source="n150" target="n154">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">M</data>
+      <data key="e_overlap">276</data>
+      <data key="e_r">0.37591112</data>
+      <data key="e_r_wuchs">0.58235158</data>
+      <data key="e_t">6.72718089</data>
+      <data key="e_t_wuchs">11.85778638</data>
+      <data key="e_SGC">0.71636364</data>
+      <data key="e_SSGC">0.04</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">2.484493858</data>
+    </edge>
+    <edge source="n150" target="n155">
+      <data key="e_Radius_A">C</data>
+      <data key="e_Radius_B">C</data>
+      <data key="e_overlap">341</data>
+      <data key="e_r">0.7936048</data>
+      <data key="e_r_wuchs">0.82830415</data>
+      <data key="e_t">24.05085807</data>
+      <data key="e_t_wuchs">27.21984015</data>
+      <data key="e_SGC">0.79411765</data>
+      <data key="e_SSGC">0.03823529</data>
+      <data key="e_p">0</data>
+      <data key="e_sum_sims">4.344405815</data>
+    </edge>
+  </graph>
+</graphml>
