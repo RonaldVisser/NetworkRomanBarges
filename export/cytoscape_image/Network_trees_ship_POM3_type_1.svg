@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg 
+     version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     x="0px"
+     y="0px"
+     width="595px"
+     height="501px"
+     viewBox="0 0 595 501"
+     >
+<title></title>
+<desc>Creator: FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Revision Source:  Date: Thursday, 16 June 2022 at 15:11:38 Central European Summer Time</desc>
+<g stroke-dashoffset="0" stroke-linejoin="miter" stroke-dasharray="none" stroke-width="1" stroke-linecap="square" stroke-miterlimit="10">
+<g fill="#ffffff" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 0 0 L 595 0 L 595 501 L 0 501 L 0 0 z"/>
+</g> <!-- drawing style -->
+<g transform="matrix(4.3167389559609095, 0, 0, 4.3167389559609095, 297.5, 250.5)">
+<g stroke-opacity="1" fill="none" stroke="#999999" stroke-linecap="round">
+  <path d="M -18.011005401611328 -8.695038795471191 L 18.011005401611328 8.695038795471191"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(4.3167389559609095, 0, 0, 4.3167389559609095, 297.5, 250.5)">
+<g fill="#cccccc" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M 65.5247573852539 19.56383752822876 C 65.5247573852539 33.37095627399859 54.33187698497281 44.56383752822876 40.52475929260254 44.56383752822876 C 26.71764160023227 44.56383752822876 15.524761199951172 33.37095627399859 15.524761199951172 19.56383752822876 C 15.524761199951172 5.756718782458925 26.71764160023227 -5.43616247177124 40.52475929260254 -5.43616247177124 C 54.33187698497281 -5.43616247177124 65.5247573852539 5.756718782458925 65.5247573852539 19.56383752822876 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(4.3167389559609095, 0, 0, 4.3167389559609095, 355.81961359404534, 354.45319124012406)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">POM3013</text>
+</g> <!-- transform -->
+<g transform="matrix(4.3167389559609095, 0, 0, 4.3167389559609095, 297.5, 250.5)">
+<g fill="#cccccc" fill-rule="nonzero" fill-opacity="1" stroke="none">
+  <path d="M -15.524761199951172 -19.563838958740234 C -15.524761199951172 -5.756720212970407 -26.71764160023227 5.436161041259766 -40.52475929260254 5.436161041259766 C -54.33187698497281 5.436161041259766 -65.5247573852539 -5.756720212970407 -65.5247573852539 -19.563838958740234 C -65.5247573852539 -33.37095770451007 -54.33187698497281 -44.563838958740234 -40.52475929260254 -44.563838958740234 C -26.71764160023227 -44.563838958740234 -15.524761199951172 -33.37095770451007 -15.524761199951172 -19.563838958740234 z"/>
+</g> <!-- drawing style -->
+</g> <!-- transform -->
+<g transform="matrix(4.3167389559609095, 0, 0, 4.3167389559609095, 5.950015822465119, 185.54921971744466)">
+<text font-weight="normal" font-size="12" font-family="Helvetica" font-style="normal" fill="#000000" fill-opacity="1" stroke="none" x="0" y="0">POM3005</text>
+</g> <!-- transform -->
+</g> <!-- default stroke -->
+</svg> <!-- bounding box -->

@@ -433,7 +433,7 @@
       <data key="e_t_wuchs">13.22421041</data>
       <data key="e_SGC">0.71962617</data>
       <data key="e_SSGC">0.04205607</data>
-      <data key="e_p">1e-010</data>
+      <data key="e_p">1e-10</data>
       <data key="e_sum_sims">2.713508841</data>
     </edge>
     <edge source="n0" target="n5">
@@ -446,7 +446,7 @@
       <data key="e_t_wuchs">10.48300049</data>
       <data key="e_SGC">0.71727749</data>
       <data key="e_SSGC">0.04188482</data>
-      <data key="e_p">1.9e-009</data>
+      <data key="e_p">1.9e-09</data>
       <data key="e_sum_sims">2.370921519</data>
     </edge>
     <edge source="n0" target="n20">
@@ -459,7 +459,7 @@
       <data key="e_t_wuchs">9.35308166</data>
       <data key="e_SGC">0.70731707</data>
       <data key="e_SSGC">0.04878049</data>
-      <data key="e_p">1.097e-007</data>
+      <data key="e_p">1.097e-07</data>
       <data key="e_sum_sims">2.233598836</data>
     </edge>
     <edge source="n0" target="n21">
@@ -472,7 +472,7 @@
       <data key="e_t_wuchs">10.22226112</data>
       <data key="e_SGC">0.73049645</data>
       <data key="e_SSGC">0.04964539</data>
-      <data key="e_p">4.4e-008</data>
+      <data key="e_p">4.4e-08</data>
       <data key="e_sum_sims">2.406473482</data>
     </edge>
     <edge source="n0" target="n39">
@@ -485,7 +485,7 @@
       <data key="e_t_wuchs">13.98318096</data>
       <data key="e_SGC">0.74125874</data>
       <data key="e_SSGC">0.05594406</data>
-      <data key="e_p">7.9e-009</data>
+      <data key="e_p">7.9e-09</data>
       <data key="e_sum_sims">2.900691706</data>
     </edge>
     <edge source="n0" target="n57">
@@ -498,7 +498,7 @@
       <data key="e_t_wuchs">9.22052924</data>
       <data key="e_SGC">0.72727273</data>
       <data key="e_SSGC">0.04040404</data>
-      <data key="e_p">6.1064e-006</data>
+      <data key="e_p">6.1064e-06</data>
       <data key="e_sum_sims">2.330892974</data>
     </edge>
     <edge source="n0" target="n59">
@@ -511,7 +511,7 @@
       <data key="e_t_wuchs">8.29495417</data>
       <data key="e_SGC">0.71653543</data>
       <data key="e_SSGC">0.06299213</data>
-      <data key="e_p">1.0584e-006</data>
+      <data key="e_p">1.0584e-06</data>
       <data key="e_sum_sims">2.140340157</data>
     </edge>
     <edge source="n0" target="n64">
@@ -524,7 +524,7 @@
       <data key="e_t_wuchs">9.03577727</data>
       <data key="e_SGC">0.73076923</data>
       <data key="e_SSGC">0.05128205</data>
-      <data key="e_p">4.57782e-005</data>
+      <data key="e_p">4.57782e-05</data>
       <data key="e_sum_sims">2.351731397</data>
     </edge>
     <edge source="n0" target="n67">
@@ -537,7 +537,7 @@
       <data key="e_t_wuchs">7.81570022</data>
       <data key="e_SGC">0.8</data>
       <data key="e_SSGC">0.03636364</data>
-      <data key="e_p">8.5983e-006</data>
+      <data key="e_p">8.5983e-06</data>
       <data key="e_sum_sims">2.310118092</data>
     </edge>
     <edge source="n0" target="n72">
@@ -550,7 +550,7 @@
       <data key="e_t_wuchs">10.89736063</data>
       <data key="e_SGC">0.70258621</data>
       <data key="e_SSGC">0.0387931</data>
-      <data key="e_p">7e-010</data>
+      <data key="e_p">7e-10</data>
       <data key="e_sum_sims">2.375016783</data>
     </edge>
     <edge source="n0" target="n78">
@@ -563,7 +563,7 @@
       <data key="e_t_wuchs">5.39601957</data>
       <data key="e_SGC">0.7721519</data>
       <data key="e_SSGC">0.03797468</data>
-      <data key="e_p">1.3123e-006</data>
+      <data key="e_p">1.3123e-06</data>
       <data key="e_sum_sims">1.833121727</data>
     </edge>
     <edge source="n0" target="n120">
@@ -589,7 +589,7 @@
       <data key="e_t_wuchs">12.011589</data>
       <data key="e_SGC">0.71328671</data>
       <data key="e_SSGC">0.08391608</data>
-      <data key="e_p">3.377e-007</data>
+      <data key="e_p">3.377e-07</data>
       <data key="e_sum_sims">2.62436048</data>
     </edge>
     <edge source="n2" target="n109">
@@ -602,7 +602,7 @@
       <data key="e_t_wuchs">7.52521593</data>
       <data key="e_SGC">0.76136364</data>
       <data key="e_SSGC">0.04545455</data>
-      <data key="e_p">9.409e-007</data>
+      <data key="e_p">9.409e-07</data>
       <data key="e_sum_sims">2.141796223</data>
     </edge>
     <edge source="n3" target="n42">
@@ -615,7 +615,7 @@
       <data key="e_t_wuchs">6.05206502</data>
       <data key="e_SGC">0.73417722</data>
       <data key="e_SSGC">0.03797468</data>
-      <data key="e_p">3.14334e-005</data>
+      <data key="e_p">3.14334e-05</data>
       <data key="e_sum_sims">1.904657962</data>
     </edge>
     <edge source="n3" target="n55">
@@ -628,7 +628,7 @@
       <data key="e_t_wuchs">7.8198605</data>
       <data key="e_SGC">0.70588235</data>
       <data key="e_SSGC">0.04901961</data>
-      <data key="e_p">3.20176e-005</data>
+      <data key="e_p">3.20176e-05</data>
       <data key="e_sum_sims">2.10197001</data>
     </edge>
     <edge source="n3" target="n59">
@@ -641,7 +641,7 @@
       <data key="e_t_wuchs">10.52836301</data>
       <data key="e_SGC">0.71323529</data>
       <data key="e_SSGC">0.06617647</data>
-      <data key="e_p">6.577e-007</data>
+      <data key="e_p">6.577e-07</data>
       <data key="e_sum_sims">2.437545121</data>
     </edge>
     <edge source="n3" target="n67">
@@ -667,7 +667,7 @@
       <data key="e_t_wuchs">8.63697329</data>
       <data key="e_SGC">0.7</data>
       <data key="e_SSGC">0.06666667</data>
-      <data key="e_p">1.17713e-005</data>
+      <data key="e_p">1.17713e-05</data>
       <data key="e_sum_sims">2.184440459</data>
     </edge>
     <edge source="n3" target="n106">
@@ -680,7 +680,7 @@
       <data key="e_t_wuchs">8.91889667</data>
       <data key="e_SGC">0.72847682</data>
       <data key="e_SSGC">0.04635762</data>
-      <data key="e_p">1.96e-008</data>
+      <data key="e_p">1.96e-08</data>
       <data key="e_sum_sims">2.209041477</data>
     </edge>
     <edge source="n3" target="n120">
@@ -693,7 +693,7 @@
       <data key="e_t_wuchs">9.6394993</data>
       <data key="e_SGC">0.70238095</data>
       <data key="e_SSGC">0.04166667</data>
-      <data key="e_p">1.552e-007</data>
+      <data key="e_p">1.552e-07</data>
       <data key="e_sum_sims">2.2642393</data>
     </edge>
     <edge source="n4" target="n32">
@@ -706,7 +706,7 @@
       <data key="e_t_wuchs">7.80829422</data>
       <data key="e_SGC">0.7195122</data>
       <data key="e_SSGC">0.06097561</data>
-      <data key="e_p">7.02212e-005</data>
+      <data key="e_p">7.02212e-05</data>
       <data key="e_sum_sims">2.155669592</data>
     </edge>
     <edge source="n4" target="n46">
@@ -719,7 +719,7 @@
       <data key="e_t_wuchs">6.84035735</data>
       <data key="e_SGC">0.74683544</data>
       <data key="e_SSGC">0.03797468</data>
-      <data key="e_p">1.1448e-005</data>
+      <data key="e_p">1.1448e-05</data>
       <data key="e_sum_sims">2.043204715</data>
     </edge>
     <edge source="n5" target="n60">
@@ -732,7 +732,7 @@
       <data key="e_t_wuchs">5.20127786</data>
       <data key="e_SGC">0.74647887</data>
       <data key="e_SSGC">0.02816901</data>
-      <data key="e_p">3.27091e-005</data>
+      <data key="e_p">3.27091e-05</data>
       <data key="e_sum_sims">1.794571396</data>
     </edge>
     <edge source="n6" target="n126">
@@ -745,7 +745,7 @@
       <data key="e_t_wuchs">8.44860666</data>
       <data key="e_SGC">0.70481928</data>
       <data key="e_SSGC">0.04216867</data>
-      <data key="e_p">1.307e-007</data>
+      <data key="e_p">1.307e-07</data>
       <data key="e_sum_sims">2.099196386</data>
     </edge>
     <edge source="n7" target="n59">
@@ -758,7 +758,7 @@
       <data key="e_t_wuchs">8.98170668</data>
       <data key="e_SGC">0.71532847</data>
       <data key="e_SSGC">0.05839416</data>
-      <data key="e_p">4.638e-007</data>
+      <data key="e_p">4.638e-07</data>
       <data key="e_sum_sims">2.223679768</data>
     </edge>
     <edge source="n7" target="n63">
@@ -771,7 +771,7 @@
       <data key="e_t_wuchs">6.74514493</data>
       <data key="e_SGC">0.71276596</data>
       <data key="e_SSGC">0.03191489</data>
-      <data key="e_p">3.69633e-005</data>
+      <data key="e_p">3.69633e-05</data>
       <data key="e_sum_sims">1.960434193</data>
     </edge>
     <edge source="n7" target="n67">
@@ -784,7 +784,7 @@
       <data key="e_t_wuchs">8.28443674</data>
       <data key="e_SGC">0.73636364</data>
       <data key="e_SSGC">0.05454545</data>
-      <data key="e_p">7.122e-007</data>
+      <data key="e_p">7.122e-07</data>
       <data key="e_sum_sims">2.186395164</data>
     </edge>
     <edge source="n7" target="n100">
@@ -797,7 +797,7 @@
       <data key="e_t_wuchs">8.41102559</data>
       <data key="e_SGC">0.72151899</data>
       <data key="e_SSGC">0.01265823</data>
-      <data key="e_p">2.56e-008</data>
+      <data key="e_p">2.56e-08</data>
       <data key="e_sum_sims">2.119966659</data>
     </edge>
     <edge source="n7" target="n106">
@@ -823,7 +823,7 @@
       <data key="e_t_wuchs">11.05770173</data>
       <data key="e_SGC">0.70472441</data>
       <data key="e_SSGC">0.06299213</data>
-      <data key="e_p">1e-010</data>
+      <data key="e_p">1e-10</data>
       <data key="e_sum_sims">2.381304283</data>
     </edge>
     <edge source="n7" target="n116">
@@ -875,7 +875,7 @@
       <data key="e_t_wuchs">10.70662131</data>
       <data key="e_SGC">0.75167785</data>
       <data key="e_SSGC">0.03355705</data>
-      <data key="e_p">8e-010</data>
+      <data key="e_p">8e-10</data>
       <data key="e_sum_sims">2.483001231</data>
     </edge>
     <edge source="n8" target="n61">
@@ -888,7 +888,7 @@
       <data key="e_t_wuchs">11.87327269</data>
       <data key="e_SGC">0.73626374</data>
       <data key="e_SSGC">0.02197802</data>
-      <data key="e_p">2e-010</data>
+      <data key="e_p">2e-10</data>
       <data key="e_sum_sims">2.585288719</data>
     </edge>
     <edge source="n8" target="n64">
@@ -901,7 +901,7 @@
       <data key="e_t_wuchs">11.08646689</data>
       <data key="e_SGC">0.70921986</data>
       <data key="e_SSGC">0.07092199</data>
-      <data key="e_p">6.74e-007</data>
+      <data key="e_p">6.74e-07</data>
       <data key="e_sum_sims">2.501604709</data>
     </edge>
     <edge source="n8" target="n65">
@@ -914,7 +914,7 @@
       <data key="e_t_wuchs">8.08701703</data>
       <data key="e_SGC">0.74242424</data>
       <data key="e_SSGC">0.03030303</data>
-      <data key="e_p">2.54e-008</data>
+      <data key="e_p">2.54e-08</data>
       <data key="e_sum_sims">2.128181713</data>
     </edge>
     <edge source="n8" target="n83">
@@ -927,7 +927,7 @@
       <data key="e_t_wuchs">7.93491536</data>
       <data key="e_SGC">0.74324324</data>
       <data key="e_SSGC">0.04054054</data>
-      <data key="e_p">2.85273e-005</data>
+      <data key="e_p">2.85273e-05</data>
       <data key="e_sum_sims">2.217241026</data>
     </edge>
     <edge source="n8" target="n102">
@@ -940,7 +940,7 @@
       <data key="e_t_wuchs">6.19172899</data>
       <data key="e_SGC">0.7173913</data>
       <data key="e_SSGC">0.07608696</data>
-      <data key="e_p">3.04215e-005</data>
+      <data key="e_p">3.04215e-05</data>
       <data key="e_sum_sims">1.881003789</data>
     </edge>
     <edge source="n8" target="n120">
@@ -953,7 +953,7 @@
       <data key="e_t_wuchs">8.04374671</data>
       <data key="e_SGC">0.71</data>
       <data key="e_SSGC">0.04</data>
-      <data key="e_p">2.66915e-005</data>
+      <data key="e_p">2.66915e-05</data>
       <data key="e_sum_sims">2.143057471</data>
     </edge>
     <edge source="n9" target="n13">
@@ -966,7 +966,7 @@
       <data key="e_t_wuchs">6.6451973</data>
       <data key="e_SGC">0.76923077</data>
       <data key="e_SSGC">0.01538462</data>
-      <data key="e_p">1.41697e-005</data>
+      <data key="e_p">1.41697e-05</data>
       <data key="e_sum_sims">2.07271578</data>
     </edge>
     <edge source="n9" target="n82">
@@ -979,7 +979,7 @@
       <data key="e_t_wuchs">5.79861673</data>
       <data key="e_SGC">0.70408163</data>
       <data key="e_SSGC">0.04081633</data>
-      <data key="e_p">5.33123e-005</data>
+      <data key="e_p">5.33123e-05</data>
       <data key="e_sum_sims">1.791299523</data>
     </edge>
     <edge source="n10" target="n12">
@@ -1005,7 +1005,7 @@
       <data key="e_t_wuchs">10.38925583</data>
       <data key="e_SGC">0.71005917</data>
       <data key="e_SSGC">0.07692308</data>
-      <data key="e_p">4.72e-008</data>
+      <data key="e_p">4.72e-08</data>
       <data key="e_sum_sims">2.374416263</data>
     </edge>
     <edge source="n10" target="n69">
@@ -1018,7 +1018,7 @@
       <data key="e_t_wuchs">8.48319222</data>
       <data key="e_SGC">0.70718232</data>
       <data key="e_SSGC">0.02209945</data>
-      <data key="e_p">2.48e-008</data>
+      <data key="e_p">2.48e-08</data>
       <data key="e_sum_sims">2.089930012</data>
     </edge>
     <edge source="n10" target="n125">
@@ -1031,7 +1031,7 @@
       <data key="e_t_wuchs">6.34154615</data>
       <data key="e_SGC">0.70526316</data>
       <data key="e_SSGC">0.05263158</data>
-      <data key="e_p">6.29913e-005</data>
+      <data key="e_p">6.29913e-05</data>
       <data key="e_sum_sims">1.886804545</data>
     </edge>
     <edge source="n10" target="n133">
@@ -1057,7 +1057,7 @@
       <data key="e_t_wuchs">5.6818741</data>
       <data key="e_SGC">0.74242424</data>
       <data key="e_SSGC">0.01515152</data>
-      <data key="e_p">8.18466e-005</data>
+      <data key="e_p">8.18466e-05</data>
       <data key="e_sum_sims">1.88667677</data>
     </edge>
     <edge source="n13" target="n82">
@@ -1070,7 +1070,7 @@
       <data key="e_t_wuchs">8.17391577</data>
       <data key="e_SGC">0.72815534</data>
       <data key="e_SSGC">0.05825243</data>
-      <data key="e_p">3.6382e-006</data>
+      <data key="e_p">3.6382e-06</data>
       <data key="e_sum_sims">2.174658007</data>
     </edge>
     <edge source="n13" target="n87">
@@ -1083,7 +1083,7 @@
       <data key="e_t_wuchs">7.07094904</data>
       <data key="e_SGC">0.72619048</data>
       <data key="e_SSGC">0.03571429</data>
-      <data key="e_p">3.38127e-005</data>
+      <data key="e_p">3.38127e-05</data>
       <data key="e_sum_sims">2.046418294</data>
     </edge>
     <edge source="n14" target="n36">
@@ -1122,7 +1122,7 @@
       <data key="e_t_wuchs">9.23001346</data>
       <data key="e_SGC">0.71022727</data>
       <data key="e_SSGC">0.03977273</data>
-      <data key="e_p">2.43e-008</data>
+      <data key="e_p">2.43e-08</data>
       <data key="e_sum_sims">2.205437246</data>
     </edge>
     <edge source="n15" target="n115">
@@ -1135,7 +1135,7 @@
       <data key="e_t_wuchs">10.93126482</data>
       <data key="e_SGC">0.78448276</data>
       <data key="e_SSGC">0.03448276</data>
-      <data key="e_p">9e-010</data>
+      <data key="e_p">9e-10</data>
       <data key="e_sum_sims">2.591457482</data>
     </edge>
     <edge source="n15" target="n124">
@@ -1148,7 +1148,7 @@
       <data key="e_t_wuchs">5.51703499</data>
       <data key="e_SGC">0.75324675</data>
       <data key="e_SSGC">0.01298701</data>
-      <data key="e_p">8.8112e-006</data>
+      <data key="e_p">8.8112e-06</data>
       <data key="e_sum_sims">1.839709179</data>
     </edge>
     <edge source="n16" target="n94">
@@ -1161,7 +1161,7 @@
       <data key="e_t_wuchs">5.85595895</data>
       <data key="e_SGC">0.73239437</data>
       <data key="e_SSGC">0.05633803</data>
-      <data key="e_p">8.98887e-005</data>
+      <data key="e_p">8.98887e-05</data>
       <data key="e_sum_sims">1.891409155</data>
     </edge>
     <edge source="n16" target="n130">
@@ -1174,7 +1174,7 @@
       <data key="e_t_wuchs">6.53684189</data>
       <data key="e_SGC">0.73239437</data>
       <data key="e_SSGC">0.04225352</data>
-      <data key="e_p">8.98887e-005</data>
+      <data key="e_p">8.98887e-05</data>
       <data key="e_sum_sims">2.001748069</data>
     </edge>
     <edge source="n16" target="n134">
@@ -1187,7 +1187,7 @@
       <data key="e_t_wuchs">5.19227877</data>
       <data key="e_SGC">0.76056338</data>
       <data key="e_SSGC">0.04225352</data>
-      <data key="e_p">1.12783e-005</data>
+      <data key="e_p">1.12783e-05</data>
       <data key="e_sum_sims">1.807096677</data>
     </edge>
     <edge source="n17" target="n64">
@@ -1200,7 +1200,7 @@
       <data key="e_t_wuchs">8.72096243</data>
       <data key="e_SGC">0.76829268</data>
       <data key="e_SSGC">0.02439024</data>
-      <data key="e_p">1.1799e-006</data>
+      <data key="e_p">1.1799e-06</data>
       <data key="e_sum_sims">2.336275203</data>
     </edge>
     <edge source="n18" target="n73">
@@ -1213,7 +1213,7 @@
       <data key="e_t_wuchs">6.13517462</data>
       <data key="e_SGC">0.74666667</data>
       <data key="e_SSGC">0.01333333</data>
-      <data key="e_p">1.93387e-005</data>
+      <data key="e_p">1.93387e-05</data>
       <data key="e_sum_sims">1.940836632</data>
     </edge>
     <edge source="n19" target="n24">
@@ -1226,7 +1226,7 @@
       <data key="e_t_wuchs">10.70577727</data>
       <data key="e_SGC">0.70658683</data>
       <data key="e_SSGC">0.01197605</data>
-      <data key="e_p">9.33e-008</data>
+      <data key="e_p">9.33e-08</data>
       <data key="e_sum_sims">2.416257167</data>
     </edge>
     <edge source="n19" target="n25">
@@ -1239,7 +1239,7 @@
       <data key="e_t_wuchs">9.1115926</data>
       <data key="e_SGC">0.70539419</data>
       <data key="e_SSGC">0.05394191</data>
-      <data key="e_p">2e-010</data>
+      <data key="e_p">2e-10</data>
       <data key="e_sum_sims">2.12351945</data>
     </edge>
     <edge source="n20" target="n39">
@@ -1252,7 +1252,7 @@
       <data key="e_t_wuchs">7.91661154</data>
       <data key="e_SGC">0.71153846</data>
       <data key="e_SSGC">0.08653846</data>
-      <data key="e_p">1.59925e-005</data>
+      <data key="e_p">1.59925e-05</data>
       <data key="e_sum_sims">2.118254414</data>
     </edge>
     <edge source="n22" target="n119">
@@ -1265,7 +1265,7 @@
       <data key="e_t_wuchs">8.1176354</data>
       <data key="e_SGC">0.72781065</data>
       <data key="e_SSGC">0.04733728</data>
-      <data key="e_p">3.2e-009</data>
+      <data key="e_p">3.2e-09</data>
       <data key="e_sum_sims">2.07035858</data>
     </edge>
     <edge source="n23" target="n103">
@@ -1278,7 +1278,7 @@
       <data key="e_t_wuchs">5.24645759</data>
       <data key="e_SGC">0.72289157</data>
       <data key="e_SSGC">0.03614458</data>
-      <data key="e_p">4.88049e-005</data>
+      <data key="e_p">4.88049e-05</data>
       <data key="e_sum_sims">1.748850259</data>
     </edge>
     <edge source="n24" target="n41">
@@ -1291,7 +1291,7 @@
       <data key="e_t_wuchs">7.39915805</data>
       <data key="e_SGC">0.71052632</data>
       <data key="e_SSGC">0.03508772</data>
-      <data key="e_p">6.937e-006</data>
+      <data key="e_p">6.937e-06</data>
       <data key="e_sum_sims">2.021728975</data>
     </edge>
     <edge source="n24" target="n91">
@@ -1317,7 +1317,7 @@
       <data key="e_t_wuchs">8.15792207</data>
       <data key="e_SGC">0.72916667</data>
       <data key="e_SSGC">0.03645833</data>
-      <data key="e_p">2e-010</data>
+      <data key="e_p">2e-10</data>
       <data key="e_sum_sims">2.053290757</data>
     </edge>
     <edge source="n27" target="n66">
@@ -1330,7 +1330,7 @@
       <data key="e_t_wuchs">5.01040275</data>
       <data key="e_SGC">0.74626866</data>
       <data key="e_SSGC">0.04477612</data>
-      <data key="e_p">5.54004e-005</data>
+      <data key="e_p">5.54004e-05</data>
       <data key="e_sum_sims">1.772241595</data>
     </edge>
     <edge source="n28" target="n42">
@@ -1343,7 +1343,7 @@
       <data key="e_t_wuchs">9.26585864</data>
       <data key="e_SGC">0.76119403</data>
       <data key="e_SSGC">0.02985075</data>
-      <data key="e_p">1.90341e-005</data>
+      <data key="e_p">1.90341e-05</data>
       <data key="e_sum_sims">2.439696194</data>
     </edge>
     <edge source="n28" target="n50">
@@ -1382,7 +1382,7 @@
       <data key="e_t_wuchs">9.12393918</data>
       <data key="e_SGC">0.73722628</data>
       <data key="e_SSGC">0.05109489</data>
-      <data key="e_p">2.8e-008</data>
+      <data key="e_p">2.8e-08</data>
       <data key="e_sum_sims">2.265812518</data>
     </edge>
     <edge source="n28" target="n67">
@@ -1395,7 +1395,7 @@
       <data key="e_t_wuchs">8.71372718</data>
       <data key="e_SGC">0.75675676</data>
       <data key="e_SSGC">0.02702703</data>
-      <data key="e_p">9.9891e-006</data>
+      <data key="e_p">9.9891e-06</data>
       <data key="e_sum_sims">2.342155868</data>
     </edge>
     <edge source="n28" target="n84">
@@ -1408,7 +1408,7 @@
       <data key="e_t_wuchs">6.46834913</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">1.12545e-005</data>
+      <data key="e_p">1.12545e-05</data>
       <data key="e_sum_sims">1.896739423</data>
     </edge>
     <edge source="n28" target="n100">
@@ -1421,7 +1421,7 @@
       <data key="e_t_wuchs">6.72065273</data>
       <data key="e_SGC">0.70491803</data>
       <data key="e_SSGC">0.04098361</data>
-      <data key="e_p">5.9887e-006</data>
+      <data key="e_p">5.9887e-06</data>
       <data key="e_sum_sims">1.898344663</data>
     </edge>
     <edge source="n28" target="n120">
@@ -1447,7 +1447,7 @@
       <data key="e_t_wuchs">12.93403318</data>
       <data key="e_SGC">0.70454545</data>
       <data key="e_SSGC">0.08333333</data>
-      <data key="e_p">2.6004e-006</data>
+      <data key="e_p">2.6004e-06</data>
       <data key="e_sum_sims">2.746833878</data>
     </edge>
     <edge source="n30" target="n101">
@@ -1473,7 +1473,7 @@
       <data key="e_t_wuchs">10.21130661</data>
       <data key="e_SGC">0.74683544</data>
       <data key="e_SSGC">0.03797468</data>
-      <data key="e_p">5e-010</data>
+      <data key="e_p">5e-10</data>
       <data key="e_sum_sims">2.399702491</data>
     </edge>
     <edge source="n30" target="n115">
@@ -1486,7 +1486,7 @@
       <data key="e_t_wuchs">9.82501211</data>
       <data key="e_SGC">0.70689655</data>
       <data key="e_SSGC">0.03448276</data>
-      <data key="e_p">8.3236e-006</data>
+      <data key="e_p">8.3236e-06</data>
       <data key="e_sum_sims">2.364930221</data>
     </edge>
     <edge source="n30" target="n127">
@@ -1499,7 +1499,7 @@
       <data key="e_t_wuchs">9.95150236</data>
       <data key="e_SGC">0.74814815</data>
       <data key="e_SSGC">0.05185185</data>
-      <data key="e_p">8.1e-009</data>
+      <data key="e_p">8.1e-09</data>
       <data key="e_sum_sims">2.395197656</data>
     </edge>
     <edge source="n30" target="n130">
@@ -1512,7 +1512,7 @@
       <data key="e_t_wuchs">9.83439394</data>
       <data key="e_SGC">0.70776256</data>
       <data key="e_SSGC">0.02739726</data>
-      <data key="e_p">8e-010</data>
+      <data key="e_p">8e-10</data>
       <data key="e_sum_sims">2.245557844</data>
     </edge>
     <edge source="n31" target="n131">
@@ -1538,7 +1538,7 @@
       <data key="e_t_wuchs">7.09852741</data>
       <data key="e_SGC">0.71287129</data>
       <data key="e_SSGC">0.04950495</data>
-      <data key="e_p">1.88022e-005</data>
+      <data key="e_p">1.88022e-05</data>
       <data key="e_sum_sims">2.001566111</data>
     </edge>
     <edge source="n33" target="n45">
@@ -1551,7 +1551,7 @@
       <data key="e_t_wuchs">5.02620784</data>
       <data key="e_SGC">0.72368421</data>
       <data key="e_SSGC">0.03947368</data>
-      <data key="e_p">9.61659e-005</data>
+      <data key="e_p">9.61659e-05</data>
       <data key="e_sum_sims">1.728266724</data>
     </edge>
     <edge source="n34" target="n100">
@@ -1564,7 +1564,7 @@
       <data key="e_t_wuchs">9.76078515</data>
       <data key="e_SGC">0.72727273</data>
       <data key="e_SSGC">0.02673797</data>
-      <data key="e_p">5e-010</data>
+      <data key="e_p">5e-10</data>
       <data key="e_sum_sims">2.285348305</data>
     </edge>
     <edge source="n34" target="n117">
@@ -1577,7 +1577,7 @@
       <data key="e_t_wuchs">9.36363154</data>
       <data key="e_SGC">0.71689498</data>
       <data key="e_SSGC">0.0456621</data>
-      <data key="e_p">1e-010</data>
+      <data key="e_p">1e-10</data>
       <data key="e_sum_sims">2.188823534</data>
     </edge>
     <edge source="n35" target="n40">
@@ -1590,7 +1590,7 @@
       <data key="e_t_wuchs">6.54668031</data>
       <data key="e_SGC">0.7</data>
       <data key="e_SSGC">0.09</data>
-      <data key="e_p">6.33425e-005</data>
+      <data key="e_p">6.33425e-05</data>
       <data key="e_sum_sims">1.904326151</data>
     </edge>
     <edge source="n35" target="n85">
@@ -1603,7 +1603,7 @@
       <data key="e_t_wuchs">9.38536753</data>
       <data key="e_SGC">0.7</data>
       <data key="e_SSGC">0.05555556</data>
-      <data key="e_p">8.03e-008</data>
+      <data key="e_p">8.03e-08</data>
       <data key="e_sum_sims">2.212820383</data>
     </edge>
     <edge source="n35" target="n91">
@@ -1616,7 +1616,7 @@
       <data key="e_t_wuchs">5.97515653</data>
       <data key="e_SGC">0.75862069</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">8.17561e-005</data>
+      <data key="e_p">8.17561e-05</data>
       <data key="e_sum_sims">1.976724633</data>
     </edge>
     <edge source="n36" target="n114">
@@ -1629,7 +1629,7 @@
       <data key="e_t_wuchs">6.19686422</data>
       <data key="e_SGC">0.72222222</data>
       <data key="e_SSGC">0.02777778</data>
-      <data key="e_p">3.8596e-006</data>
+      <data key="e_p">3.8596e-06</data>
       <data key="e_sum_sims">1.855819852</data>
     </edge>
     <edge source="n37" target="n82">
@@ -1642,7 +1642,7 @@
       <data key="e_t_wuchs">8.87053542</data>
       <data key="e_SGC">0.72432432</data>
       <data key="e_SSGC">0.03243243</data>
-      <data key="e_p">1e-009</data>
+      <data key="e_p">1e-09</data>
       <data key="e_sum_sims">2.158684912</data>
     </edge>
     <edge source="n37" target="n93">
@@ -1655,7 +1655,7 @@
       <data key="e_t_wuchs">7.88389466</data>
       <data key="e_SGC">0.72340426</data>
       <data key="e_SSGC">0.04255319</data>
-      <data key="e_p">1.47782e-005</data>
+      <data key="e_p">1.47782e-05</data>
       <data key="e_sum_sims">2.144725376</data>
     </edge>
     <edge source="n38" target="n120">
@@ -1681,7 +1681,7 @@
       <data key="e_t_wuchs">10.28565387</data>
       <data key="e_SGC">0.72727273</data>
       <data key="e_SSGC">0.06293706</data>
-      <data key="e_p">5.46e-008</data>
+      <data key="e_p">5.46e-08</data>
       <data key="e_sum_sims">2.409248337</data>
     </edge>
     <edge source="n40" target="n41">
@@ -1694,7 +1694,7 @@
       <data key="e_t_wuchs">7.08518126</data>
       <data key="e_SGC">0.72807018</data>
       <data key="e_SSGC">0.02631579</data>
-      <data key="e_p">1.1146e-006</data>
+      <data key="e_p">1.1146e-06</data>
       <data key="e_sum_sims">1.991202736</data>
     </edge>
     <edge source="n40" target="n81">
@@ -1707,7 +1707,7 @@
       <data key="e_t_wuchs">7.09408342</data>
       <data key="e_SGC">0.72289157</data>
       <data key="e_SSGC">0.03614458</data>
-      <data key="e_p">4.88049e-005</data>
+      <data key="e_p">4.88049e-05</data>
       <data key="e_sum_sims">2.048999512</data>
     </edge>
     <edge source="n40" target="n91">
@@ -1720,7 +1720,7 @@
       <data key="e_t_wuchs">9.87152651</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0.06493506</data>
-      <data key="e_p">1.047e-007</data>
+      <data key="e_p">1.047e-07</data>
       <data key="e_sum_sims">2.325211071</data>
     </edge>
     <edge source="n42" target="n58">
@@ -1733,7 +1733,7 @@
       <data key="e_t_wuchs">12.47848853</data>
       <data key="e_SGC">0.83870968</data>
       <data key="e_SSGC">0.03225806</data>
-      <data key="e_p">9.61e-008</data>
+      <data key="e_p">9.61e-08</data>
       <data key="e_sum_sims">2.934214893</data>
     </edge>
     <edge source="n42" target="n60">
@@ -1746,7 +1746,7 @@
       <data key="e_t_wuchs">13.13611242</data>
       <data key="e_SGC">0.75949367</data>
       <data key="e_SSGC">0.03797468</data>
-      <data key="e_p">3.9717e-006</data>
+      <data key="e_p">3.9717e-06</data>
       <data key="e_sum_sims">2.902980892</data>
     </edge>
     <edge source="n42" target="n90">
@@ -1759,7 +1759,7 @@
       <data key="e_t_wuchs">6.21881794</data>
       <data key="e_SGC">0.73417722</data>
       <data key="e_SSGC">0.02531646</data>
-      <data key="e_p">3.14334e-005</data>
+      <data key="e_p">3.14334e-05</data>
       <data key="e_sum_sims">1.931792334</data>
     </edge>
     <edge source="n42" target="n100">
@@ -1772,7 +1772,7 @@
       <data key="e_t_wuchs">8.95390228</data>
       <data key="e_SGC">0.72151899</data>
       <data key="e_SSGC">0.02531646</data>
-      <data key="e_p">8.22295e-005</data>
+      <data key="e_p">8.22295e-05</data>
       <data key="e_sum_sims">2.328855198</data>
     </edge>
     <edge source="n42" target="n122">
@@ -1785,7 +1785,7 @@
       <data key="e_t_wuchs">9.4058958</data>
       <data key="e_SGC">0.8</data>
       <data key="e_SSGC">0.05</data>
-      <data key="e_p">3.3585e-006</data>
+      <data key="e_p">3.3585e-06</data>
       <data key="e_sum_sims">2.51513526</data>
     </edge>
     <edge source="n43" target="n76">
@@ -1798,7 +1798,7 @@
       <data key="e_t_wuchs">9.09818963</data>
       <data key="e_SGC">0.73825503</data>
       <data key="e_SSGC">0.0738255</data>
-      <data key="e_p">6e-009</data>
+      <data key="e_p">6e-09</data>
       <data key="e_sum_sims">2.246980003</data>
     </edge>
     <edge source="n43" target="n121">
@@ -1811,7 +1811,7 @@
       <data key="e_t_wuchs">4.93451734</data>
       <data key="e_SGC">0.75806452</data>
       <data key="e_SSGC">0.03225806</data>
-      <data key="e_p">4.8238e-005</data>
+      <data key="e_p">4.8238e-05</data>
       <data key="e_sum_sims">1.785642954</data>
     </edge>
     <edge source="n44" target="n74">
@@ -1824,7 +1824,7 @@
       <data key="e_t_wuchs">6.61404041</data>
       <data key="e_SGC">0.73484848</data>
       <data key="e_SSGC">0.04545455</data>
-      <data key="e_p">6.8e-008</data>
+      <data key="e_p">6.8e-08</data>
       <data key="e_sum_sims">1.896590891</data>
     </edge>
     <edge source="n45" target="n58">
@@ -1837,7 +1837,7 @@
       <data key="e_t_wuchs">7.93227036</data>
       <data key="e_SGC">0.72277228</data>
       <data key="e_SSGC">0.02970297</data>
-      <data key="e_p">7.5463e-006</data>
+      <data key="e_p">7.5463e-06</data>
       <data key="e_sum_sims">2.137453466</data>
     </edge>
     <edge source="n47" target="n92">
@@ -1850,7 +1850,7 @@
       <data key="e_t_wuchs">7.39193638</data>
       <data key="e_SGC">0.70547945</data>
       <data key="e_SSGC">0.02054795</data>
-      <data key="e_p">6.848e-007</data>
+      <data key="e_p">6.848e-07</data>
       <data key="e_sum_sims">1.967832028</data>
     </edge>
     <edge source="n47" target="n107">
@@ -1863,7 +1863,7 @@
       <data key="e_t_wuchs">5.69343254</data>
       <data key="e_SGC">0.7195122</data>
       <data key="e_SSGC">0.03658537</data>
-      <data key="e_p">7.02212e-005</data>
+      <data key="e_p">7.02212e-05</data>
       <data key="e_sum_sims">1.823467324</data>
     </edge>
     <edge source="n48" target="n51">
@@ -1876,7 +1876,7 @@
       <data key="e_t_wuchs">8.03865634</data>
       <data key="e_SGC">0.75206612</data>
       <data key="e_SSGC">0.0661157</data>
-      <data key="e_p">2.93e-008</data>
+      <data key="e_p">2.93e-08</data>
       <data key="e_sum_sims">2.147553454</data>
     </edge>
     <edge source="n48" target="n67">
@@ -1889,7 +1889,7 @@
       <data key="e_t_wuchs">6.28155102</data>
       <data key="e_SGC">0.7</data>
       <data key="e_SSGC">0.04</data>
-      <data key="e_p">6.33425e-005</data>
+      <data key="e_p">6.33425e-05</data>
       <data key="e_sum_sims">1.861991332</data>
     </edge>
     <edge source="n48" target="n133">
@@ -1902,7 +1902,7 @@
       <data key="e_t_wuchs">10.37516872</data>
       <data key="e_SGC">0.7311828</data>
       <data key="e_SSGC">0.03225806</data>
-      <data key="e_p">3e-010</data>
+      <data key="e_p">3e-10</data>
       <data key="e_sum_sims">2.375191932</data>
     </edge>
     <edge source="n49" target="n53">
@@ -1915,7 +1915,7 @@
       <data key="e_t_wuchs">5.48045426</data>
       <data key="e_SGC">0.75675676</data>
       <data key="e_SSGC">0.01351351</data>
-      <data key="e_p">9.9891e-006</data>
+      <data key="e_p">9.9891e-06</data>
       <data key="e_sum_sims">1.844714676</data>
     </edge>
     <edge source="n50" target="n58">
@@ -1928,7 +1928,7 @@
       <data key="e_t_wuchs">9.12366726</data>
       <data key="e_SGC">0.72357724</data>
       <data key="e_SSGC">0.02439024</data>
-      <data key="e_p">7.079e-007</data>
+      <data key="e_p">7.079e-07</data>
       <data key="e_sum_sims">2.272793826</data>
     </edge>
     <edge source="n50" target="n67">
@@ -1941,7 +1941,7 @@
       <data key="e_t_wuchs">8.30115022</data>
       <data key="e_SGC">0.76744186</data>
       <data key="e_SSGC">0.04651163</data>
-      <data key="e_p">7.038e-007</data>
+      <data key="e_p">7.038e-07</data>
       <data key="e_sum_sims">2.266680152</data>
     </edge>
     <edge source="n50" target="n120">
@@ -1967,7 +1967,7 @@
       <data key="e_t_wuchs">7.82593561</data>
       <data key="e_SGC">0.70192308</data>
       <data key="e_SSGC">0.02884615</data>
-      <data key="e_p">3.81448e-005</data>
+      <data key="e_p">3.81448e-05</data>
       <data key="e_sum_sims">2.095163091</data>
     </edge>
     <edge source="n53" target="n54">
@@ -1980,7 +1980,7 @@
       <data key="e_t_wuchs">6.43932685</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">8.5683e-005</data>
+      <data key="e_p">8.5683e-05</data>
       <data key="e_sum_sims">1.935405965</data>
     </edge>
     <edge source="n53" target="n129">
@@ -1993,7 +1993,7 @@
       <data key="e_t_wuchs">5.99107134</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">8.5683e-005</data>
+      <data key="e_p">8.5683e-05</data>
       <data key="e_sum_sims">1.862840674</data>
     </edge>
     <edge source="n54" target="n57">
@@ -2006,7 +2006,7 @@
       <data key="e_t_wuchs">9.24243121</data>
       <data key="e_SGC">0.72727273</data>
       <data key="e_SSGC">0.02020202</data>
-      <data key="e_p">6.1064e-006</data>
+      <data key="e_p">6.1064e-06</data>
       <data key="e_sum_sims">2.333948631</data>
     </edge>
     <edge source="n54" target="n59">
@@ -2019,7 +2019,7 @@
       <data key="e_t_wuchs">7.09213013</data>
       <data key="e_SGC">0.73611111</data>
       <data key="e_SSGC">0.05555556</data>
-      <data key="e_p">6.15109e-005</data>
+      <data key="e_p">6.15109e-05</data>
       <data key="e_sum_sims">2.089269933</data>
     </edge>
     <edge source="n55" target="n59">
@@ -2032,7 +2032,7 @@
       <data key="e_t_wuchs">8.21194982</data>
       <data key="e_SGC">0.73786408</data>
       <data key="e_SSGC">0.05825243</data>
-      <data key="e_p">1.3783e-006</data>
+      <data key="e_p">1.3783e-06</data>
       <data key="e_sum_sims">2.189934022</data>
     </edge>
     <edge source="n56" target="n65">
@@ -2045,7 +2045,7 @@
       <data key="e_t_wuchs">7.61278339</data>
       <data key="e_SGC">0.8</data>
       <data key="e_SSGC">0.01428571</data>
-      <data key="e_p">5.168e-007</data>
+      <data key="e_p">5.168e-07</data>
       <data key="e_sum_sims">2.236924749</data>
     </edge>
     <edge source="n56" target="n83">
@@ -2058,7 +2058,7 @@
       <data key="e_t_wuchs">6.28357668</data>
       <data key="e_SGC">0.72972973</data>
       <data key="e_SSGC">0.02702703</data>
-      <data key="e_p">7.73649e-005</data>
+      <data key="e_p">7.73649e-05</data>
       <data key="e_sum_sims">1.950552568</data>
     </edge>
     <edge source="n57" target="n59">
@@ -2071,7 +2071,7 @@
       <data key="e_t_wuchs">11.29181596</data>
       <data key="e_SGC">0.76388889</data>
       <data key="e_SSGC">0.08333333</data>
-      <data key="e_p">7.5225e-006</data>
+      <data key="e_p">7.5225e-06</data>
       <data key="e_sum_sims">2.694523286</data>
     </edge>
     <edge source="n57" target="n68">
@@ -2084,7 +2084,7 @@
       <data key="e_t_wuchs">7.13261357</data>
       <data key="e_SGC">0.70707071</data>
       <data key="e_SSGC">0.05050505</data>
-      <data key="e_p">3.77797e-005</data>
+      <data key="e_p">3.77797e-05</data>
       <data key="e_sum_sims">2.004905417</data>
     </edge>
     <edge source="n57" target="n98">
@@ -2097,7 +2097,7 @@
       <data key="e_t_wuchs">7.34928867</data>
       <data key="e_SGC">0.71717172</data>
       <data key="e_SSGC">0.1010101</data>
-      <data key="e_p">1.54858e-005</data>
+      <data key="e_p">1.54858e-05</data>
       <data key="e_sum_sims">2.048182997</data>
     </edge>
     <edge source="n57" target="n120">
@@ -2110,7 +2110,7 @@
       <data key="e_t_wuchs">10.69339746</data>
       <data key="e_SGC">0.71717172</data>
       <data key="e_SSGC">0.08080808</data>
-      <data key="e_p">1.54858e-005</data>
+      <data key="e_p">1.54858e-05</data>
       <data key="e_sum_sims">2.520333686</data>
     </edge>
     <edge source="n58" target="n59">
@@ -2123,7 +2123,7 @@
       <data key="e_t_wuchs">8.67846371</data>
       <data key="e_SGC">0.76470588</data>
       <data key="e_SSGC">0.02521008</data>
-      <data key="e_p">7.7e-009</data>
+      <data key="e_p">7.7e-09</data>
       <data key="e_sum_sims">2.256731391</data>
     </edge>
     <edge source="n58" target="n60">
@@ -2136,7 +2136,7 @@
       <data key="e_t_wuchs">11.29607925</data>
       <data key="e_SGC">0.74796748</data>
       <data key="e_SSGC">0.02439024</data>
-      <data key="e_p">3.79e-008</data>
+      <data key="e_p">3.79e-08</data>
       <data key="e_sum_sims">2.592572395</data>
     </edge>
     <edge source="n58" target="n68">
@@ -2149,7 +2149,7 @@
       <data key="e_t_wuchs">9.98475809</data>
       <data key="e_SGC">0.71544715</data>
       <data key="e_SSGC">0.03252033</data>
-      <data key="e_p">1.763e-006</data>
+      <data key="e_p">1.763e-06</data>
       <data key="e_sum_sims">2.384516259</data>
     </edge>
     <edge source="n58" target="n100">
@@ -2162,7 +2162,7 @@
       <data key="e_t_wuchs">8.42968203</data>
       <data key="e_SGC">0.70940171</data>
       <data key="e_SSGC">0.01709402</data>
-      <data key="e_p">5.8969e-006</data>
+      <data key="e_p">5.8969e-06</data>
       <data key="e_sum_sims">2.168711203</data>
     </edge>
     <edge source="n58" target="n104">
@@ -2175,7 +2175,7 @@
       <data key="e_t_wuchs">6.72540245</data>
       <data key="e_SGC">0.71544715</data>
       <data key="e_SSGC">0.04065041</data>
-      <data key="e_p">1.763e-006</data>
+      <data key="e_p">1.763e-06</data>
       <data key="e_sum_sims">1.908055035</data>
     </edge>
     <edge source="n58" target="n106">
@@ -2188,7 +2188,7 @@
       <data key="e_t_wuchs">7.66624331</data>
       <data key="e_SGC">0.71544715</data>
       <data key="e_SSGC">0.02439024</data>
-      <data key="e_p">1.763e-006</data>
+      <data key="e_p">1.763e-06</data>
       <data key="e_sum_sims">2.052259221</data>
     </edge>
     <edge source="n58" target="n118">
@@ -2201,7 +2201,7 @@
       <data key="e_t_wuchs">5.74491699</data>
       <data key="e_SGC">0.72727273</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">6.64587e-005</data>
+      <data key="e_p">6.64587e-05</data>
       <data key="e_sum_sims">1.852017399</data>
     </edge>
     <edge source="n58" target="n120">
@@ -2214,7 +2214,7 @@
       <data key="e_t_wuchs">10.38080311</data>
       <data key="e_SGC">0.7398374</data>
       <data key="e_SSGC">0.04065041</data>
-      <data key="e_p">1.039e-007</data>
+      <data key="e_p">1.039e-07</data>
       <data key="e_sum_sims">2.462763401</data>
     </edge>
     <edge source="n59" target="n67">
@@ -2227,7 +2227,7 @@
       <data key="e_t_wuchs">8.63849837</data>
       <data key="e_SGC">0.83076923</data>
       <data key="e_SSGC">0.03076923</data>
-      <data key="e_p">9.63e-008</data>
+      <data key="e_p">9.63e-08</data>
       <data key="e_sum_sims">2.428320867</data>
     </edge>
     <edge source="n59" target="n68">
@@ -2240,7 +2240,7 @@
       <data key="e_t_wuchs">9.32784891</data>
       <data key="e_SGC">0.7080292</data>
       <data key="e_SSGC">0.05839416</data>
-      <data key="e_p">1.1169e-006</data>
+      <data key="e_p">1.1169e-06</data>
       <data key="e_sum_sims">2.265440781</data>
     </edge>
     <edge source="n59" target="n106">
@@ -2253,7 +2253,7 @@
       <data key="e_t_wuchs">9.76496841</data>
       <data key="e_SGC">0.71532847</data>
       <data key="e_SSGC">0.08759124</data>
-      <data key="e_p">4.638e-007</data>
+      <data key="e_p">4.638e-07</data>
       <data key="e_sum_sims">2.333820491</data>
     </edge>
     <edge source="n59" target="n120">
@@ -2266,7 +2266,7 @@
       <data key="e_t_wuchs">10.86284294</data>
       <data key="e_SGC">0.75182482</data>
       <data key="e_SSGC">0.05839416</data>
-      <data key="e_p">3.7e-009</data>
+      <data key="e_p">3.7e-09</data>
       <data key="e_sum_sims">2.519702684</data>
     </edge>
     <edge source="n59" target="n123">
@@ -2279,7 +2279,7 @@
       <data key="e_t_wuchs">8.75404491</data>
       <data key="e_SGC">0.75182482</data>
       <data key="e_SSGC">0.04379562</data>
-      <data key="e_p">3.7e-009</data>
+      <data key="e_p">3.7e-09</data>
       <data key="e_sum_sims">2.227563571</data>
     </edge>
     <edge source="n60" target="n67">
@@ -2305,7 +2305,7 @@
       <data key="e_t_wuchs">7.60551473</data>
       <data key="e_SGC">0.7</data>
       <data key="e_SSGC">0.01666667</data>
-      <data key="e_p">1.17713e-005</data>
+      <data key="e_p">1.17713e-05</data>
       <data key="e_sum_sims">2.032469293</data>
     </edge>
     <edge source="n62" target="n76">
@@ -2318,7 +2318,7 @@
       <data key="e_t_wuchs">6.22297738</data>
       <data key="e_SGC">0.77108434</data>
       <data key="e_SSGC">0.03614458</data>
-      <data key="e_p">7.837e-007</data>
+      <data key="e_p">7.837e-07</data>
       <data key="e_sum_sims">1.959750208</data>
     </edge>
     <edge source="n62" target="n104">
@@ -2331,7 +2331,7 @@
       <data key="e_t_wuchs">6.51759463</data>
       <data key="e_SGC">0.72289157</data>
       <data key="e_SSGC">0.02409639</data>
-      <data key="e_p">4.88049e-005</data>
+      <data key="e_p">4.88049e-05</data>
       <data key="e_sum_sims">1.958821003</data>
     </edge>
     <edge source="n62" target="n117">
@@ -2344,7 +2344,7 @@
       <data key="e_t_wuchs">6.09018414</data>
       <data key="e_SGC">0.72289157</data>
       <data key="e_SSGC">0.04819277</data>
-      <data key="e_p">4.88049e-005</data>
+      <data key="e_p">4.88049e-05</data>
       <data key="e_sum_sims">1.889984444</data>
     </edge>
     <edge source="n62" target="n118">
@@ -2357,7 +2357,7 @@
       <data key="e_t_wuchs">5.81268273</data>
       <data key="e_SGC">0.72289157</data>
       <data key="e_SSGC">0.01204819</data>
-      <data key="e_p">4.88049e-005</data>
+      <data key="e_p">4.88049e-05</data>
       <data key="e_sum_sims">1.844349413</data>
     </edge>
     <edge source="n63" target="n68">
@@ -2370,7 +2370,7 @@
       <data key="e_t_wuchs">6.00845882</data>
       <data key="e_SGC">0.71276596</data>
       <data key="e_SSGC">0.05319149</data>
-      <data key="e_p">3.69633e-005</data>
+      <data key="e_p">3.69633e-05</data>
       <data key="e_sum_sims">1.842418992</data>
     </edge>
     <edge source="n64" target="n129">
@@ -2383,7 +2383,7 @@
       <data key="e_t_wuchs">7.67991796</data>
       <data key="e_SGC">0.72093023</data>
       <data key="e_SSGC">0.04651163</data>
-      <data key="e_p">4.17374e-005</data>
+      <data key="e_p">4.17374e-05</data>
       <data key="e_sum_sims">2.128957106</data>
     </edge>
     <edge source="n65" target="n69">
@@ -2396,7 +2396,7 @@
       <data key="e_t_wuchs">6.34938743</data>
       <data key="e_SGC">0.73033708</data>
       <data key="e_SSGC">0.02247191</data>
-      <data key="e_p">1.38648e-005</data>
+      <data key="e_p">1.38648e-05</data>
       <data key="e_sum_sims">1.925799013</data>
     </edge>
     <edge source="n65" target="n96">
@@ -2409,7 +2409,7 @@
       <data key="e_t_wuchs">4.99881071</data>
       <data key="e_SGC">0.76190476</data>
       <data key="e_SSGC">0.04761905</data>
-      <data key="e_p">3.21596e-005</data>
+      <data key="e_p">3.21596e-05</data>
       <data key="e_sum_sims">1.797751221</data>
     </edge>
     <edge source="n66" target="n100">
@@ -2422,7 +2422,7 @@
       <data key="e_t_wuchs">6.5462299</data>
       <data key="e_SGC">0.7761194</data>
       <data key="e_SSGC">0.04477612</data>
-      <data key="e_p">6.1761e-006</data>
+      <data key="e_p">6.1761e-06</data>
       <data key="e_sum_sims">2.05818037</data>
     </edge>
     <edge source="n66" target="n104">
@@ -2435,7 +2435,7 @@
       <data key="e_t_wuchs">5.83206354</data>
       <data key="e_SGC">0.79104478</data>
       <data key="e_SSGC">0.01492537</data>
-      <data key="e_p">1.8922e-006</data>
+      <data key="e_p">1.8922e-06</data>
       <data key="e_sum_sims">1.957419684</data>
     </edge>
     <edge source="n67" target="n68">
@@ -2448,7 +2448,7 @@
       <data key="e_t_wuchs">8.25316057</data>
       <data key="e_SGC">0.73</data>
       <data key="e_SSGC">0.06</data>
-      <data key="e_p">4.2249e-006</data>
+      <data key="e_p">4.2249e-06</data>
       <data key="e_sum_sims">2.193745667</data>
     </edge>
     <edge source="n67" target="n70">
@@ -2461,7 +2461,7 @@
       <data key="e_t_wuchs">4.94795793</data>
       <data key="e_SGC">0.82</data>
       <data key="e_SSGC">0.02</data>
-      <data key="e_p">6.0258e-006</data>
+      <data key="e_p">6.0258e-06</data>
       <data key="e_sum_sims">1.892006883</data>
     </edge>
     <edge source="n67" target="n71">
@@ -2474,7 +2474,7 @@
       <data key="e_t_wuchs">6.29232629</data>
       <data key="e_SGC">0.70833333</data>
       <data key="e_SSGC">0.05208333</data>
-      <data key="e_p">4.45571e-005</data>
+      <data key="e_p">4.45571e-05</data>
       <data key="e_sum_sims">1.879940629</data>
     </edge>
     <edge source="n67" target="n72">
@@ -2487,7 +2487,7 @@
       <data key="e_t_wuchs">10.10200739</data>
       <data key="e_SGC">0.78873239</data>
       <data key="e_SSGC">0.05633803</data>
-      <data key="e_p">1.1399e-006</data>
+      <data key="e_p">1.1399e-06</data>
       <data key="e_sum_sims">2.569090799</data>
     </edge>
     <edge source="n67" target="n76">
@@ -2500,7 +2500,7 @@
       <data key="e_t_wuchs">9.36194844</data>
       <data key="e_SGC">0.72483221</data>
       <data key="e_SSGC">0.04697987</data>
-      <data key="e_p">4.05e-008</data>
+      <data key="e_p">4.05e-08</data>
       <data key="e_sum_sims">2.270895464</data>
     </edge>
     <edge source="n67" target="n80">
@@ -2513,7 +2513,7 @@
       <data key="e_t_wuchs">7.56522704</data>
       <data key="e_SGC">0.725</data>
       <data key="e_SSGC">0.01666667</data>
-      <data key="e_p">8.244e-007</data>
+      <data key="e_p">8.244e-07</data>
       <data key="e_sum_sims">2.051396604</data>
     </edge>
     <edge source="n67" target="n89">
@@ -2526,7 +2526,7 @@
       <data key="e_t_wuchs">7.83812893</data>
       <data key="e_SGC">0.80327869</data>
       <data key="e_SSGC">0.01639344</data>
-      <data key="e_p">2.1652e-006</data>
+      <data key="e_p">2.1652e-06</data>
       <data key="e_sum_sims">2.298367663</data>
     </edge>
     <edge source="n67" target="n106">
@@ -2539,7 +2539,7 @@
       <data key="e_t_wuchs">9.98030909</data>
       <data key="e_SGC">0.7625</data>
       <data key="e_SSGC">0.0625</data>
-      <data key="e_p">2.6564e-006</data>
+      <data key="e_p">2.6564e-06</data>
       <data key="e_sum_sims">2.507315379</data>
     </edge>
     <edge source="n67" target="n116">
@@ -2552,7 +2552,7 @@
       <data key="e_t_wuchs">6.94120736</data>
       <data key="e_SGC">0.76119403</data>
       <data key="e_SSGC">0.02985075</data>
-      <data key="e_p">1.90341e-005</data>
+      <data key="e_p">1.90341e-05</data>
       <data key="e_sum_sims">2.104904746</data>
     </edge>
     <edge source="n67" target="n120">
@@ -2565,7 +2565,7 @@
       <data key="e_t_wuchs">10.40842999</data>
       <data key="e_SGC">0.79381443</data>
       <data key="e_SSGC">0.03092784</data>
-      <data key="e_p">7.1e-009</data>
+      <data key="e_p">7.1e-09</data>
       <data key="e_sum_sims">2.562794939</data>
     </edge>
     <edge source="n67" target="n123">
@@ -2578,7 +2578,7 @@
       <data key="e_t_wuchs">7.83476251</data>
       <data key="e_SGC">0.725</data>
       <data key="e_SSGC">0.0625</data>
-      <data key="e_p">5.69941e-005</data>
+      <data key="e_p">5.69941e-05</data>
       <data key="e_sum_sims">2.169729471</data>
     </edge>
     <edge source="n68" target="n98">
@@ -2604,7 +2604,7 @@
       <data key="e_t_wuchs">8.05670207</data>
       <data key="e_SGC">0.7027027</data>
       <data key="e_SSGC">0.05405405</data>
-      <data key="e_p">8.14e-007</data>
+      <data key="e_p">8.14e-07</data>
       <data key="e_sum_sims">2.061826387</data>
     </edge>
     <edge source="n68" target="n120">
@@ -2630,7 +2630,7 @@
       <data key="e_t_wuchs">6.3024352</data>
       <data key="e_SGC">0.74324324</data>
       <data key="e_SSGC">0.04054054</data>
-      <data key="e_p">2.85273e-005</data>
+      <data key="e_p">2.85273e-05</data>
       <data key="e_sum_sims">1.96710409</data>
     </edge>
     <edge source="n70" target="n71">
@@ -2643,7 +2643,7 @@
       <data key="e_t_wuchs">8.47883064</data>
       <data key="e_SGC">0.70175439</data>
       <data key="e_SSGC">0.05847953</data>
-      <data key="e_p">1.316e-007</data>
+      <data key="e_p">1.316e-07</data>
       <data key="e_sum_sims">2.094800604</data>
     </edge>
     <edge source="n70" target="n72">
@@ -2656,7 +2656,7 @@
       <data key="e_t_wuchs">13.31552881</data>
       <data key="e_SGC">0.71186441</data>
       <data key="e_SSGC">0.03954802</data>
-      <data key="e_p">1.73e-008</data>
+      <data key="e_p">1.73e-08</data>
       <data key="e_sum_sims">2.751827101</data>
     </edge>
     <edge source="n70" target="n95">
@@ -2669,7 +2669,7 @@
       <data key="e_t_wuchs">8.83169293</data>
       <data key="e_SGC">0.71751412</data>
       <data key="e_SSGC">0.03954802</data>
-      <data key="e_p">7.1e-009</data>
+      <data key="e_p">7.1e-09</data>
       <data key="e_sum_sims">2.154834423</data>
     </edge>
     <edge source="n71" target="n72">
@@ -2695,7 +2695,7 @@
       <data key="e_t_wuchs">6.96913493</data>
       <data key="e_SGC">0.71296296</data>
       <data key="e_SSGC">0.02777778</data>
-      <data key="e_p">9.584e-006</data>
+      <data key="e_p">9.584e-06</data>
       <data key="e_sum_sims">1.968626493</data>
     </edge>
     <edge source="n75" target="n110">
@@ -2708,7 +2708,7 @@
       <data key="e_t_wuchs">7.3556908</data>
       <data key="e_SGC">0.70588235</data>
       <data key="e_SSGC">0.02941176</data>
-      <data key="e_p">1.5712e-006</data>
+      <data key="e_p">1.5712e-06</data>
       <data key="e_sum_sims">1.97634896</data>
     </edge>
     <edge source="n76" target="n104">
@@ -2721,7 +2721,7 @@
       <data key="e_t_wuchs">8.37659172</data>
       <data key="e_SGC">0.72483221</data>
       <data key="e_SSGC">0.03355705</data>
-      <data key="e_p">4.05e-008</data>
+      <data key="e_p">4.05e-08</data>
       <data key="e_sum_sims">2.129608202</data>
     </edge>
     <edge source="n77" target="n94">
@@ -2734,7 +2734,7 @@
       <data key="e_t_wuchs">6.45964289</data>
       <data key="e_SGC">0.73493976</data>
       <data key="e_SSGC">0.06024096</data>
-      <data key="e_p">1.86218e-005</data>
+      <data key="e_p">1.86218e-05</data>
       <data key="e_sum_sims">1.961636759</data>
     </edge>
     <edge source="n77" target="n113">
@@ -2747,7 +2747,7 @@
       <data key="e_t_wuchs">5.34186457</data>
       <data key="e_SGC">0.74074074</data>
       <data key="e_SSGC">0.01234568</data>
-      <data key="e_p">1.46868e-005</data>
+      <data key="e_p">1.46868e-05</data>
       <data key="e_sum_sims">1.787678687</data>
     </edge>
     <edge source="n77" target="n124">
@@ -2760,7 +2760,7 @@
       <data key="e_t_wuchs">4.96662995</data>
       <data key="e_SGC">0.73333333</data>
       <data key="e_SSGC">0.02666667</data>
-      <data key="e_p">5.31213e-005</data>
+      <data key="e_p">5.31213e-05</data>
       <data key="e_sum_sims">1.730001995</data>
     </edge>
     <edge source="n80" target="n125">
@@ -2773,7 +2773,7 @@
       <data key="e_t_wuchs">6.54099225</data>
       <data key="e_SGC">0.725</data>
       <data key="e_SSGC">0.05</data>
-      <data key="e_p">8.244e-007</data>
+      <data key="e_p">8.244e-07</data>
       <data key="e_sum_sims">1.893350135</data>
     </edge>
     <edge source="n81" target="n94">
@@ -2786,7 +2786,7 @@
       <data key="e_t_wuchs">6.84516679</data>
       <data key="e_SGC">0.77227723</data>
       <data key="e_SSGC">0.02970297</data>
-      <data key="e_p">4.43e-008</data>
+      <data key="e_p">4.43e-08</data>
       <data key="e_sum_sims">2.021649889</data>
     </edge>
     <edge source="n82" target="n87">
@@ -2799,7 +2799,7 @@
       <data key="e_t_wuchs">6.20864009</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0.01190476</data>
-      <data key="e_p">8.5683e-005</data>
+      <data key="e_p">8.5683e-05</data>
       <data key="e_sum_sims">1.898299589</data>
     </edge>
     <edge source="n83" target="n96">
@@ -2812,7 +2812,7 @@
       <data key="e_t_wuchs">8.14610167</data>
       <data key="e_SGC">0.73239437</data>
       <data key="e_SSGC">0.05633803</data>
-      <data key="e_p">8.98887e-005</data>
+      <data key="e_p">8.98887e-05</data>
       <data key="e_sum_sims">2.244606937</data>
     </edge>
     <edge source="n84" target="n133">
@@ -2825,7 +2825,7 @@
       <data key="e_t_wuchs">8.22006564</data>
       <data key="e_SGC">0.73972603</data>
       <data key="e_SSGC">0.02054795</data>
-      <data key="e_p">6.9e-009</data>
+      <data key="e_p">6.9e-09</data>
       <data key="e_sum_sims">2.125532284</data>
     </edge>
     <edge source="n85" target="n93">
@@ -2838,7 +2838,7 @@
       <data key="e_t_wuchs">5.8863084</data>
       <data key="e_SGC">0.70212766</data>
       <data key="e_SSGC">0.06382979</data>
-      <data key="e_p">8.87694e-005</data>
+      <data key="e_p">8.87694e-05</data>
       <data key="e_sum_sims">1.81175516</data>
     </edge>
     <edge source="n85" target="n103">
@@ -2851,7 +2851,7 @@
       <data key="e_t_wuchs">7.98259073</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0.07142857</data>
-      <data key="e_p">5.7447e-006</data>
+      <data key="e_p">5.7447e-06</data>
       <data key="e_sum_sims">2.116452213</data>
     </edge>
     <edge source="n85" target="n111">
@@ -2864,7 +2864,7 @@
       <data key="e_t_wuchs">9.08652716</data>
       <data key="e_SGC">0.73770492</data>
       <data key="e_SSGC">0.04918033</data>
-      <data key="e_p">1.512e-007</data>
+      <data key="e_p">1.512e-07</data>
       <data key="e_sum_sims">2.283221196</data>
     </edge>
     <edge source="n88" target="n115">
@@ -2877,7 +2877,7 @@
       <data key="e_t_wuchs">7.53357057</data>
       <data key="e_SGC">0.70689655</data>
       <data key="e_SSGC">0.06896552</data>
-      <data key="e_p">8.3236e-006</data>
+      <data key="e_p">8.3236e-06</data>
       <data key="e_sum_sims">2.035093057</data>
     </edge>
     <edge source="n88" target="n124">
@@ -2890,7 +2890,7 @@
       <data key="e_t_wuchs">7.42679505</data>
       <data key="e_SGC">0.74285714</data>
       <data key="e_SSGC">0.08571429</data>
-      <data key="e_p">4.82849e-005</data>
+      <data key="e_p">4.82849e-05</data>
       <data key="e_sum_sims">2.152059945</data>
     </edge>
     <edge source="n90" target="n91">
@@ -2903,7 +2903,7 @@
       <data key="e_t_wuchs">8.94915042</data>
       <data key="e_SGC">0.71830986</data>
       <data key="e_SSGC">0.07981221</data>
-      <data key="e_p">2e-010</data>
+      <data key="e_p">2e-10</data>
       <data key="e_sum_sims">2.136856052</data>
     </edge>
     <edge source="n91" target="n106">
@@ -2916,7 +2916,7 @@
       <data key="e_t_wuchs">8.81825271</data>
       <data key="e_SGC">0.70157068</data>
       <data key="e_SSGC">0.04188482</data>
-      <data key="e_p">2.53e-008</data>
+      <data key="e_p">2.53e-08</data>
       <data key="e_sum_sims">2.122296231</data>
     </edge>
     <edge source="n93" target="n103">
@@ -2929,7 +2929,7 @@
       <data key="e_t_wuchs">5.69732266</data>
       <data key="e_SGC">0.80681818</data>
       <data key="e_SSGC">0.01136364</data>
-      <data key="e_p">8.6e-009</data>
+      <data key="e_p">8.6e-09</data>
       <data key="e_sum_sims">1.897817766</data>
     </edge>
     <edge source="n97" target="n98">
@@ -2942,7 +2942,7 @@
       <data key="e_t_wuchs">8.17006959</data>
       <data key="e_SGC">0.72</data>
       <data key="e_SSGC">0.02</data>
-      <data key="e_p">7.09e-008</data>
+      <data key="e_p">7.09e-08</data>
       <data key="e_sum_sims">2.093231719</data>
     </edge>
     <edge source="n99" target="n100">
@@ -2955,7 +2955,7 @@
       <data key="e_t_wuchs">6.39281182</data>
       <data key="e_SGC">0.70491803</data>
       <data key="e_SSGC">0.05737705</data>
-      <data key="e_p">5.9887e-006</data>
+      <data key="e_p">5.9887e-06</data>
       <data key="e_sum_sims">1.846670632</data>
     </edge>
     <edge source="n99" target="n104">
@@ -2968,7 +2968,7 @@
       <data key="e_t_wuchs">8.41991268</data>
       <data key="e_SGC">0.7704918</data>
       <data key="e_SSGC">0.04918033</data>
-      <data key="e_p">2.3e-009</data>
+      <data key="e_p">2.3e-09</data>
       <data key="e_sum_sims">2.220304258</data>
     </edge>
     <edge source="n100" target="n104">
@@ -2994,7 +2994,7 @@
       <data key="e_t_wuchs">6.95387096</data>
       <data key="e_SGC">0.70547945</data>
       <data key="e_SSGC">0.02739726</data>
-      <data key="e_p">6.848e-007</data>
+      <data key="e_p">6.848e-07</data>
       <data key="e_sum_sims">1.900955706</data>
     </edge>
     <edge source="n101" target="n112">
@@ -3007,7 +3007,7 @@
       <data key="e_t_wuchs">9.370425</data>
       <data key="e_SGC">0.74050633</data>
       <data key="e_SSGC">0.0443038</data>
-      <data key="e_p">1.5e-009</data>
+      <data key="e_p">1.5e-09</data>
       <data key="e_sum_sims">2.27644187</data>
     </edge>
     <edge source="n101" target="n115">
@@ -3020,7 +3020,7 @@
       <data key="e_t_wuchs">8.82367569</data>
       <data key="e_SGC">0.73275862</data>
       <data key="e_SSGC">0.06896552</data>
-      <data key="e_p">5.337e-007</data>
+      <data key="e_p">5.337e-07</data>
       <data key="e_sum_sims">2.250503279</data>
     </edge>
     <edge source="n103" target="n124">
@@ -3033,7 +3033,7 @@
       <data key="e_t_wuchs">4.18159877</data>
       <data key="e_SGC">0.80392157</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">1.41921e-005</data>
+      <data key="e_p">1.41921e-05</data>
       <data key="e_sum_sims">1.731103107</data>
     </edge>
     <edge source="n105" target="n107">
@@ -3046,7 +3046,7 @@
       <data key="e_t_wuchs">8.39475027</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0.03968254</data>
-      <data key="e_p">1.504e-006</data>
+      <data key="e_p">1.504e-06</data>
       <data key="e_sum_sims">2.154195307</data>
     </edge>
     <edge source="n105" target="n109">
@@ -3059,7 +3059,7 @@
       <data key="e_t_wuchs">6.88455745</data>
       <data key="e_SGC">0.75206612</data>
       <data key="e_SSGC">0.03305785</data>
-      <data key="e_p">2.93e-008</data>
+      <data key="e_p">2.93e-08</data>
       <data key="e_sum_sims">1.972632605</data>
     </edge>
     <edge source="n105" target="n113">
@@ -3072,7 +3072,7 @@
       <data key="e_t_wuchs">7.81198574</data>
       <data key="e_SGC">0.73195876</data>
       <data key="e_SSGC">0</data>
-      <data key="e_p">4.8992e-006</data>
+      <data key="e_p">4.8992e-06</data>
       <data key="e_sum_sims">2.136567824</data>
     </edge>
     <edge source="n105" target="n123">
@@ -3098,7 +3098,7 @@
       <data key="e_t_wuchs">7.86915086</data>
       <data key="e_SGC">0.71428571</data>
       <data key="e_SSGC">0.05555556</data>
-      <data key="e_p">1.504e-006</data>
+      <data key="e_p">1.504e-06</data>
       <data key="e_sum_sims">2.076767786</data>
     </edge>
     <edge source="n106" target="n107">
@@ -3111,7 +3111,7 @@
       <data key="e_t_wuchs">12.02206847</data>
       <data key="e_SGC">0.7038835</data>
       <data key="e_SSGC">0.08737864</data>
-      <data key="e_p">4.8e-009</data>
+      <data key="e_p">4.8e-09</data>
       <data key="e_sum_sims">2.549128717</data>
     </edge>
     <edge source="n106" target="n108">
@@ -3124,7 +3124,7 @@
       <data key="e_t_wuchs">13.07455244</data>
       <data key="e_SGC">0.7184466</data>
       <data key="e_SSGC">0.05339806</data>
-      <data key="e_p">4e-010</data>
+      <data key="e_p">4e-10</data>
       <data key="e_sum_sims">2.700220694</data>
     </edge>
     <edge source="n106" target="n120">
@@ -3137,7 +3137,7 @@
       <data key="e_t_wuchs">9.72829787</data>
       <data key="e_SGC">0.70873786</data>
       <data key="e_SSGC">0.0631068</data>
-      <data key="e_p">2.1e-009</data>
+      <data key="e_p">2.1e-09</data>
       <data key="e_sum_sims">2.243568697</data>
     </edge>
     <edge source="n106" target="n123">
@@ -3163,7 +3163,7 @@
       <data key="e_t_wuchs">13.80608685</data>
       <data key="e_SGC">0.70512821</data>
       <data key="e_SSGC">0.07692308</data>
-      <data key="e_p">3e-010</data>
+      <data key="e_p">3e-10</data>
       <data key="e_sum_sims">2.756529875</data>
     </edge>
     <edge source="n107" target="n109">
@@ -3176,7 +3176,7 @@
       <data key="e_t_wuchs">8.81953703</data>
       <data key="e_SGC">0.74380165</data>
       <data key="e_SSGC">0.04132231</data>
-      <data key="e_p">8.16e-008</data>
+      <data key="e_p">8.16e-08</data>
       <data key="e_sum_sims">2.252874343</data>
     </edge>
     <edge source="n107" target="n111">
@@ -3189,7 +3189,7 @@
       <data key="e_t_wuchs">8.25210119</data>
       <data key="e_SGC">0.72131148</data>
       <data key="e_SSGC">0.04098361</data>
-      <data key="e_p">1.0139e-006</data>
+      <data key="e_p">1.0139e-06</data>
       <data key="e_sum_sims">2.146619389</data>
     </edge>
     <edge source="n107" target="n113">
@@ -3202,7 +3202,7 @@
       <data key="e_t_wuchs">7.10058257</data>
       <data key="e_SGC">0.71134021</data>
       <data key="e_SSGC">0.02061856</data>
-      <data key="e_p">3.14204e-005</data>
+      <data key="e_p">3.14204e-05</data>
       <data key="e_sum_sims">2.008206897</data>
     </edge>
     <edge source="n107" target="n123">
@@ -3228,7 +3228,7 @@
       <data key="e_t_wuchs">9.41773925</data>
       <data key="e_SGC">0.72891566</data>
       <data key="e_SSGC">0.04819277</data>
-      <data key="e_p">3.7e-009</data>
+      <data key="e_p">3.7e-09</data>
       <data key="e_sum_sims">2.261967595</data>
     </edge>
     <edge source="n108" target="n123">
@@ -3254,7 +3254,7 @@
       <data key="e_t_wuchs">8.92695544</data>
       <data key="e_SGC">0.74166667</data>
       <data key="e_SSGC">0.05</data>
-      <data key="e_p">1.192e-007</data>
+      <data key="e_p">1.192e-07</data>
       <data key="e_sum_sims">2.267669934</data>
     </edge>
     <edge source="n111" target="n123">
@@ -3267,7 +3267,7 @@
       <data key="e_t_wuchs">8.47763778</data>
       <data key="e_SGC">0.70247934</data>
       <data key="e_SSGC">0.02479339</data>
-      <data key="e_p">8.4071e-006</data>
+      <data key="e_p">8.4071e-06</data>
       <data key="e_sum_sims">2.162270608</data>
     </edge>
     <edge source="n112" target="n130">
@@ -3280,7 +3280,7 @@
       <data key="e_t_wuchs">11.16049127</data>
       <data key="e_SGC">0.70886076</data>
       <data key="e_SSGC">0.07594937</data>
-      <data key="e_p">1.515e-007</data>
+      <data key="e_p">1.515e-07</data>
       <data key="e_sum_sims">2.490030617</data>
     </edge>
     <edge source="n112" target="n134">
@@ -3293,7 +3293,7 @@
       <data key="e_t_wuchs">11.27871381</data>
       <data key="e_SGC">0.7278481</data>
       <data key="e_SSGC">0.06962025</data>
-      <data key="e_p">1.02e-008</data>
+      <data key="e_p">1.02e-08</data>
       <data key="e_sum_sims">2.524741431</data>
     </edge>
     <edge source="n113" target="n123">
@@ -3306,7 +3306,7 @@
       <data key="e_t_wuchs">7.05821861</data>
       <data key="e_SGC">0.70833333</data>
       <data key="e_SSGC">0.03125</data>
-      <data key="e_p">4.45571e-005</data>
+      <data key="e_p">4.45571e-05</data>
       <data key="e_sum_sims">2.000675641</data>
     </edge>
     <edge source="n117" target="n128">
@@ -3319,7 +3319,7 @@
       <data key="e_t_wuchs">6.58706811</data>
       <data key="e_SGC">0.70873786</data>
       <data key="e_SSGC">0.00970874</data>
-      <data key="e_p">2.26611e-005</data>
+      <data key="e_p">2.26611e-05</data>
       <data key="e_sum_sims">1.913737731</data>
     </edge>
     <edge source="n123" target="n126">
@@ -3332,7 +3332,7 @@
       <data key="e_t_wuchs">10.25925503</data>
       <data key="e_SGC">0.73333333</data>
       <data key="e_SSGC">0.05454545</data>
-      <data key="e_p">2e-009</data>
+      <data key="e_p">2e-09</data>
       <data key="e_sum_sims">2.384483503</data>
     </edge>
     <edge source="n129" target="n132">

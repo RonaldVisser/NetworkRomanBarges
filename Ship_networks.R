@@ -161,6 +161,7 @@ for (n in 1:4) {
   exportImage(paste0("export/cytoscape_image/Network_series_ship_WOS7_ZWS6_type_" ,n, "_shipparts.svg"),type = "SVG")
   exportImage(paste0("export/cytoscape_image/Network_series_ship_WOS7_ZWS6_type_" ,n, "_shipparts.png"),type = "PNG", resolution=600, zoom=500)
   # timber shapes
+  copyVisualStyle("WhiteNodesLabel", paste0("ship_WOS7_ZWS6_timbershape_type_", n))
   setNodeColorMapping(table.column = 'stamcode', table.column.values = timbershapes , colors = polychrome(length(timbershapes)), mapping.type = "d", style.name = paste0("ship_WOS7_ZWS6_timbershape_type_", n))
   exportImage(paste0("export/cytoscape_image/Network_series_ship_WOS7_ZWS6_type_" ,n, "_timbershapes.svg"),type = "SVG")
   exportImage(paste0("export/cytoscape_image/Network_series_ship_WOS7_ZWS6_type_" ,n, "_timbershapes.png"),type = "PNG", resolution=600, zoom=500)
@@ -348,6 +349,8 @@ closeSession(save.before.closing = TRUE, filename = "export/Means_ships.cys")
 commandQuit() # close Cytoscape to empty memory 
 
 write.csv2(netw_stats, "export/netw_stats.csv", row.names = FALSE)
+
+save.image(file = "Barges_Networks.RData")
 
 
 dbDisconnect(con)
