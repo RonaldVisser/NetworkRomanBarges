@@ -73,7 +73,7 @@ for (n in 1:4) {
   no_edges <- gsize(get(paste0(network_prefix,n)))
   clust_coef <- transitivity(get(paste0(network_prefix,n)), type="average")
   avg_degree <- mean(degree(get(paste0(network_prefix,n))))
-  max_radius <- max(eccentricity(get(paste0(network_prefix,n))))
+  max_radius <- max(eccentricity(get(paste0(network_prefix,n)))) # diameter of the network
   netw_stats <- rbind(netw_stats, data.frame(network="series", ship="all_series", type=n, 
                                              no_comp=no_comp, no_nodes = no_nodes, no_edges = no_edges,
                                              clust_coef = clust_coef, avg_degree = avg_degree, max_radius = max_radius))
