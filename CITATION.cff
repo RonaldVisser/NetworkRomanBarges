@@ -6,8 +6,8 @@ authors:
     orcid: "https://orcid.org/0000-0001-6966-1729"
   - family-names: "Vorst"
     given-names: "Yardeni"
-title: "Analyses, data and figures related to: "Connecting ships: Using dendrochronological network analysis to determine the wood provenance of Roman-period river barges found in the Lower Rhine region and visualise wood use patterns"
+title: "Analyses, data and figures related to: Connecting ships: Using dendrochronological network analysis to determine the wood provenance of Roman-period river barges found in the Lower Rhine region and visualise wood use patterns"
 version: 1.0.0
 doi: 10.5281/zenodo.7243538
 date-released: 2022-10-24
-url: https://github.com/RonaldVisser/NetworkRomanBarges
+url: "https://github.com/RonaldVisser/NetworkRomanBarges"
